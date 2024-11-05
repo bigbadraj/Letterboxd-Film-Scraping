@@ -1,0 +1,87 @@
+The top 2,500 Narrative Feature Films on Letterboxd.
+
+Last updated: November 4th, 2024
+
+Film eligibility criteria:
+-- Cannot be a short film (minimum length of 40 minutes).
+-- Cannot be a television miniseries.
+-- Cannot be a compilation of short serials.
+-- Cannot be a documentary.
+-- Cannot be a non-narrative project (paint drying for 10 hours, a timelapse of the construction of a building, abstract images, etc).
+-- Cannot be a recording of a live performance (stand-up specials, recordings of live theater, concert films, etc).
+-- Cannot be a television special episode, though feature film spin-offs from television shows are allowed.
+-- Feature film spin-offs from television shows must contain original material, not just recap or compilation of existing material.
+-- Entries that have scores inflated because they share a name with a popular television show are removed, as I notice them.
+
+The ten most appearing directors:
+Masaki Kobayashi: 2
+Akira Kurosawa: 2
+Francis Ford Coppola: 2
+Elem Klimov: 1
+Sidney Lumet: 1
+Frank Darabont: 1
+Bong Joon-ho: 1
+
+The ten most appearing actors:
+Tatsuya Nakadai: 4
+Yoshio Inaba: 2
+Kōichi Hayashi: 2
+Rudy Bond: 2
+Toshirō Mifune: 2
+Takashi Shimura: 2
+Minoru Chiaki: 2
+Isao Kimura: 2
+Kamatari Fujiwara: 2
+Yoshio Tsuchiya: 2
+
+The ten most appearing decades:
+1960: 3
+1950: 2
+1970: 2
+1980: 1
+1990: 1
+2010: 1
+
+The ten most appearing genres:
+Drama: 10
+Crime: 4
+History: 2
+Action: 2
+War: 2
+Mystery: 1
+Comedy: 1
+Thriller: 1
+
+The ten most appearing studios:
+TOHO: 2
+Paramount Pictures: 2
+Shochiku: 1
+Belarusfilm: 1
+Mosfilm: 1
+United Artists: 1
+Orion-Nova Productions: 1
+The Coppola Company: 1
+American Zoetrope: 1
+Kurosawa Production: 1
+
+The ten most appearing languages:
+English: 7
+Japanese: 5
+Russian: 3
+German: 2
+Italian: 2
+Latin: 2
+Korean: 2
+Belarusian: 1
+Spanish: 1
+Chinese: 1
+
+The ten most appearing countries:
+Japan: 4
+USA: 4
+USSR: 1
+South Korea: 1
+
+Link to web scraping code: https://github.com/bigbadraj/Letterboxd-Film-Scraping (It probably is super inefficient and messy, but it does run)
+
+If you notice any movies you believe should/should not be included just let me know!
