@@ -1,0 +1,602 @@
+[
+    {
+        "ListNumber": 1,
+        "Title": "Grave of the Fireflies",
+        "Year": "1988",
+        "ID": "44558"
+    },
+    {
+        "ListNumber": 2,
+        "Title": "Spirited Away",
+        "Year": "2001",
+        "ID": "51921"
+    },
+    {
+        "ListNumber": 3,
+        "Title": "Spider-Man: Across the Spider-Verse",
+        "Year": "2023",
+        "ID": "497631"
+    },
+    {
+        "ListNumber": 4,
+        "Title": "Spider-Man: Into the Spider-Verse",
+        "Year": "2018",
+        "ID": "251943"
+    },
+    {
+        "ListNumber": 5,
+        "Title": "Perfect Blue",
+        "Year": "1997",
+        "ID": "46175"
+    },
+    {
+        "ListNumber": 6,
+        "Title": "It's Such a Beautiful Day",
+        "Year": "2012",
+        "ID": "420137"
+    },
+    {
+        "ListNumber": 7,
+        "Title": "Princess Mononoke",
+        "Year": "1997",
+        "ID": "51922"
+    },
+    {
+        "ListNumber": 8,
+        "Title": "Look Back",
+        "Year": "2024",
+        "ID": "1127669"
+    },
+    {
+        "ListNumber": 9,
+        "Title": "Howl's Moving Castle",
+        "Year": "2004",
+        "ID": "49062"
+    },
+    {
+        "ListNumber": 10,
+        "Title": "Fantastic Mr. Fox",
+        "Year": "2009",
+        "ID": "46344"
+    },
+    {
+        "ListNumber": 11,
+        "Title": "Akira",
+        "Year": "1988",
+        "ID": "51902"
+    },
+    {
+        "ListNumber": 12,
+        "Title": "The Wild Robot",
+        "Year": "2024",
+        "ID": "1071196"
+    },
+    {
+        "ListNumber": 13,
+        "Title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "Year": "2021",
+        "ID": "208877"
+    },
+    {
+        "ListNumber": 14,
+        "Title": "The Iron Giant",
+        "Year": "1999",
+        "ID": "46280"
+    },
+    {
+        "ListNumber": 15,
+        "Title": "The Tale of The Princess Kaguya",
+        "Year": "2013",
+        "ID": "112956"
+    },
+    {
+        "ListNumber": 16,
+        "Title": "Marcel the Shell with Shoes On",
+        "Year": "2021",
+        "ID": "781326"
+    },
+    {
+        "ListNumber": 17,
+        "Title": "Mary and Max",
+        "Year": "2009",
+        "ID": "36917"
+    },
+    {
+        "ListNumber": 18,
+        "Title": "The First Slam Dunk",
+        "Year": "2022",
+        "ID": "702355"
+    },
+    {
+        "ListNumber": 19,
+        "Title": "Millennium Actress",
+        "Year": "2001",
+        "ID": "29884"
+    },
+    {
+        "ListNumber": 20,
+        "Title": "The Lion King",
+        "Year": "1994",
+        "ID": "47677"
+    },
+    {
+        "ListNumber": 21,
+        "Title": "Your Name.",
+        "Year": "2016",
+        "ID": "307684"
+    },
+    {
+        "ListNumber": 22,
+        "Title": "Tokyo Godfathers",
+        "Year": "2003",
+        "ID": "43921"
+    },
+    {
+        "ListNumber": 23,
+        "Title": "Kizumonogatari Part 3: Reiketsu",
+        "Year": "2017",
+        "ID": "296041"
+    },
+    {
+        "ListNumber": 24,
+        "Title": "Ratatouille",
+        "Year": "2007",
+        "ID": "50558"
+    },
+    {
+        "ListNumber": 25,
+        "Title": "Song of the Sea",
+        "Year": "2014",
+        "ID": "88487"
+    },
+    {
+        "ListNumber": 26,
+        "Title": "WALL·E",
+        "Year": "2008",
+        "ID": "45994"
+    },
+    {
+        "ListNumber": 27,
+        "Title": "Flee",
+        "Year": "2021",
+        "ID": "605193"
+    },
+    {
+        "ListNumber": 28,
+        "Title": "Wolfwalkers",
+        "Year": "2020",
+        "ID": "373808"
+    },
+    {
+        "ListNumber": 29,
+        "Title": "Son of the White Mare",
+        "Year": "1981",
+        "ID": "23926"
+    },
+    {
+        "ListNumber": 30,
+        "Title": "My Neighbor Totoro",
+        "Year": "1988",
+        "ID": "47756"
+    },
+    {
+        "ListNumber": 31,
+        "Title": "Persepolis",
+        "Year": "2007",
+        "ID": "50602"
+    },
+    {
+        "ListNumber": 32,
+        "Title": "Mind Game",
+        "Year": "2004",
+        "ID": "38248"
+    },
+    {
+        "ListNumber": 33,
+        "Title": "Azur & Asmar: The Princes' Quest",
+        "Year": "2006",
+        "ID": "39919"
+    },
+    {
+        "ListNumber": 34,
+        "Title": "Night Is Short, Walk On Girl",
+        "Year": "2017",
+        "ID": "363460"
+    },
+    {
+        "ListNumber": 35,
+        "Title": "Coraline",
+        "Year": "2009",
+        "ID": "42779"
+    },
+    {
+        "ListNumber": 36,
+        "Title": "A Silent Voice: The Movie",
+        "Year": "2016",
+        "ID": "313343"
+    },
+    {
+        "ListNumber": 37,
+        "Title": "My Life as a Zucchini",
+        "Year": "2016",
+        "ID": "327909"
+    },
+    {
+        "ListNumber": 38,
+        "Title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "Year": "2003",
+        "ID": "45654"
+    },
+    {
+        "ListNumber": 39,
+        "Title": "Whisper of the Heart",
+        "Year": "1995",
+        "ID": "26713"
+    },
+    {
+        "ListNumber": 40,
+        "Title": "Nausicaä of the Valley of the Wind",
+        "Year": "1984",
+        "ID": "51969"
+    },
+    {
+        "ListNumber": 41,
+        "Title": "Angel's Egg",
+        "Year": "1985",
+        "ID": "41990"
+    },
+    {
+        "ListNumber": 42,
+        "Title": "Puss in Boots: The Last Wish",
+        "Year": "2022",
+        "ID": "242285"
+    },
+    {
+        "ListNumber": 43,
+        "Title": "Kiki's Delivery Service",
+        "Year": "1989",
+        "ID": "41360"
+    },
+    {
+        "ListNumber": 44,
+        "Title": "Klaus",
+        "Year": "2019",
+        "ID": "438751"
+    },
+    {
+        "ListNumber": 45,
+        "Title": "The Garden of Sinners: Paradox Spiral",
+        "Year": "2008",
+        "ID": "37510"
+    },
+    {
+        "ListNumber": 46,
+        "Title": "Interface",
+        "Year": "2022",
+        "ID": "944579"
+    },
+    {
+        "ListNumber": 47,
+        "Title": "Toy Story",
+        "Year": "1995",
+        "ID": "51290"
+    },
+    {
+        "ListNumber": 48,
+        "Title": "Coco",
+        "Year": "2017",
+        "ID": "285509"
+    },
+    {
+        "ListNumber": 49,
+        "Title": "The Wolf House",
+        "Year": "2018",
+        "ID": "429571"
+    },
+    {
+        "ListNumber": 50,
+        "Title": "Ernest & Celestine",
+        "Year": "2012",
+        "ID": "98813"
+    },
+    {
+        "ListNumber": 51,
+        "Title": "The Tragedy of Man",
+        "Year": "2011",
+        "ID": "92348"
+    },
+    {
+        "ListNumber": 52,
+        "Title": "Shin Chan: The Adult Empire Strikes Back",
+        "Year": "2001",
+        "ID": "27154"
+    },
+    {
+        "ListNumber": 53,
+        "Title": "Mulan",
+        "Year": "1998",
+        "ID": "46001"
+    },
+    {
+        "ListNumber": 54,
+        "Title": "Wolf Children",
+        "Year": "2012",
+        "ID": "88569"
+    },
+    {
+        "ListNumber": 55,
+        "Title": "The Final Exit of the Disciples of Ascensia",
+        "Year": "2019",
+        "ID": "534264"
+    },
+    {
+        "ListNumber": 56,
+        "Title": "Up",
+        "Year": "2009",
+        "ID": "43302"
+    },
+    {
+        "ListNumber": 57,
+        "Title": "Shrek",
+        "Year": "2001",
+        "ID": "51344"
+    },
+    {
+        "ListNumber": 58,
+        "Title": "The Wind Rises",
+        "Year": "2013",
+        "ID": "112957"
+    },
+    {
+        "ListNumber": 59,
+        "Title": "Ghost in the Shell",
+        "Year": "1995",
+        "ID": "47270"
+    },
+    {
+        "ListNumber": 60,
+        "Title": "Paprika",
+        "Year": "2006",
+        "ID": "49023"
+    },
+    {
+        "ListNumber": 61,
+        "Title": "Cowboy Bebop: The Movie",
+        "Year": "2001",
+        "ID": "45434"
+    },
+    {
+        "ListNumber": 62,
+        "Title": "Monsters, Inc.",
+        "Year": "2001",
+        "ID": "51535"
+    },
+    {
+        "ListNumber": 63,
+        "Title": "Blue Giant",
+        "Year": "2023",
+        "ID": "799068"
+    },
+    {
+        "ListNumber": 64,
+        "Title": "Princes and Princesses",
+        "Year": "2000",
+        "ID": "1244"
+    },
+    {
+        "ListNumber": 65,
+        "Title": "Ponyo",
+        "Year": "2008",
+        "ID": "44594"
+    },
+    {
+        "ListNumber": 66,
+        "Title": "The Incredibles",
+        "Year": "2004",
+        "ID": "46806"
+    },
+    {
+        "ListNumber": 67,
+        "Title": "Vampire Hunter D: Bloodlust",
+        "Year": "2000",
+        "ID": "41920"
+    },
+    {
+        "ListNumber": 68,
+        "Title": "Dou kyu sei – Classmates",
+        "Year": "2016",
+        "ID": "308340"
+    },
+    {
+        "ListNumber": 69,
+        "Title": "Redline",
+        "Year": "2009",
+        "ID": "57598"
+    },
+    {
+        "ListNumber": 70,
+        "Title": "Shrek 2",
+        "Year": "2004",
+        "ID": "51343"
+    },
+    {
+        "ListNumber": 71,
+        "Title": "Robot Dreams",
+        "Year": "2023",
+        "ID": "753420"
+    },
+    {
+        "ListNumber": 72,
+        "Title": "In This Corner of the World",
+        "Year": "2016",
+        "ID": "313416"
+    },
+    {
+        "ListNumber": 73,
+        "Title": "The Breadwinner",
+        "Year": "2017",
+        "ID": "368165"
+    },
+    {
+        "ListNumber": 74,
+        "Title": "Castle in the Sky",
+        "Year": "1986",
+        "ID": "46157"
+    },
+    {
+        "ListNumber": 75,
+        "Title": "Tekkonkinkreet",
+        "Year": "2006",
+        "ID": "43625"
+    },
+    {
+        "ListNumber": 76,
+        "Title": "How to Train Your Dragon",
+        "Year": "2010",
+        "ID": "46460"
+    },
+    {
+        "ListNumber": 77,
+        "Title": "Finding Nemo",
+        "Year": "2003",
+        "ID": "2705"
+    },
+    {
+        "ListNumber": 78,
+        "Title": "Kizumonogatari Part 2: Nekketsu",
+        "Year": "2016",
+        "ID": "296040"
+    },
+    {
+        "ListNumber": 79,
+        "Title": "Batman: Mask of the Phantasm",
+        "Year": "1993",
+        "ID": "42711"
+    },
+    {
+        "ListNumber": 80,
+        "Title": "Waltz with Bashir",
+        "Year": "2008",
+        "ID": "47539"
+    },
+    {
+        "ListNumber": 81,
+        "Title": "The Prince of Egypt",
+        "Year": "1998",
+        "ID": "46778"
+    },
+    {
+        "ListNumber": 82,
+        "Title": "Fantastic Planet",
+        "Year": "1973",
+        "ID": "41663"
+    },
+    {
+        "ListNumber": 83,
+        "Title": "The Summit of the Gods",
+        "Year": "2021",
+        "ID": "635689"
+    },
+    {
+        "ListNumber": 84,
+        "Title": "Tower",
+        "Year": "2016",
+        "ID": "316014"
+    },
+    {
+        "ListNumber": 85,
+        "Title": "Memoir of a Snail",
+        "Year": "2024",
+        "ID": "959829"
+    },
+    {
+        "ListNumber": 86,
+        "Title": "Lilo & Stitch",
+        "Year": "2002",
+        "ID": "45204"
+    },
+    {
+        "ListNumber": 87,
+        "Title": "Marona's Fantastic Tale",
+        "Year": "2019",
+        "ID": "497000"
+    },
+    {
+        "ListNumber": 88,
+        "Title": "The Triplets of Belleville",
+        "Year": "2003",
+        "ID": "46940"
+    },
+    {
+        "ListNumber": 89,
+        "Title": "Toy Story 3",
+        "Year": "2010",
+        "ID": "46458"
+    },
+    {
+        "ListNumber": 90,
+        "Title": "Porco Rosso",
+        "Year": "1992",
+        "ID": "45130"
+    },
+    {
+        "ListNumber": 91,
+        "Title": "Liz and the Blue Bird",
+        "Year": "2018",
+        "ID": "413025"
+    },
+    {
+        "ListNumber": 92,
+        "Title": "Isle of Dogs",
+        "Year": "2018",
+        "ID": "333448"
+    },
+    {
+        "ListNumber": 93,
+        "Title": "Tux and Fanny",
+        "Year": "2019",
+        "ID": "524405"
+    },
+    {
+        "ListNumber": 94,
+        "Title": "Flow",
+        "Year": "2024",
+        "ID": "739451"
+    },
+    {
+        "ListNumber": 95,
+        "Title": "Lupin the Third: The Castle of Cagliostro",
+        "Year": "1979",
+        "ID": "42427"
+    },
+    {
+        "ListNumber": 96,
+        "Title": "Guillermo del Toro's Pinocchio",
+        "Year": "2022",
+        "ID": "484263"
+    },
+    {
+        "ListNumber": 97,
+        "Title": "A Town Called Panic",
+        "Year": "2009",
+        "ID": "24343"
+    },
+    {
+        "ListNumber": 98,
+        "Title": "The Pied Piper",
+        "Year": "1986",
+        "ID": "68512"
+    },
+    {
+        "ListNumber": 99,
+        "Title": "The Adventures of Prince Achmed",
+        "Year": "1926",
+        "ID": "39686"
+    },
+    {
+        "ListNumber": 100,
+        "Title": "Loving Vincent",
+        "Year": "2017",
+        "ID": "269358"
+    }
+]
