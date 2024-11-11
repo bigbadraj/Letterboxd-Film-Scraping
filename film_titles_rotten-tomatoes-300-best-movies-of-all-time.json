@@ -1,0 +1,1802 @@
+[
+    {
+        "ListNumber": 1,
+        "Title": "L.A. Confidential",
+        "Year": "1997",
+        "ID": "50509"
+    },
+    {
+        "ListNumber": 2,
+        "Title": "The Godfather",
+        "Year": "1972",
+        "ID": "51818"
+    },
+    {
+        "ListNumber": 3,
+        "Title": "Casablanca",
+        "Year": "1942",
+        "ID": "51770"
+    },
+    {
+        "ListNumber": 4,
+        "Title": "Seven Samurai",
+        "Year": "1954",
+        "ID": "51716"
+    },
+    {
+        "ListNumber": 5,
+        "Title": "Parasite",
+        "Year": "2019",
+        "ID": "426406"
+    },
+    {
+        "ListNumber": 6,
+        "Title": "Schindler's List",
+        "Year": "1993",
+        "ID": "51671"
+    },
+    {
+        "ListNumber": 7,
+        "Title": "Top Gun: Maverick",
+        "Year": "2022",
+        "ID": "293465"
+    },
+    {
+        "ListNumber": 8,
+        "Title": "Toy Story 2",
+        "Year": "1999",
+        "ID": "51289"
+    },
+    {
+        "ListNumber": 9,
+        "Title": "Chinatown",
+        "Year": "1974",
+        "ID": "51323"
+    },
+    {
+        "ListNumber": 10,
+        "Title": "On the Waterfront",
+        "Year": "1954",
+        "ID": "51470"
+    },
+    {
+        "ListNumber": 11,
+        "Title": "The Battle of Algiers",
+        "Year": "1966",
+        "ID": "41081"
+    },
+    {
+        "ListNumber": 12,
+        "Title": "Toy Story",
+        "Year": "1995",
+        "ID": "51290"
+    },
+    {
+        "ListNumber": 13,
+        "Title": "Rear Window",
+        "Year": "1954",
+        "ID": "51552"
+    },
+    {
+        "ListNumber": 14,
+        "Title": "Modern Times",
+        "Year": "1936",
+        "ID": "49889"
+    },
+    {
+        "ListNumber": 15,
+        "Title": "How to Train Your Dragon",
+        "Year": "2010",
+        "ID": "46460"
+    },
+    {
+        "ListNumber": 16,
+        "Title": "All About Eve",
+        "Year": "1950",
+        "ID": "51421"
+    },
+    {
+        "ListNumber": 17,
+        "Title": "Spirited Away",
+        "Year": "2001",
+        "ID": "51921"
+    },
+    {
+        "ListNumber": 18,
+        "Title": "Up",
+        "Year": "2009",
+        "ID": "43302"
+    },
+    {
+        "ListNumber": 19,
+        "Title": "The Third Man",
+        "Year": "1949",
+        "ID": "51154"
+    },
+    {
+        "ListNumber": 20,
+        "Title": "Spotlight",
+        "Year": "2015",
+        "ID": "241430"
+    },
+    {
+        "ListNumber": 21,
+        "Title": "Spider-Man: Into the Spider-Verse",
+        "Year": "2018",
+        "ID": "251943"
+    },
+    {
+        "ListNumber": 22,
+        "Title": "The Philadelphia Story",
+        "Year": "1940",
+        "ID": "51188"
+    },
+    {
+        "ListNumber": 23,
+        "Title": "Finding Nemo",
+        "Year": "2003",
+        "ID": "2705"
+    },
+    {
+        "ListNumber": 24,
+        "Title": "Singin' in the Rain",
+        "Year": "1952",
+        "ID": "51280"
+    },
+    {
+        "ListNumber": 25,
+        "Title": "12 Angry Men",
+        "Year": "1957",
+        "ID": "51700"
+    },
+    {
+        "ListNumber": 26,
+        "Title": "Toy Story 3",
+        "Year": "2010",
+        "ID": "46458"
+    },
+    {
+        "ListNumber": 27,
+        "Title": "Sunset Boulevard",
+        "Year": "1950",
+        "ID": "51522"
+    },
+    {
+        "ListNumber": 28,
+        "Title": "Coco",
+        "Year": "2017",
+        "ID": "285509"
+    },
+    {
+        "ListNumber": 29,
+        "Title": "The Godfather Part II",
+        "Year": "1974",
+        "ID": "51816"
+    },
+    {
+        "ListNumber": 30,
+        "Title": "Three Colours: Red",
+        "Year": "1994",
+        "ID": "51940"
+    },
+    {
+        "ListNumber": 31,
+        "Title": "Selma",
+        "Year": "2014",
+        "ID": "198030"
+    },
+    {
+        "ListNumber": 32,
+        "Title": "Zootopia",
+        "Year": "2016",
+        "ID": "192410"
+    },
+    {
+        "ListNumber": 33,
+        "Title": "Citizen Kane",
+        "Year": "1941",
+        "ID": "2702"
+    },
+    {
+        "ListNumber": 34,
+        "Title": "Annie Hall",
+        "Year": "1977",
+        "ID": "51423"
+    },
+    {
+        "ListNumber": 35,
+        "Title": "Cool Hand Luke",
+        "Year": "1967",
+        "ID": "51249"
+    },
+    {
+        "ListNumber": 36,
+        "Title": "The Holdovers",
+        "Year": "2023",
+        "ID": "755564"
+    },
+    {
+        "ListNumber": 37,
+        "Title": "Inside Out",
+        "Year": "2015",
+        "ID": "113284"
+    },
+    {
+        "ListNumber": 38,
+        "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "Year": "1964",
+        "ID": "51218"
+    },
+    {
+        "ListNumber": 39,
+        "Title": "Let the Right One In",
+        "Year": "2008",
+        "ID": "43989"
+    },
+    {
+        "ListNumber": 40,
+        "Title": "The Lord of the Rings: The Two Towers",
+        "Year": "2002",
+        "ID": "51929"
+    },
+    {
+        "ListNumber": 41,
+        "Title": "Knives Out",
+        "Year": "2019",
+        "ID": "475370"
+    },
+    {
+        "ListNumber": 42,
+        "Title": "M",
+        "Year": "1931",
+        "ID": "51320"
+    },
+    {
+        "ListNumber": 43,
+        "Title": "Toy Story 4",
+        "Year": "2019",
+        "ID": "228628"
+    },
+    {
+        "ListNumber": 44,
+        "Title": "The Wrestler",
+        "Year": "2008",
+        "ID": "44740"
+    },
+    {
+        "ListNumber": 45,
+        "Title": "GoodFellas",
+        "Year": "1990",
+        "ID": "51383"
+    },
+    {
+        "ListNumber": 46,
+        "Title": "The Wizard of Oz",
+        "Year": "1939",
+        "ID": "51494"
+    },
+    {
+        "ListNumber": 47,
+        "Title": "Double Indemnity",
+        "Year": "1944",
+        "ID": "51173"
+    },
+    {
+        "ListNumber": 48,
+        "Title": "Psycho",
+        "Year": "1960",
+        "ID": "51578"
+    },
+    {
+        "ListNumber": 49,
+        "Title": "Paddington 2",
+        "Year": "2017",
+        "ID": "277023"
+    },
+    {
+        "ListNumber": 50,
+        "Title": "Before Sunrise",
+        "Year": "1995",
+        "ID": "51974"
+    },
+    {
+        "ListNumber": 51,
+        "Title": "The Dark Knight",
+        "Year": "2008",
+        "ID": "51896"
+    },
+    {
+        "ListNumber": 52,
+        "Title": "The Maltese Falcon",
+        "Year": "1941",
+        "ID": "51200"
+    },
+    {
+        "ListNumber": 53,
+        "Title": "It Happened One Night",
+        "Year": "1934",
+        "ID": "49893"
+    },
+    {
+        "ListNumber": 54,
+        "Title": "The Wages of Fear",
+        "Year": "1953",
+        "ID": "51849"
+    },
+    {
+        "ListNumber": 55,
+        "Title": "North by Northwest",
+        "Year": "1959",
+        "ID": "51843"
+    },
+    {
+        "ListNumber": 56,
+        "Title": "Bicycle Thieves",
+        "Year": "1948",
+        "ID": "48930"
+    },
+    {
+        "ListNumber": 57,
+        "Title": "Alien",
+        "Year": "1979",
+        "ID": "51714"
+    },
+    {
+        "ListNumber": 58,
+        "Title": "Argo",
+        "Year": "2012",
+        "ID": "52501"
+    },
+    {
+        "ListNumber": 59,
+        "Title": "Get Out",
+        "Year": "2017",
+        "ID": "353117"
+    },
+    {
+        "ListNumber": 60,
+        "Title": "The Kid",
+        "Year": "1921",
+        "ID": "46549"
+    },
+    {
+        "ListNumber": 61,
+        "Title": "Mission: Impossible – Dead Reckoning Part One",
+        "Year": "2023",
+        "ID": "503402"
+    },
+    {
+        "ListNumber": 62,
+        "Title": "The Pianist",
+        "Year": "2002",
+        "ID": "51672"
+    },
+    {
+        "ListNumber": 63,
+        "Title": "Kind Hearts and Coronets",
+        "Year": "1949",
+        "ID": "44908"
+    },
+    {
+        "ListNumber": 64,
+        "Title": "The 400 Blows",
+        "Year": "1959",
+        "ID": "51904"
+    },
+    {
+        "ListNumber": 65,
+        "Title": "Grave of the Fireflies",
+        "Year": "1988",
+        "ID": "44558"
+    },
+    {
+        "ListNumber": 66,
+        "Title": "The Big Sick",
+        "Year": "2017",
+        "ID": "350384"
+    },
+    {
+        "ListNumber": 67,
+        "Title": "Minari",
+        "Year": "2020",
+        "ID": "542449"
+    },
+    {
+        "ListNumber": 68,
+        "Title": "Portrait of a Lady on Fire",
+        "Year": "2019",
+        "ID": "460830"
+    },
+    {
+        "ListNumber": 69,
+        "Title": "The Treasure of the Sierra Madre",
+        "Year": "1948",
+        "ID": "49881"
+    },
+    {
+        "ListNumber": 70,
+        "Title": "Apocalypse Now",
+        "Year": "1979",
+        "ID": "2690"
+    },
+    {
+        "ListNumber": 71,
+        "Title": "Mission: Impossible – Fallout",
+        "Year": "2018",
+        "ID": "283273"
+    },
+    {
+        "ListNumber": 72,
+        "Title": "The Last Picture Show",
+        "Year": "1971",
+        "ID": "36222"
+    },
+    {
+        "ListNumber": 73,
+        "Title": "Tampopo",
+        "Year": "1985",
+        "ID": "44970"
+    },
+    {
+        "ListNumber": 74,
+        "Title": "Mad Max: Fury Road",
+        "Year": "2015",
+        "ID": "62780"
+    },
+    {
+        "ListNumber": 75,
+        "Title": "Tokyo Story",
+        "Year": "1953",
+        "ID": "40554"
+    },
+    {
+        "ListNumber": 76,
+        "Title": "A Hard Day's Night",
+        "Year": "1964",
+        "ID": "51422"
+    },
+    {
+        "ListNumber": 77,
+        "Title": "Metropolis",
+        "Year": "1927",
+        "ID": "2698"
+    },
+    {
+        "ListNumber": 78,
+        "Title": "Good Will Hunting",
+        "Year": "1997",
+        "ID": "51621"
+    },
+    {
+        "ListNumber": 79,
+        "Title": "The Gold Rush",
+        "Year": "1925",
+        "ID": "51201"
+    },
+    {
+        "ListNumber": 80,
+        "Title": "Aliens",
+        "Year": "1986",
+        "ID": "51445"
+    },
+    {
+        "ListNumber": 81,
+        "Title": "Spider-Man: Across the Spider-Verse",
+        "Year": "2023",
+        "ID": "497631"
+    },
+    {
+        "ListNumber": 82,
+        "Title": "The Good, the Bad and the Ugly",
+        "Year": "1966",
+        "ID": "51666"
+    },
+    {
+        "ListNumber": 83,
+        "Title": "Harry Potter and the Deathly Hallows: Part 2",
+        "Year": "2011",
+        "ID": "44580"
+    },
+    {
+        "ListNumber": 84,
+        "Title": "The Silence of the Lambs",
+        "Year": "1991",
+        "ID": "51782"
+    },
+    {
+        "ListNumber": 85,
+        "Title": "Fanny and Alexander",
+        "Year": "1982",
+        "ID": "48536"
+    },
+    {
+        "ListNumber": 86,
+        "Title": "Laura",
+        "Year": "1944",
+        "ID": "50669"
+    },
+    {
+        "ListNumber": 87,
+        "Title": "The Shop Around the Corner",
+        "Year": "1940",
+        "ID": "39082"
+    },
+    {
+        "ListNumber": 88,
+        "Title": "His Girl Friday",
+        "Year": "1940",
+        "ID": "49886"
+    },
+    {
+        "ListNumber": 89,
+        "Title": "All Quiet on the Western Front",
+        "Year": "1930",
+        "ID": "51908"
+    },
+    {
+        "ListNumber": 90,
+        "Title": "Monsters, Inc.",
+        "Year": "2001",
+        "ID": "51535"
+    },
+    {
+        "ListNumber": 91,
+        "Title": "Nights of Cabiria",
+        "Year": "1957",
+        "ID": "39638"
+    },
+    {
+        "ListNumber": 92,
+        "Title": "Pather Panchali",
+        "Year": "1955",
+        "ID": "48649"
+    },
+    {
+        "ListNumber": 93,
+        "Title": "Meet Me in St. Louis",
+        "Year": "1944",
+        "ID": "51243"
+    },
+    {
+        "ListNumber": 94,
+        "Title": "Witness for the Prosecution",
+        "Year": "1957",
+        "ID": "27175"
+    },
+    {
+        "ListNumber": 95,
+        "Title": "Eighth Grade",
+        "Year": "2018",
+        "ID": "420451"
+    },
+    {
+        "ListNumber": 96,
+        "Title": "Rebecca",
+        "Year": "1940",
+        "ID": "51833"
+    },
+    {
+        "ListNumber": 97,
+        "Title": "Stalker",
+        "Year": "1979",
+        "ID": "51062"
+    },
+    {
+        "ListNumber": 98,
+        "Title": "The Terminator",
+        "Year": "1984",
+        "ID": "51838"
+    },
+    {
+        "ListNumber": 99,
+        "Title": "Memento",
+        "Year": "2000",
+        "ID": "51973"
+    },
+    {
+        "ListNumber": 100,
+        "Title": "The Social Network",
+        "Year": "2010",
+        "ID": "26711"
+    },
+    {
+        "ListNumber": 101,
+        "Title": "The Hurt Locker",
+        "Year": "2008",
+        "ID": "44741"
+    },
+    {
+        "ListNumber": 102,
+        "Title": "12 Years a Slave",
+        "Year": "2013",
+        "ID": "62671"
+    },
+    {
+        "ListNumber": 103,
+        "Title": "Catch Me If You Can",
+        "Year": "2002",
+        "ID": "51484"
+    },
+    {
+        "ListNumber": 104,
+        "Title": "Jaws",
+        "Year": "1975",
+        "ID": "51542"
+    },
+    {
+        "ListNumber": 105,
+        "Title": "A Man Escaped",
+        "Year": "1956",
+        "ID": "42507"
+    },
+    {
+        "ListNumber": 106,
+        "Title": "Pan's Labyrinth",
+        "Year": "2006",
+        "ID": "51047"
+    },
+    {
+        "ListNumber": 107,
+        "Title": "The Red Shoes",
+        "Year": "1948",
+        "ID": "39579"
+    },
+    {
+        "ListNumber": 108,
+        "Title": "Anatomy of a Murder",
+        "Year": "1959",
+        "ID": "51957"
+    },
+    {
+        "ListNumber": 109,
+        "Title": "Das Boot",
+        "Year": "1981",
+        "ID": "51702"
+    },
+    {
+        "ListNumber": 110,
+        "Title": "Ikiru",
+        "Year": "1952",
+        "ID": "49595"
+    },
+    {
+        "ListNumber": 111,
+        "Title": "Rome, Open City",
+        "Year": "1945",
+        "ID": "51752"
+    },
+    {
+        "ListNumber": 112,
+        "Title": "Lady Bird",
+        "Year": "2017",
+        "ID": "326279"
+    },
+    {
+        "ListNumber": 113,
+        "Title": "Hunt for the Wilderpeople",
+        "Year": "2016",
+        "ID": "307239"
+    },
+    {
+        "ListNumber": 114,
+        "Title": "Hell or High Water",
+        "Year": "2016",
+        "ID": "268192"
+    },
+    {
+        "ListNumber": 115,
+        "Title": "Army of Shadows",
+        "Year": "1969",
+        "ID": "42416"
+    },
+    {
+        "ListNumber": 116,
+        "Title": "Goldfinger",
+        "Year": "1964",
+        "ID": "51466"
+    },
+    {
+        "ListNumber": 117,
+        "Title": "The Lady Eve",
+        "Year": "1941",
+        "ID": "49885"
+    },
+    {
+        "ListNumber": 118,
+        "Title": "Saving Private Ryan",
+        "Year": "1998",
+        "ID": "51295"
+    },
+    {
+        "ListNumber": 119,
+        "Title": "Ratatouille",
+        "Year": "2007",
+        "ID": "50558"
+    },
+    {
+        "ListNumber": 120,
+        "Title": "Star Trek",
+        "Year": "2009",
+        "ID": "43860"
+    },
+    {
+        "ListNumber": 121,
+        "Title": "The Iron Giant",
+        "Year": "1999",
+        "ID": "46280"
+    },
+    {
+        "ListNumber": 122,
+        "Title": "Monty Python and the Holy Grail",
+        "Year": "1975",
+        "ID": "51390"
+    },
+    {
+        "ListNumber": 123,
+        "Title": "Star Wars",
+        "Year": "1977",
+        "ID": "2706"
+    },
+    {
+        "ListNumber": 124,
+        "Title": "Shadow of a Doubt",
+        "Year": "1943",
+        "ID": "38239"
+    },
+    {
+        "ListNumber": 125,
+        "Title": "WALL·E",
+        "Year": "2008",
+        "ID": "45994"
+    },
+    {
+        "ListNumber": 126,
+        "Title": "Brooklyn",
+        "Year": "2015",
+        "ID": "123475"
+    },
+    {
+        "ListNumber": 127,
+        "Title": "Mr. Smith Goes to Washington",
+        "Year": "1939",
+        "ID": "49888"
+    },
+    {
+        "ListNumber": 128,
+        "Title": "Spider-Man: No Way Home",
+        "Year": "2021",
+        "ID": "560787"
+    },
+    {
+        "ListNumber": 129,
+        "Title": "The Best Years of Our Lives",
+        "Year": "1946",
+        "ID": "51265"
+    },
+    {
+        "ListNumber": 130,
+        "Title": "The Bridge on the River Kwai",
+        "Year": "1957",
+        "ID": "51326"
+    },
+    {
+        "ListNumber": 131,
+        "Title": "Ali: Fear Eats the Soul",
+        "Year": "1974",
+        "ID": "51840"
+    },
+    {
+        "ListNumber": 132,
+        "Title": "Whiplash",
+        "Year": "2014",
+        "ID": "171384"
+    },
+    {
+        "ListNumber": 133,
+        "Title": "The Farewell",
+        "Year": "2019",
+        "ID": "493697"
+    },
+    {
+        "ListNumber": 134,
+        "Title": "Unforgiven",
+        "Year": "1992",
+        "ID": "2685"
+    },
+    {
+        "ListNumber": 135,
+        "Title": "The Adventures of Robin Hood",
+        "Year": "1938",
+        "ID": "45785"
+    },
+    {
+        "ListNumber": 136,
+        "Title": "Pulp Fiction",
+        "Year": "1994",
+        "ID": "51444"
+    },
+    {
+        "ListNumber": 137,
+        "Title": "The King's Speech",
+        "Year": "2010",
+        "ID": "5363"
+    },
+    {
+        "ListNumber": 138,
+        "Title": "Leave No Trace",
+        "Year": "2018",
+        "ID": "376041"
+    },
+    {
+        "ListNumber": 139,
+        "Title": "The Empire Strikes Back",
+        "Year": "1980",
+        "ID": "50713"
+    },
+    {
+        "ListNumber": 140,
+        "Title": "The Passion of Joan of Arc",
+        "Year": "1928",
+        "ID": "51372"
+    },
+    {
+        "ListNumber": 141,
+        "Title": "Quiz Show",
+        "Year": "1994",
+        "ID": "45292"
+    },
+    {
+        "ListNumber": 142,
+        "Title": "Avengers: Endgame",
+        "Year": "2019",
+        "ID": "226660"
+    },
+    {
+        "ListNumber": 143,
+        "Title": "Ran",
+        "Year": "1985",
+        "ID": "45108"
+    },
+    {
+        "ListNumber": 144,
+        "Title": "Safety Last!",
+        "Year": "1923",
+        "ID": "37801"
+    },
+    {
+        "ListNumber": 145,
+        "Title": "Iron Man",
+        "Year": "2008",
+        "ID": "50825"
+    },
+    {
+        "ListNumber": 146,
+        "Title": "Moana",
+        "Year": "2016",
+        "ID": "201909"
+    },
+    {
+        "ListNumber": 147,
+        "Title": "Little Women",
+        "Year": "2019",
+        "ID": "259441"
+    },
+    {
+        "ListNumber": 148,
+        "Title": "Puss in Boots: The Last Wish",
+        "Year": "2022",
+        "ID": "242285"
+    },
+    {
+        "ListNumber": 149,
+        "Title": "Casino Royale",
+        "Year": "2006",
+        "ID": "27809"
+    },
+    {
+        "ListNumber": 150,
+        "Title": "The Handmaiden",
+        "Year": "2016",
+        "ID": "216086"
+    },
+    {
+        "ListNumber": 151,
+        "Title": "La Haine",
+        "Year": "1995",
+        "ID": "51684"
+    },
+    {
+        "ListNumber": 152,
+        "Title": "La Strada",
+        "Year": "1954",
+        "ID": "51685"
+    },
+    {
+        "ListNumber": 153,
+        "Title": "Rashomon",
+        "Year": "1950",
+        "ID": "51570"
+    },
+    {
+        "ListNumber": 154,
+        "Title": "Top Hat",
+        "Year": "1935",
+        "ID": "49891"
+    },
+    {
+        "ListNumber": 155,
+        "Title": "The Artist",
+        "Year": "2011",
+        "ID": "61707"
+    },
+    {
+        "ListNumber": 156,
+        "Title": "The Conformist",
+        "Year": "1970",
+        "ID": "47744"
+    },
+    {
+        "ListNumber": 157,
+        "Title": "One Flew Over the Cuckoo's Nest",
+        "Year": "1975",
+        "ID": "51600"
+    },
+    {
+        "ListNumber": 158,
+        "Title": "In the Heat of the Night",
+        "Year": "1967",
+        "ID": "46041"
+    },
+    {
+        "ListNumber": 159,
+        "Title": "Raiders of the Lost Ark",
+        "Year": "1981",
+        "ID": "51965"
+    },
+    {
+        "ListNumber": 160,
+        "Title": "The Peanut Butter Falcon",
+        "Year": "2019",
+        "ID": "394965"
+    },
+    {
+        "ListNumber": 161,
+        "Title": "Paths of Glory",
+        "Year": "1957",
+        "ID": "51194"
+    },
+    {
+        "ListNumber": 162,
+        "Title": "King Kong",
+        "Year": "1933",
+        "ID": "51812"
+    },
+    {
+        "ListNumber": 163,
+        "Title": "Children of Paradise",
+        "Year": "1945",
+        "ID": "50239"
+    },
+    {
+        "ListNumber": 164,
+        "Title": "A Beautiful Day in the Neighborhood",
+        "Year": "2019",
+        "ID": "431877"
+    },
+    {
+        "ListNumber": 165,
+        "Title": "The Lego Movie",
+        "Year": "2014",
+        "ID": "105188"
+    },
+    {
+        "ListNumber": 166,
+        "Title": "Before Sunset",
+        "Year": "2004",
+        "ID": "51970"
+    },
+    {
+        "ListNumber": 167,
+        "Title": "Soul",
+        "Year": "2020",
+        "ID": "438511"
+    },
+    {
+        "ListNumber": 168,
+        "Title": "Creed",
+        "Year": "2015",
+        "ID": "239260"
+    },
+    {
+        "ListNumber": 169,
+        "Title": "John Wick: Chapter 4",
+        "Year": "2023",
+        "ID": "530882"
+    },
+    {
+        "ListNumber": 170,
+        "Title": "The Princess Bride",
+        "Year": "1987",
+        "ID": "50226"
+    },
+    {
+        "ListNumber": 171,
+        "Title": "Sunrise: A Song of Two Humans",
+        "Year": "1927",
+        "ID": "51493"
+    },
+    {
+        "ListNumber": 172,
+        "Title": "Before Midnight",
+        "Year": "2013",
+        "ID": "102444"
+    },
+    {
+        "ListNumber": 173,
+        "Title": "Lawrence of Arabia",
+        "Year": "1962",
+        "ID": "60299"
+    },
+    {
+        "ListNumber": 174,
+        "Title": "Strangers on a Train",
+        "Year": "1951",
+        "ID": "51307"
+    },
+    {
+        "ListNumber": 175,
+        "Title": "Sling Blade",
+        "Year": "1996",
+        "ID": "44537"
+    },
+    {
+        "ListNumber": 176,
+        "Title": "Kubo and the Two Strings",
+        "Year": "2016",
+        "ID": "240068"
+    },
+    {
+        "ListNumber": 177,
+        "Title": "Sweet Smell of Success",
+        "Year": "1957",
+        "ID": "51193"
+    },
+    {
+        "ListNumber": 178,
+        "Title": "The Thin Man",
+        "Year": "1934",
+        "ID": "49690"
+    },
+    {
+        "ListNumber": 179,
+        "Title": "Once Upon a Time in the West",
+        "Year": "1968",
+        "ID": "51727"
+    },
+    {
+        "ListNumber": 180,
+        "Title": "Eternal Sunshine of the Spotless Mind",
+        "Year": "2004",
+        "ID": "2683"
+    },
+    {
+        "ListNumber": 181,
+        "Title": "Sense and Sensibility",
+        "Year": "1995",
+        "ID": "49232"
+    },
+    {
+        "ListNumber": 182,
+        "Title": "BlacKkKlansman",
+        "Year": "2018",
+        "ID": "418135"
+    },
+    {
+        "ListNumber": 183,
+        "Title": "Lost in Translation",
+        "Year": "2003",
+        "ID": "51898"
+    },
+    {
+        "ListNumber": 184,
+        "Title": "Au Hasard Balthazar",
+        "Year": "1966",
+        "ID": "39229"
+    },
+    {
+        "ListNumber": 185,
+        "Title": "Boyhood",
+        "Year": "2014",
+        "ID": "71927"
+    },
+    {
+        "ListNumber": 186,
+        "Title": "The Grapes of Wrath",
+        "Year": "1940",
+        "ID": "51525"
+    },
+    {
+        "ListNumber": 187,
+        "Title": "Sing Street",
+        "Year": "2016",
+        "ID": "305363"
+    },
+    {
+        "ListNumber": 188,
+        "Title": "A Fistful of Dollars",
+        "Year": "1964",
+        "ID": "51698"
+    },
+    {
+        "ListNumber": 189,
+        "Title": "The Truman Show",
+        "Year": "1998",
+        "ID": "27256"
+    },
+    {
+        "ListNumber": 190,
+        "Title": "Life of Brian",
+        "Year": "1979",
+        "ID": "51537"
+    },
+    {
+        "ListNumber": 191,
+        "Title": "8½",
+        "Year": "1963",
+        "ID": "51673"
+    },
+    {
+        "ListNumber": 192,
+        "Title": "Marriage Story",
+        "Year": "2019",
+        "ID": "422682"
+    },
+    {
+        "ListNumber": 193,
+        "Title": "Searching for Bobby Fischer",
+        "Year": "1993",
+        "ID": "43195"
+    },
+    {
+        "ListNumber": 194,
+        "Title": "Battleship Potemkin",
+        "Year": "1925",
+        "ID": "51481"
+    },
+    {
+        "ListNumber": 195,
+        "Title": "Sullivan's Travels",
+        "Year": "1941",
+        "ID": "41664"
+    },
+    {
+        "ListNumber": 196,
+        "Title": "Le Cercle Rouge",
+        "Year": "1970",
+        "ID": "45096"
+    },
+    {
+        "ListNumber": 197,
+        "Title": "The Lost Weekend",
+        "Year": "1945",
+        "ID": "33546"
+    },
+    {
+        "ListNumber": 198,
+        "Title": "The Nightmare Before Christmas",
+        "Year": "1993",
+        "ID": "47119"
+    },
+    {
+        "ListNumber": 199,
+        "Title": "Oppenheimer",
+        "Year": "2023",
+        "ID": "784328"
+    },
+    {
+        "ListNumber": 200,
+        "Title": "The Discreet Charm of the Bourgeoisie",
+        "Year": "1972",
+        "ID": "49228"
+    },
+    {
+        "ListNumber": 201,
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "ID": "51930"
+    },
+    {
+        "ListNumber": 202,
+        "Title": "Ford v Ferrari",
+        "Year": "2019",
+        "ID": "291419"
+    },
+    {
+        "ListNumber": 203,
+        "Title": "My Left Foot: The Story of Christy Brown",
+        "Year": "1989",
+        "ID": "46488"
+    },
+    {
+        "ListNumber": 204,
+        "Title": "Room",
+        "Year": "2015",
+        "ID": "187975"
+    },
+    {
+        "ListNumber": 205,
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Year": "2003",
+        "ID": "51928"
+    },
+    {
+        "ListNumber": 206,
+        "Title": "A Night at the Opera",
+        "Year": "1935",
+        "ID": "26784"
+    },
+    {
+        "ListNumber": 207,
+        "Title": "Halloween",
+        "Year": "1978",
+        "ID": "60298"
+    },
+    {
+        "ListNumber": 208,
+        "Title": "Air",
+        "Year": "2023",
+        "ID": "868491"
+    },
+    {
+        "ListNumber": 209,
+        "Title": "The Sweet Hereafter",
+        "Year": "1997",
+        "ID": "46434"
+    },
+    {
+        "ListNumber": 210,
+        "Title": "PlayTime",
+        "Year": "1967",
+        "ID": "46424"
+    },
+    {
+        "ListNumber": 211,
+        "Title": "True Grit",
+        "Year": "2010",
+        "ID": "20908"
+    },
+    {
+        "ListNumber": 212,
+        "Title": "A Quiet Place",
+        "Year": "2018",
+        "ID": "379687"
+    },
+    {
+        "ListNumber": 213,
+        "Title": "Mudbound",
+        "Year": "2017",
+        "ID": "348443"
+    },
+    {
+        "ListNumber": 214,
+        "Title": "Boyz n the Hood",
+        "Year": "1991",
+        "ID": "51474"
+    },
+    {
+        "ListNumber": 215,
+        "Title": "Brazil",
+        "Year": "1985",
+        "ID": "51981"
+    },
+    {
+        "ListNumber": 216,
+        "Title": "Hidden Figures",
+        "Year": "2016",
+        "ID": "316312"
+    },
+    {
+        "ListNumber": 217,
+        "Title": "Grand Illusion",
+        "Year": "1937",
+        "ID": "51375"
+    },
+    {
+        "ListNumber": 218,
+        "Title": "The Conversation",
+        "Year": "1974",
+        "ID": "51529"
+    },
+    {
+        "ListNumber": 219,
+        "Title": "Fargo",
+        "Year": "1996",
+        "ID": "51781"
+    },
+    {
+        "ListNumber": 220,
+        "Title": "Diabolique",
+        "Year": "1955",
+        "ID": "51325"
+    },
+    {
+        "ListNumber": 221,
+        "Title": "The Apartment",
+        "Year": "1960",
+        "ID": "51774"
+    },
+    {
+        "ListNumber": 222,
+        "Title": "Apollo 13",
+        "Year": "1995",
+        "ID": "51551"
+    },
+    {
+        "ListNumber": 223,
+        "Title": "Princess Mononoke",
+        "Year": "1997",
+        "ID": "51922"
+    },
+    {
+        "ListNumber": 224,
+        "Title": "Umberto D.",
+        "Year": "1952",
+        "ID": "51319"
+    },
+    {
+        "ListNumber": 225,
+        "Title": "Black Panther",
+        "Year": "2018",
+        "ID": "209383"
+    },
+    {
+        "ListNumber": 226,
+        "Title": "Bringing Up Baby",
+        "Year": "1938",
+        "ID": "51252"
+    },
+    {
+        "ListNumber": 227,
+        "Title": "The Sting",
+        "Year": "1973",
+        "ID": "47315"
+    },
+    {
+        "ListNumber": 228,
+        "Title": "Logan",
+        "Year": "2017",
+        "ID": "186549"
+    },
+    {
+        "ListNumber": 229,
+        "Title": "Nightcrawler",
+        "Year": "2014",
+        "ID": "169907"
+    },
+    {
+        "ListNumber": 230,
+        "Title": "The Departed",
+        "Year": "2006",
+        "ID": "51042"
+    },
+    {
+        "ListNumber": 231,
+        "Title": "Juno",
+        "Year": "2007",
+        "ID": "48051"
+    },
+    {
+        "ListNumber": 232,
+        "Title": "Hero",
+        "Year": "2002",
+        "ID": "51971"
+    },
+    {
+        "ListNumber": 233,
+        "Title": "Shaun of the Dead",
+        "Year": "2004",
+        "ID": "51405"
+    },
+    {
+        "ListNumber": 234,
+        "Title": "Stagecoach",
+        "Year": "1939",
+        "ID": "51174"
+    },
+    {
+        "ListNumber": 235,
+        "Title": "Back to the Future",
+        "Year": "1985",
+        "ID": "51945"
+    },
+    {
+        "ListNumber": 236,
+        "Title": "Die Hard",
+        "Year": "1988",
+        "ID": "51556"
+    },
+    {
+        "ListNumber": 237,
+        "Title": "No Country for Old Men",
+        "Year": "2007",
+        "ID": "48140"
+    },
+    {
+        "ListNumber": 238,
+        "Title": "The Lion King",
+        "Year": "1994",
+        "ID": "47677"
+    },
+    {
+        "ListNumber": 239,
+        "Title": "Gravity",
+        "Year": "2013",
+        "ID": "16529"
+    },
+    {
+        "ListNumber": 240,
+        "Title": "The Leopard",
+        "Year": "1963",
+        "ID": "51167"
+    },
+    {
+        "ListNumber": 241,
+        "Title": "Day for Night",
+        "Year": "1973",
+        "ID": "50869"
+    },
+    {
+        "ListNumber": 242,
+        "Title": "Badlands",
+        "Year": "1973",
+        "ID": "49844"
+    },
+    {
+        "ListNumber": 243,
+        "Title": "Touch of Evil",
+        "Year": "1958",
+        "ID": "51018"
+    },
+    {
+        "ListNumber": 244,
+        "Title": "Yojimbo",
+        "Year": "1961",
+        "ID": "44925"
+    },
+    {
+        "ListNumber": 245,
+        "Title": "A Streetcar Named Desire",
+        "Year": "1951",
+        "ID": "51424"
+    },
+    {
+        "ListNumber": 246,
+        "Title": "Breathless",
+        "Year": "1960",
+        "ID": "51787"
+    },
+    {
+        "ListNumber": 247,
+        "Title": "The Manchurian Candidate",
+        "Year": "1962",
+        "ID": "51187"
+    },
+    {
+        "ListNumber": 248,
+        "Title": "The French Connection",
+        "Year": "1971",
+        "ID": "51164"
+    },
+    {
+        "ListNumber": 249,
+        "Title": "The Bourne Ultimatum",
+        "Year": "2007",
+        "ID": "50223"
+    },
+    {
+        "ListNumber": 250,
+        "Title": "My Fair Lady",
+        "Year": "1964",
+        "ID": "45593"
+    },
+    {
+        "ListNumber": 251,
+        "Title": "It's a Wonderful Life",
+        "Year": "1946",
+        "ID": "50949"
+    },
+    {
+        "ListNumber": 252,
+        "Title": "Some Like It Hot",
+        "Year": "1959",
+        "ID": "51817"
+    },
+    {
+        "ListNumber": 253,
+        "Title": "The Fugitive",
+        "Year": "1993",
+        "ID": "48823"
+    },
+    {
+        "ListNumber": 254,
+        "Title": "Guardians of the Galaxy",
+        "Year": "2014",
+        "ID": "93676"
+    },
+    {
+        "ListNumber": 255,
+        "Title": "Airplane!",
+        "Year": "1980",
+        "ID": "51339"
+    },
+    {
+        "ListNumber": 256,
+        "Title": "Groundhog Day",
+        "Year": "1993",
+        "ID": "51914"
+    },
+    {
+        "ListNumber": 257,
+        "Title": "This Is Spinal Tap",
+        "Year": "1984",
+        "ID": "45672"
+    },
+    {
+        "ListNumber": 258,
+        "Title": "Beauty and the Beast",
+        "Year": "1991",
+        "ID": "46622"
+    },
+    {
+        "ListNumber": 259,
+        "Title": "The Taking of Pelham One Two Three",
+        "Year": "1974",
+        "ID": "47800"
+    },
+    {
+        "ListNumber": 260,
+        "Title": "City Lights",
+        "Year": "1931",
+        "ID": "51251"
+    },
+    {
+        "ListNumber": 261,
+        "Title": "Kiki's Delivery Service",
+        "Year": "1989",
+        "ID": "41360"
+    },
+    {
+        "ListNumber": 262,
+        "Title": "City of God",
+        "Year": "2002",
+        "ID": "51523"
+    },
+    {
+        "ListNumber": 263,
+        "Title": "Rosemary's Baby",
+        "Year": "1968",
+        "ID": "51347"
+    },
+    {
+        "ListNumber": 264,
+        "Title": "Call Me by Your Name",
+        "Year": "2017",
+        "ID": "333029"
+    },
+    {
+        "ListNumber": 265,
+        "Title": "Aladdin",
+        "Year": "1992",
+        "ID": "51340"
+    },
+    {
+        "ListNumber": 266,
+        "Title": "Man with a Movie Camera",
+        "Year": "1929",
+        "ID": "35411"
+    },
+    {
+        "ListNumber": 267,
+        "Title": "The Lady Vanishes",
+        "Year": "1938",
+        "ID": "51213"
+    },
+    {
+        "ListNumber": 268,
+        "Title": "The Umbrellas of Cherbourg",
+        "Year": "1964",
+        "ID": "48532"
+    },
+    {
+        "ListNumber": 269,
+        "Title": "Mission: Impossible – Rogue Nation",
+        "Year": "2015",
+        "ID": "129816"
+    },
+    {
+        "ListNumber": 270,
+        "Title": "Three Colours: Blue",
+        "Year": "1993",
+        "ID": "51942"
+    },
+    {
+        "ListNumber": 271,
+        "Title": "Milk",
+        "Year": "2008",
+        "ID": "46510"
+    },
+    {
+        "ListNumber": 272,
+        "Title": "Traffic",
+        "Year": "2000",
+        "ID": "50705"
+    },
+    {
+        "ListNumber": 273,
+        "Title": "Invasion of the Body Snatchers",
+        "Year": "1956",
+        "ID": "45199"
+    },
+    {
+        "ListNumber": 274,
+        "Title": "Thor: Ragnarok",
+        "Year": "2017",
+        "ID": "209382"
+    },
+    {
+        "ListNumber": 275,
+        "Title": "The Odd Couple",
+        "Year": "1968",
+        "ID": "45378"
+    },
+    {
+        "ListNumber": 276,
+        "Title": "Bride of Frankenstein",
+        "Year": "1935",
+        "ID": "51827"
+    },
+    {
+        "ListNumber": 277,
+        "Title": "What's Love Got to Do with It",
+        "Year": "1993",
+        "ID": "42119"
+    },
+    {
+        "ListNumber": 278,
+        "Title": "Star Wars: The Force Awakens",
+        "Year": "2015",
+        "ID": "107418"
+    },
+    {
+        "ListNumber": 279,
+        "Title": "Roman Holiday",
+        "Year": "1953",
+        "ID": "51348"
+    },
+    {
+        "ListNumber": 280,
+        "Title": "Amélie",
+        "Year": "2001",
+        "ID": "51858"
+    },
+    {
+        "ListNumber": 281,
+        "Title": "To Be or Not to Be",
+        "Year": "1942",
+        "ID": "51854"
+    },
+    {
+        "ListNumber": 282,
+        "Title": "All the President's Men",
+        "Year": "1976",
+        "ID": "51261"
+    },
+    {
+        "ListNumber": 283,
+        "Title": "Throne of Blood",
+        "Year": "1957",
+        "ID": "49597"
+    },
+    {
+        "ListNumber": 284,
+        "Title": "Taxi Driver",
+        "Year": "1976",
+        "ID": "51947"
+    },
+    {
+        "ListNumber": 285,
+        "Title": "The Big Sleep",
+        "Year": "1946",
+        "ID": "51242"
+    },
+    {
+        "ListNumber": 286,
+        "Title": "The Avengers",
+        "Year": "2012",
+        "ID": "36778"
+    },
+    {
+        "ListNumber": 287,
+        "Title": "Secrets & Lies",
+        "Year": "1996",
+        "ID": "45549"
+    },
+    {
+        "ListNumber": 288,
+        "Title": "Dog Day Afternoon",
+        "Year": "1975",
+        "ID": "51195"
+    },
+    {
+        "ListNumber": 289,
+        "Title": "Being There",
+        "Year": "1979",
+        "ID": "46338"
+    },
+    {
+        "ListNumber": 290,
+        "Title": "Aguirre, the Wrath of God",
+        "Year": "1972",
+        "ID": "50612"
+    },
+    {
+        "ListNumber": 291,
+        "Title": "Arrival",
+        "Year": "2016",
+        "ID": "257426"
+    },
+    {
+        "ListNumber": 292,
+        "Title": "Wings of Desire",
+        "Year": "1987",
+        "ID": "51907"
+    },
+    {
+        "ListNumber": 293,
+        "Title": "Raging Bull",
+        "Year": "1980",
+        "ID": "50956"
+    },
+    {
+        "ListNumber": 294,
+        "Title": "Fruitvale Station",
+        "Year": "2013",
+        "ID": "117574"
+    },
+    {
+        "ListNumber": 295,
+        "Title": "La Dolce Vita",
+        "Year": "1960",
+        "ID": "51656"
+    },
+    {
+        "ListNumber": 296,
+        "Title": "Beauty and the Beast",
+        "Year": "1946",
+        "ID": "51476"
+    },
+    {
+        "ListNumber": 297,
+        "Title": "The Killing",
+        "Year": "1956",
+        "ID": "51809"
+    },
+    {
+        "ListNumber": 298,
+        "Title": "The Rules of the Game",
+        "Year": "1939",
+        "ID": "51376"
+    },
+    {
+        "ListNumber": 299,
+        "Title": "Eyes Without a Face",
+        "Year": "1960",
+        "ID": "31194"
+    },
+    {
+        "ListNumber": 300,
+        "Title": "The Cabinet of Dr. Caligari",
+        "Year": "1920",
+        "ID": "51822"
+    }
+]
