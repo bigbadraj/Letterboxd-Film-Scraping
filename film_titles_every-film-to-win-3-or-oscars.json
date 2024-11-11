@@ -1,0 +1,962 @@
+[
+    {
+        "Title": "The Return of the King",
+        "Year": "1980",
+        "ID": "51095"
+    },
+    {
+        "Title": "The Last Emperor",
+        "Year": "1987",
+        "ID": "51406"
+    },
+    {
+        "Title": "West Side Story",
+        "Year": "1961",
+        "ID": "50826"
+    },
+    {
+        "Title": "Ben-Hur",
+        "Year": "1959",
+        "ID": "51459"
+    },
+    {
+        "Title": "The English Patient",
+        "Year": "1996",
+        "ID": "51681"
+    },
+    {
+        "Title": "Titanic",
+        "Year": "1997",
+        "ID": "51524"
+    },
+    {
+        "Title": "Gigi",
+        "Year": "1958",
+        "ID": "41088"
+    },
+    {
+        "Title": "Slumdog Millionaire",
+        "Year": "2008",
+        "ID": "44613"
+    },
+    {
+        "Title": "Cabaret",
+        "Year": "1972",
+        "ID": "45900"
+    },
+    {
+        "Title": "Gandhi",
+        "Year": "1982",
+        "ID": "51369"
+    },
+    {
+        "Title": "Amadeus",
+        "Year": "1984",
+        "ID": "51777"
+    },
+    {
+        "Title": "From Here to Eternity",
+        "Year": "1953",
+        "ID": "45309"
+    },
+    {
+        "Title": "My Fair Lady",
+        "Year": "1964",
+        "ID": "45593"
+    },
+    {
+        "Title": "Gone with the Wind",
+        "Year": "1939",
+        "ID": "51382"
+    },
+    {
+        "Title": "On the Waterfront",
+        "Year": "1954",
+        "ID": "51470"
+    },
+    {
+        "Title": "Gravity",
+        "Year": "2013",
+        "ID": "16529"
+    },
+    {
+        "Title": "Oppenheimer",
+        "Year": "2023",
+        "ID": "784328"
+    },
+    {
+        "Title": "Dances with Wolves",
+        "Year": "1990",
+        "ID": "51539"
+    },
+    {
+        "Title": "Everything Everywhere All at Once",
+        "Year": "2022",
+        "ID": "474474"
+    },
+    {
+        "Title": "Schindler's List",
+        "Year": "1993",
+        "ID": "51671"
+    },
+    {
+        "Title": "Out of Africa",
+        "Year": "1985",
+        "ID": "51515"
+    },
+    {
+        "Title": "Shakespeare in Love",
+        "Year": "1998",
+        "ID": "50674"
+    },
+    {
+        "Title": "Patton",
+        "Year": "1970",
+        "ID": "45507"
+    },
+    {
+        "Title": "The Bridge on the River Kwai",
+        "Year": "1957",
+        "ID": "51326"
+    },
+    {
+        "Title": "The Best Years of Our Lives",
+        "Year": "1946",
+        "ID": "51265"
+    },
+    {
+        "Title": "The Sting",
+        "Year": "1973",
+        "ID": "47315"
+    },
+    {
+        "Title": "Lawrence of Arabia",
+        "Year": "1962",
+        "ID": "60299"
+    },
+    {
+        "Title": "La La Land",
+        "Year": "2016",
+        "ID": "240344"
+    },
+    {
+        "Title": "Going My Way",
+        "Year": "1944",
+        "ID": "40855"
+    },
+    {
+        "Title": "The Hurt Locker",
+        "Year": "2008",
+        "ID": "44741"
+    },
+    {
+        "Title": "Mad Max: Fury Road",
+        "Year": "2015",
+        "ID": "62780"
+    },
+    {
+        "Title": "Dune",
+        "Year": "2021",
+        "ID": "371378"
+    },
+    {
+        "Title": "Star Wars",
+        "Year": "1977",
+        "ID": "2706"
+    },
+    {
+        "Title": "Chicago",
+        "Year": "2002",
+        "ID": "50960"
+    },
+    {
+        "Title": "A Man for All Seasons",
+        "Year": "1966",
+        "ID": "51278"
+    },
+    {
+        "Title": "The Godfather Part II",
+        "Year": "1974",
+        "ID": "51816"
+    },
+    {
+        "Title": "Forrest Gump",
+        "Year": "1994",
+        "ID": "2704"
+    },
+    {
+        "Title": "All About Eve",
+        "Year": "1950",
+        "ID": "51421"
+    },
+    {
+        "Title": "A Place in the Sun",
+        "Year": "1951",
+        "ID": "35881"
+    },
+    {
+        "Title": "Mrs. Miniver",
+        "Year": "1942",
+        "ID": "34581"
+    },
+    {
+        "Title": "An American in Paris",
+        "Year": "1951",
+        "ID": "50102"
+    },
+    {
+        "Title": "The Aviator",
+        "Year": "2004",
+        "ID": "50207"
+    },
+    {
+        "Title": "The Artist",
+        "Year": "2011",
+        "ID": "61707"
+    },
+    {
+        "Title": "Hugo",
+        "Year": "2011",
+        "ID": "20374"
+    },
+    {
+        "Title": "Gladiator",
+        "Year": "2000",
+        "ID": "51952"
+    },
+    {
+        "Title": "The Silence of the Lambs",
+        "Year": "1991",
+        "ID": "51782"
+    },
+    {
+        "Title": "Braveheart",
+        "Year": "1995",
+        "ID": "51855"
+    },
+    {
+        "Title": "Saving Private Ryan",
+        "Year": "1998",
+        "ID": "51295"
+    },
+    {
+        "Title": "Terms of Endearment",
+        "Year": "1983",
+        "ID": "45653"
+    },
+    {
+        "Title": "Kramer vs. Kramer",
+        "Year": "1979",
+        "ID": "6538"
+    },
+    {
+        "Title": "American Beauty",
+        "Year": "1999",
+        "ID": "2703"
+    },
+    {
+        "Title": "The Deer Hunter",
+        "Year": "1978",
+        "ID": "45017"
+    },
+    {
+        "Title": "The French Connection",
+        "Year": "1971",
+        "ID": "51164"
+    },
+    {
+        "Title": "Oliver!",
+        "Year": "1968",
+        "ID": "40690"
+    },
+    {
+        "Title": "In the Heat of the Night",
+        "Year": "1967",
+        "ID": "46041"
+    },
+    {
+        "Title": "One Flew Over the Cuckoo's Nest",
+        "Year": "1975",
+        "ID": "51600"
+    },
+    {
+        "Title": "Who's Afraid of Virginia Woolf?",
+        "Year": "1966",
+        "ID": "51694"
+    },
+    {
+        "Title": "The Sound of Music",
+        "Year": "1965",
+        "ID": "42580"
+    },
+    {
+        "Title": "Doctor Zhivago",
+        "Year": "1965",
+        "ID": "51245"
+    },
+    {
+        "Title": "The Apartment",
+        "Year": "1960",
+        "ID": "51774"
+    },
+    {
+        "Title": "The Bad and the Beautiful",
+        "Year": "1952",
+        "ID": "30391"
+    },
+    {
+        "Title": "How Green Was My Valley",
+        "Year": "1941",
+        "ID": "21880"
+    },
+    {
+        "Title": "It Happened One Night",
+        "Year": "1934",
+        "ID": "49893"
+    },
+    {
+        "Title": "The King and I",
+        "Year": "1956",
+        "ID": "41520"
+    },
+    {
+        "Title": "Wilson",
+        "Year": "1944",
+        "ID": "70514"
+    },
+    {
+        "Title": "Mary Poppins",
+        "Year": "1964",
+        "ID": "51662"
+    },
+    {
+        "Title": "Around the World in Eighty Days",
+        "Year": "1956",
+        "ID": "50026"
+    },
+    {
+        "Title": "Poor Things",
+        "Year": "2023",
+        "ID": "710352"
+    },
+    {
+        "Title": "All Quiet on the Western Front",
+        "Year": "2022",
+        "ID": "16530"
+    },
+    {
+        "Title": "Bohemian Rhapsody",
+        "Year": "2018",
+        "ID": "358222"
+    },
+    {
+        "Title": "Parasite",
+        "Year": "2019",
+        "ID": "426406"
+    },
+    {
+        "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "Year": "2014",
+        "ID": "139795"
+    },
+    {
+        "Title": "Life of Pi",
+        "Year": "2012",
+        "ID": "74348"
+    },
+    {
+        "Title": "The Grand Budapest Hotel",
+        "Year": "2014",
+        "ID": "95113"
+    },
+    {
+        "Title": "The King's Speech",
+        "Year": "2010",
+        "ID": "5363"
+    },
+    {
+        "Title": "The Shape of Water",
+        "Year": "2017",
+        "ID": "333308"
+    },
+    {
+        "Title": "Inception",
+        "Year": "2010",
+        "ID": "34722"
+    },
+    {
+        "Title": "No Country for Old Men",
+        "Year": "2007",
+        "ID": "48140"
+    },
+    {
+        "Title": "Million Dollar Baby",
+        "Year": "2004",
+        "ID": "51979"
+    },
+    {
+        "Title": "The Departed",
+        "Year": "2006",
+        "ID": "51042"
+    },
+    {
+        "Title": "A Beautiful Mind",
+        "Year": "2001",
+        "ID": "51648"
+    },
+    {
+        "Title": "Crouching Tiger, Hidden Dragon",
+        "Year": "2000",
+        "ID": "51905"
+    },
+    {
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "ID": "51930"
+    },
+    {
+        "Title": "Terminator 2: Judgment Day",
+        "Year": "1991",
+        "ID": "51776"
+    },
+    {
+        "Title": "The Matrix",
+        "Year": "1999",
+        "ID": "51518"
+    },
+    {
+        "Title": "Driving Miss Daisy",
+        "Year": "1989",
+        "ID": "51687"
+    },
+    {
+        "Title": "Traffic",
+        "Year": "2000",
+        "ID": "50705"
+    },
+    {
+        "Title": "Rain Man",
+        "Year": "1988",
+        "ID": "51705"
+    },
+    {
+        "Title": "Unforgiven",
+        "Year": "1992",
+        "ID": "2685"
+    },
+    {
+        "Title": "Platoon",
+        "Year": "1986",
+        "ID": "51360"
+    },
+    {
+        "Title": "Fanny and Alexander",
+        "Year": "1982",
+        "ID": "48536"
+    },
+    {
+        "Title": "The Right Stuff",
+        "Year": "1983",
+        "ID": "47051"
+    },
+    {
+        "Title": "Chariots of Fire",
+        "Year": "1981",
+        "ID": "47154"
+    },
+    {
+        "Title": "E.T. the Extra-Terrestrial",
+        "Year": "1982",
+        "ID": "51520"
+    },
+    {
+        "Title": "All That Jazz",
+        "Year": "1979",
+        "ID": "41361"
+    },
+    {
+        "Title": "Raiders of the Lost Ark",
+        "Year": "1981",
+        "ID": "51965"
+    },
+    {
+        "Title": "Network",
+        "Year": "1976",
+        "ID": "45909"
+    },
+    {
+        "Title": "Annie Hall",
+        "Year": "1977",
+        "ID": "51423"
+    },
+    {
+        "Title": "Ordinary People",
+        "Year": "1980",
+        "ID": "41474"
+    },
+    {
+        "Title": "All the President's Men",
+        "Year": "1976",
+        "ID": "51261"
+    },
+    {
+        "Title": "Hamlet",
+        "Year": "1948",
+        "ID": "37401"
+    },
+    {
+        "Title": "Anthony Adverse",
+        "Year": "1936",
+        "ID": "26839"
+    },
+    {
+        "Title": "Barry Lyndon",
+        "Year": "1975",
+        "ID": "49811"
+    },
+    {
+        "Title": "Butch Cassidy and the Sundance Kid",
+        "Year": "1969",
+        "ID": "51482"
+    },
+    {
+        "Title": "High Noon",
+        "Year": "1952",
+        "ID": "51771"
+    },
+    {
+        "Title": "The Heiress",
+        "Year": "1949",
+        "ID": "33555"
+    },
+    {
+        "Title": "The Informer",
+        "Year": "1935",
+        "ID": "21261"
+    },
+    {
+        "Title": "Cleopatra",
+        "Year": "1963",
+        "ID": "47875"
+    },
+    {
+        "Title": "The Lost Weekend",
+        "Year": "1945",
+        "ID": "33546"
+    },
+    {
+        "Title": "Marty",
+        "Year": "1955",
+        "ID": "41988"
+    },
+    {
+        "Title": "The Song of Bernadette",
+        "Year": "1943",
+        "ID": "21634"
+    },
+    {
+        "Title": "Sayonara",
+        "Year": "1957",
+        "ID": "24106"
+    },
+    {
+        "Title": "A Streetcar Named Desire",
+        "Year": "1951",
+        "ID": "51424"
+    },
+    {
+        "Title": "Spartacus",
+        "Year": "1960",
+        "ID": "51196"
+    },
+    {
+        "Title": "Tom Jones",
+        "Year": "1963",
+        "ID": "48660"
+    },
+    {
+        "Title": "Nomadland",
+        "Year": "2020",
+        "ID": "509662"
+    },
+    {
+        "Title": "CODA",
+        "Year": "2021",
+        "ID": "695473"
+    },
+    {
+        "Title": "1917",
+        "Year": "2019",
+        "ID": "460155"
+    },
+    {
+        "Title": "Roma",
+        "Year": "2018",
+        "ID": "359859"
+    },
+    {
+        "Title": "Black Panther",
+        "Year": "2018",
+        "ID": "209383"
+    },
+    {
+        "Title": "Moonlight",
+        "Year": "2016",
+        "ID": "312205"
+    },
+    {
+        "Title": "The Revenant",
+        "Year": "2015",
+        "ID": "207224"
+    },
+    {
+        "Title": "Whiplash",
+        "Year": "2014",
+        "ID": "171384"
+    },
+    {
+        "Title": "Dunkirk",
+        "Year": "2017",
+        "ID": "310199"
+    },
+    {
+        "Title": "Green Book",
+        "Year": "2018",
+        "ID": "420703"
+    },
+    {
+        "Title": "Dallas Buyers Club",
+        "Year": "2013",
+        "ID": "114605"
+    },
+    {
+        "Title": "12 Years a Slave",
+        "Year": "2013",
+        "ID": "62671"
+    },
+    {
+        "Title": "Argo",
+        "Year": "2012",
+        "ID": "52501"
+    },
+    {
+        "Title": "Les Misérables",
+        "Year": "2012",
+        "ID": "69149"
+    },
+    {
+        "Title": "The Social Network",
+        "Year": "2010",
+        "ID": "26711"
+    },
+    {
+        "Title": "Avatar",
+        "Year": "2009",
+        "ID": "39304"
+    },
+    {
+        "Title": "Pan's Labyrinth",
+        "Year": "2006",
+        "ID": "51047"
+    },
+    {
+        "Title": "The Curious Case of Benjamin Button",
+        "Year": "2008",
+        "ID": "49075"
+    },
+    {
+        "Title": "The Bourne Ultimatum",
+        "Year": "2007",
+        "ID": "50223"
+    },
+    {
+        "Title": "Brokeback Mountain",
+        "Year": "2005",
+        "ID": "51909"
+    },
+    {
+        "Title": "King Kong",
+        "Year": "2005",
+        "ID": "51802"
+    },
+    {
+        "Title": "The Pianist",
+        "Year": "2002",
+        "ID": "51672"
+    },
+    {
+        "Title": "The Piano",
+        "Year": "1993",
+        "ID": "51413"
+    },
+    {
+        "Title": "Life Is Beautiful",
+        "Year": "1997",
+        "ID": "51487"
+    },
+    {
+        "Title": "Memoirs of a Geisha",
+        "Year": "2005",
+        "ID": "50701"
+    },
+    {
+        "Title": "Crash",
+        "Year": "2004",
+        "ID": "50902"
+    },
+    {
+        "Title": "Howards End",
+        "Year": "1992",
+        "ID": "47814"
+    },
+    {
+        "Title": "Jurassic Park",
+        "Year": "1993",
+        "ID": "51733"
+    },
+    {
+        "Title": "Dick Tracy",
+        "Year": "1990",
+        "ID": "47675"
+    },
+    {
+        "Title": "Bram Stoker's Dracula",
+        "Year": "1992",
+        "ID": "48454"
+    },
+    {
+        "Title": "Glory",
+        "Year": "1989",
+        "ID": "46937"
+    },
+    {
+        "Title": "Moonstruck",
+        "Year": "1987",
+        "ID": "50575"
+    },
+    {
+        "Title": "A Room with a View",
+        "Year": "1986",
+        "ID": "45456"
+    },
+    {
+        "Title": "Dangerous Liaisons",
+        "Year": "1988",
+        "ID": "51293"
+    },
+    {
+        "Title": "Reds",
+        "Year": "1981",
+        "ID": "40470"
+    },
+    {
+        "Title": "Who Framed Roger Rabbit",
+        "Year": "1988",
+        "ID": "51296"
+    },
+    {
+        "Title": "Hannah and Her Sisters",
+        "Year": "1986",
+        "ID": "48940"
+    },
+    {
+        "Title": "On Golden Pond",
+        "Year": "1981",
+        "ID": "44984"
+    },
+    {
+        "Title": "Tess",
+        "Year": "1979",
+        "ID": "45585"
+    },
+    {
+        "Title": "Julia",
+        "Year": "1977",
+        "ID": "55461"
+    },
+    {
+        "Title": "Coming Home",
+        "Year": "1978",
+        "ID": "30985"
+    },
+    {
+        "Title": "The Killing Fields",
+        "Year": "1984",
+        "ID": "51499"
+    },
+    {
+        "Title": "The Godfather",
+        "Year": "1972",
+        "ID": "51818"
+    },
+    {
+        "Title": "The Towering Inferno",
+        "Year": "1974",
+        "ID": "48568"
+    },
+    {
+        "Title": "Jaws",
+        "Year": "1975",
+        "ID": "51542"
+    },
+    {
+        "Title": "Midnight Cowboy",
+        "Year": "1969",
+        "ID": "49856"
+    },
+    {
+        "Title": "Fiddler on the Roof",
+        "Year": "1971",
+        "ID": "42800"
+    },
+    {
+        "Title": "The Lion in Winter",
+        "Year": "1968",
+        "ID": "39948"
+    },
+    {
+        "Title": "Grand Prix",
+        "Year": "1966",
+        "ID": "39046"
+    },
+    {
+        "Title": "Camelot",
+        "Year": "1967",
+        "ID": "39956"
+    },
+    {
+        "Title": "7th Heaven",
+        "Year": "1927",
+        "ID": "68902"
+    },
+    {
+        "Title": "Darling",
+        "Year": "1965",
+        "ID": "36998"
+    },
+    {
+        "Title": "Hello, Dolly!",
+        "Year": "1969",
+        "ID": "43398"
+    },
+    {
+        "Title": "The Adventures of Robin Hood",
+        "Year": "1938",
+        "ID": "45785"
+    },
+    {
+        "Title": "All the King's Men",
+        "Year": "1949",
+        "ID": "36076"
+    },
+    {
+        "Title": "Casablanca",
+        "Year": "1942",
+        "ID": "51770"
+    },
+    {
+        "Title": "Cimarron",
+        "Year": "1931",
+        "ID": "22237"
+    },
+    {
+        "Title": "Cavalcade",
+        "Year": "1933",
+        "ID": "9912"
+    },
+    {
+        "Title": "The Diary of Anne Frank",
+        "Year": "1959",
+        "ID": "50204"
+    },
+    {
+        "Title": "Elmer Gantry",
+        "Year": "1960",
+        "ID": "38124"
+    },
+    {
+        "Title": "Gentleman's Agreement",
+        "Year": "1947",
+        "ID": "29623"
+    },
+    {
+        "Title": "Hud",
+        "Year": "1963",
+        "ID": "36548"
+    },
+    {
+        "Title": "The Great Ziegfeld",
+        "Year": "1936",
+        "ID": "21869"
+    },
+    {
+        "Title": "The Life of Emile Zola",
+        "Year": "1937",
+        "ID": "21868"
+    },
+    {
+        "Title": "Love Is a Many-Splendored Thing",
+        "Year": "1955",
+        "ID": "12114"
+    },
+    {
+        "Title": "Miracle on 34th Street",
+        "Year": "1947",
+        "ID": "44922"
+    },
+    {
+        "Title": "How the West Was Won",
+        "Year": "1962",
+        "ID": "44909"
+    },
+    {
+        "Title": "The Rose Tattoo",
+        "Year": "1955",
+        "ID": "1285"
+    },
+    {
+        "Title": "The Story of Louis Pasteur",
+        "Year": "1936",
+        "ID": "61849"
+    },
+    {
+        "Title": "Roman Holiday",
+        "Year": "1953",
+        "ID": "51348"
+    },
+    {
+        "Title": "Sunset Boulevard",
+        "Year": "1950",
+        "ID": "51522"
+    },
+    {
+        "Title": "Sunrise: A Song of Two Humans",
+        "Year": "1927",
+        "ID": "51493"
+    },
+    {
+        "Title": "Yankee Doodle Dandy",
+        "Year": "1942",
+        "ID": "49884"
+    },
+    {
+        "Title": "The Treasure of the Sierra Madre",
+        "Year": "1948",
+        "ID": "49881"
+    },
+    {
+        "Title": "The Thief of Bagdad",
+        "Year": "1940",
+        "ID": "44679"
+    },
+    {
+        "Title": "To Kill a Mockingbird",
+        "Year": "1962",
+        "ID": "51526"
+    },
+    {
+        "Title": "Zorba the Greek",
+        "Year": "1964",
+        "ID": "46070"
+    }
+]
