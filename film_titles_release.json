@@ -1,0 +1,357 @@
+[
+    {
+        "Title": "The Room Next Door",
+        "Year": "2024",
+        "ID": "981400"
+    },
+    {
+        "Title": "Joker",
+        "Year": "2019",
+        "ID": "406775"
+    },
+    {
+        "Title": "Nomadland",
+        "Year": "2020",
+        "ID": "509662"
+    },
+    {
+        "Title": "All the Beauty and the Bloodshed",
+        "Year": "2022",
+        "ID": "905001"
+    },
+    {
+        "Title": "Happening",
+        "Year": "2021",
+        "ID": "711707"
+    },
+    {
+        "Title": "Roma",
+        "Year": "2018",
+        "ID": "359859"
+    },
+    {
+        "Title": "The Shape of Water",
+        "Year": "2017",
+        "ID": "333308"
+    },
+    {
+        "Title": "The Woman Who Left",
+        "Year": "2016",
+        "ID": "342766"
+    },
+    {
+        "Title": "From Afar",
+        "Year": "2015",
+        "ID": "282292"
+    },
+    {
+        "Title": "Pieta",
+        "Year": "2012",
+        "ID": "96908"
+    },
+    {
+        "Title": "Poor Things",
+        "Year": "2023",
+        "ID": "710352"
+    },
+    {
+        "Title": "Sacro GRA",
+        "Year": "2013",
+        "ID": "153712"
+    },
+    {
+        "Title": "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Year": "2014",
+        "ID": "88506"
+    },
+    {
+        "Title": "Faust",
+        "Year": "2011",
+        "ID": "63995"
+    },
+    {
+        "Title": "Lebanon",
+        "Year": "2009",
+        "ID": "30661"
+    },
+    {
+        "Title": "Somewhere",
+        "Year": "2010",
+        "ID": "25454"
+    },
+    {
+        "Title": "The Wrestler",
+        "Year": "2008",
+        "ID": "44740"
+    },
+    {
+        "Title": "Brokeback Mountain",
+        "Year": "2005",
+        "ID": "51909"
+    },
+    {
+        "Title": "Vera Drake",
+        "Year": "2004",
+        "ID": "45597"
+    },
+    {
+        "Title": "Lust, Caution",
+        "Year": "2007",
+        "ID": "49230"
+    },
+    {
+        "Title": "Still Life",
+        "Year": "2006",
+        "ID": "50315"
+    },
+    {
+        "Title": "The Return",
+        "Year": "2003",
+        "ID": "45519"
+    },
+    {
+        "Title": "The Circle",
+        "Year": "2000",
+        "ID": "43509"
+    },
+    {
+        "Title": "Monsoon Wedding",
+        "Year": "2001",
+        "ID": "51626"
+    },
+    {
+        "Title": "The Magdalene Sisters",
+        "Year": "2002",
+        "ID": "47876"
+    },
+    {
+        "Title": "The Way We Laughed",
+        "Year": "1998",
+        "ID": "8114"
+    },
+    {
+        "Title": "Not One Less",
+        "Year": "1999",
+        "ID": "28093"
+    },
+    {
+        "Title": "Vive L'Amour",
+        "Year": "1994",
+        "ID": "60141"
+    },
+    {
+        "Title": "Cyclo",
+        "Year": "1995",
+        "ID": "28043"
+    },
+    {
+        "Title": "Michael Collins",
+        "Year": "1996",
+        "ID": "50810"
+    },
+    {
+        "Title": "Short Cuts",
+        "Year": "1993",
+        "ID": "51431"
+    },
+    {
+        "Title": "Before the Rain",
+        "Year": "1994",
+        "ID": "39819"
+    },
+    {
+        "Title": "Three Colours: Blue",
+        "Year": "1993",
+        "ID": "51942"
+    },
+    {
+        "Title": "Fireworks",
+        "Year": "1997",
+        "ID": "48576"
+    },
+    {
+        "Title": "The Story of Qiu Ju",
+        "Year": "1992",
+        "ID": "26399"
+    },
+    {
+        "Title": "Rosencrantz & Guildenstern Are Dead",
+        "Year": "1990",
+        "ID": "39963"
+    },
+    {
+        "Title": "A City of Sadness",
+        "Year": "1989",
+        "ID": "15651"
+    },
+    {
+        "Title": "The Legend of the Holy Drinker",
+        "Year": "1988",
+        "ID": "11117"
+    },
+    {
+        "Title": "The Green Ray",
+        "Year": "1986",
+        "ID": "11203"
+    },
+    {
+        "Title": "Close to Eden",
+        "Year": "1991",
+        "ID": "27968"
+    },
+    {
+        "Title": "Au Revoir les Enfants",
+        "Year": "1987",
+        "ID": "50796"
+    },
+    {
+        "Title": "Vagabond",
+        "Year": "1985",
+        "ID": "21145"
+    },
+    {
+        "Title": "Gloria",
+        "Year": "1980",
+        "ID": "6524"
+    },
+    {
+        "Title": "A Year of the Quiet Sun",
+        "Year": "1984",
+        "ID": "22970"
+    },
+    {
+        "Title": "Marianne and Juliane",
+        "Year": "1981",
+        "ID": "22924"
+    },
+    {
+        "Title": "First Name: Carmen",
+        "Year": "1983",
+        "ID": "30245"
+    },
+    {
+        "Title": "The State of Things",
+        "Year": "1982",
+        "ID": "32093"
+    },
+    {
+        "Title": "Belle de Jour",
+        "Year": "1967",
+        "ID": "51475"
+    },
+    {
+        "Title": "Atlantic City",
+        "Year": "1980",
+        "ID": "37139"
+    },
+    {
+        "Title": "Artists Under the Big Top: Perplexed",
+        "Year": "1968",
+        "ID": "115972"
+    },
+    {
+        "Title": "Sandra",
+        "Year": "1965",
+        "ID": "77148"
+    },
+    {
+        "Title": "The Battle of Algiers",
+        "Year": "1966",
+        "ID": "41081"
+    },
+    {
+        "Title": "Hands over the City",
+        "Year": "1963",
+        "ID": "7891"
+    },
+    {
+        "Title": "Red Desert",
+        "Year": "1964",
+        "ID": "35166"
+    },
+    {
+        "Title": "Family Diary",
+        "Year": "1962",
+        "ID": "67011"
+    },
+    {
+        "Title": "Ivan's Childhood",
+        "Year": "1962",
+        "ID": "31177"
+    },
+    {
+        "Title": "Last Year at Marienbad",
+        "Year": "1961",
+        "ID": "49527"
+    },
+    {
+        "Title": "General Della Rovere",
+        "Year": "1959",
+        "ID": "22022"
+    },
+    {
+        "Title": "The Rickshaw Man",
+        "Year": "1958",
+        "ID": "22002"
+    },
+    {
+        "Title": "Tomorrow Is My Turn",
+        "Year": "1960",
+        "ID": "115973"
+    },
+    {
+        "Title": "The Great War",
+        "Year": "1959",
+        "ID": "10346"
+    },
+    {
+        "Title": "Aparajito",
+        "Year": "1956",
+        "ID": "51255"
+    },
+    {
+        "Title": "Romeo and Juliet",
+        "Year": "1954",
+        "ID": "77381"
+    },
+    {
+        "Title": "Ordet",
+        "Year": "1955",
+        "ID": "17413"
+    },
+    {
+        "Title": "Rashomon",
+        "Year": "1950",
+        "ID": "51570"
+    },
+    {
+        "Title": "Forbidden Games",
+        "Year": "1952",
+        "ID": "49002"
+    },
+    {
+        "Title": "Justice Is Done",
+        "Year": "1950",
+        "ID": "53460"
+    },
+    {
+        "Title": "Hamlet",
+        "Year": "1948",
+        "ID": "37401"
+    },
+    {
+        "Title": "Manon",
+        "Year": "1949",
+        "ID": "102353"
+    },
+    {
+        "Title": "The Strike",
+        "Year": "1947",
+        "ID": "146428"
+    },
+    {
+        "Title": "The Southerner",
+        "Year": "1945",
+        "ID": "20011"
+    }
+]
