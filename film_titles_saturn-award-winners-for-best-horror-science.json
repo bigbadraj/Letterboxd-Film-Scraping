@@ -1,0 +1,732 @@
+[
+    {
+        "Title": "Blacula",
+        "Year": "1972",
+        "ID": "31926"
+    },
+    {
+        "Title": "The Little Girl Who Lives Down the Lane",
+        "Year": "1976",
+        "ID": "39317"
+    },
+    {
+        "Title": "Young Frankenstein",
+        "Year": "1974",
+        "ID": "49931"
+    },
+    {
+        "Title": "Burnt Offerings",
+        "Year": "1976",
+        "ID": "43795"
+    },
+    {
+        "Title": "Jaws",
+        "Year": "1975",
+        "ID": "51542"
+    },
+    {
+        "Title": "The Wicker Man",
+        "Year": "1973",
+        "ID": "41662"
+    },
+    {
+        "Title": "Dracula",
+        "Year": "1979",
+        "ID": "29723"
+    },
+    {
+        "Title": "The Exorcist",
+        "Year": "1973",
+        "ID": "47048"
+    },
+    {
+        "Title": "The Howling",
+        "Year": "1981",
+        "ID": "45435"
+    },
+    {
+        "Title": "Alien",
+        "Year": "1979",
+        "ID": "51714"
+    },
+    {
+        "Title": "An American Werewolf in London",
+        "Year": "1981",
+        "ID": "51338"
+    },
+    {
+        "Title": "Poltergeist",
+        "Year": "1982",
+        "ID": "51512"
+    },
+    {
+        "Title": "The Dead Zone",
+        "Year": "1983",
+        "ID": "45398"
+    },
+    {
+        "Title": "The Fly",
+        "Year": "1986",
+        "ID": "47171"
+    },
+    {
+        "Title": "Aliens",
+        "Year": "1986",
+        "ID": "51445"
+    },
+    {
+        "Title": "Fright Night",
+        "Year": "1985",
+        "ID": "45001"
+    },
+    {
+        "Title": "The Lost Boys",
+        "Year": "1987",
+        "ID": "50987"
+    },
+    {
+        "Title": "Gremlins",
+        "Year": "1984",
+        "ID": "51226"
+    },
+    {
+        "Title": "Arachnophobia",
+        "Year": "1990",
+        "ID": "48288"
+    },
+    {
+        "Title": "Beetlejuice",
+        "Year": "1988",
+        "ID": "49530"
+    },
+    {
+        "Title": "The Silence of the Lambs",
+        "Year": "1991",
+        "ID": "51782"
+    },
+    {
+        "Title": "Bram Stoker's Dracula",
+        "Year": "1992",
+        "ID": "48454"
+    },
+    {
+        "Title": "Army of Darkness",
+        "Year": "1992",
+        "ID": "51386"
+    },
+    {
+        "Title": "Interview with the Vampire",
+        "Year": "1994",
+        "ID": "51496"
+    },
+    {
+        "Title": "From Dusk Till Dawn",
+        "Year": "1996",
+        "ID": "51397"
+    },
+    {
+        "Title": "The Sixth Sense",
+        "Year": "1999",
+        "ID": "51407"
+    },
+    {
+        "Title": "Apt Pupil",
+        "Year": "1998",
+        "ID": "47152"
+    },
+    {
+        "Title": "The Others",
+        "Year": "2001",
+        "ID": "50675"
+    },
+    {
+        "Title": "The Ring",
+        "Year": "2002",
+        "ID": "51553"
+    },
+    {
+        "Title": "Scream",
+        "Year": "1996",
+        "ID": "49455"
+    },
+    {
+        "Title": "The Devil's Advocate",
+        "Year": "1997",
+        "ID": "50780"
+    },
+    {
+        "Title": "Shaun of the Dead",
+        "Year": "2004",
+        "ID": "51405"
+    },
+    {
+        "Title": "Final Destination",
+        "Year": "2000",
+        "ID": "47068"
+    },
+    {
+        "Title": "28 Days Later",
+        "Year": "2002",
+        "ID": "51881"
+    },
+    {
+        "Title": "The Descent",
+        "Year": "2005",
+        "ID": "47204"
+    },
+    {
+        "Title": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "Year": "2007",
+        "ID": "43517"
+    },
+    {
+        "Title": "The Exorcism of Emily Rose",
+        "Year": "2005",
+        "ID": "47670"
+    },
+    {
+        "Title": "Let Me In",
+        "Year": "2010",
+        "ID": "23623"
+    },
+    {
+        "Title": "Cloverfield",
+        "Year": "2008",
+        "ID": "48106"
+    },
+    {
+        "Title": "Hellboy II: The Golden Army",
+        "Year": "2008",
+        "ID": "45459"
+    },
+    {
+        "Title": "The Girl with the Dragon Tattoo",
+        "Year": "2011",
+        "ID": "1086"
+    },
+    {
+        "Title": "Drag Me to Hell",
+        "Year": "2009",
+        "ID": "41351"
+    },
+    {
+        "Title": "Crimson Peak",
+        "Year": "2015",
+        "ID": "144110"
+    },
+    {
+        "Title": "The Cabin in the Woods",
+        "Year": "2011",
+        "ID": "37598"
+    },
+    {
+        "Title": "Dracula Untold",
+        "Year": "2014",
+        "ID": "16557"
+    },
+    {
+        "Title": "Get Out",
+        "Year": "2017",
+        "ID": "353117"
+    },
+    {
+        "Title": "10 Cloverfield Lane",
+        "Year": "2016",
+        "ID": "261891"
+    },
+    {
+        "Title": "The Conjuring",
+        "Year": "2013",
+        "ID": "106262"
+    },
+    {
+        "Title": "A Quiet Place",
+        "Year": "2018",
+        "ID": "379687"
+    },
+    {
+        "Title": "Don't Breathe",
+        "Year": "2016",
+        "ID": "227785"
+    },
+    {
+        "Title": "The Invisible Man",
+        "Year": "2020",
+        "ID": "499085"
+    },
+    {
+        "Title": "Talk to Me",
+        "Year": "2022",
+        "ID": "908144"
+    },
+    {
+        "Title": "Rollerball",
+        "Year": "1975",
+        "ID": "45260"
+    },
+    {
+        "Title": "Soylent Green",
+        "Year": "1973",
+        "ID": "44799"
+    },
+    {
+        "Title": "Slaughterhouse-Five",
+        "Year": "1972",
+        "ID": "36691"
+    },
+    {
+        "Title": "The Black Phone",
+        "Year": "2021",
+        "ID": "677571"
+    },
+    {
+        "Title": "Logan's Run",
+        "Year": "1976",
+        "ID": "45881"
+    },
+    {
+        "Title": "Star Wars",
+        "Year": "1977",
+        "ID": "2706"
+    },
+    {
+        "Title": "Superman II",
+        "Year": "1980",
+        "ID": "47693"
+    },
+    {
+        "Title": "Superman",
+        "Year": "1978",
+        "ID": "50681"
+    },
+    {
+        "Title": "The Empire Strikes Back",
+        "Year": "1980",
+        "ID": "50713"
+    },
+    {
+        "Title": "E.T. the Extra-Terrestrial",
+        "Year": "1982",
+        "ID": "51520"
+    },
+    {
+        "Title": "Return of the Jedi",
+        "Year": "1983",
+        "ID": "50712"
+    },
+    {
+        "Title": "The Terminator",
+        "Year": "1984",
+        "ID": "51838"
+    },
+    {
+        "Title": "Back to the Future",
+        "Year": "1985",
+        "ID": "51945"
+    },
+    {
+        "Title": "Alien Nation",
+        "Year": "1988",
+        "ID": "46521"
+    },
+    {
+        "Title": "Terminator 2: Judgment Day",
+        "Year": "1991",
+        "ID": "51776"
+    },
+    {
+        "Title": "RoboCop",
+        "Year": "1987",
+        "ID": "48797"
+    },
+    {
+        "Title": "Stargate",
+        "Year": "1994",
+        "ID": "50471"
+    },
+    {
+        "Title": "Star Trek VI: The Undiscovered Country",
+        "Year": "1991",
+        "ID": "51877"
+    },
+    {
+        "Title": "Total Recall",
+        "Year": "1990",
+        "ID": "51291"
+    },
+    {
+        "Title": "Twelve Monkeys",
+        "Year": "1995",
+        "ID": "51986"
+    },
+    {
+        "Title": "Jurassic Park",
+        "Year": "1993",
+        "ID": "51733"
+    },
+    {
+        "Title": "Men in Black",
+        "Year": "1997",
+        "ID": "51514"
+    },
+    {
+        "Title": "Dark City",
+        "Year": "1998",
+        "ID": "50160"
+    },
+    {
+        "Title": "Independence Day",
+        "Year": "1996",
+        "ID": "51519"
+    },
+    {
+        "Title": "Armageddon",
+        "Year": "1998",
+        "ID": "51955"
+    },
+    {
+        "Title": "A.I. Artificial Intelligence",
+        "Year": "2001",
+        "ID": "51480"
+    },
+    {
+        "Title": "Minority Report",
+        "Year": "2002",
+        "ID": "51871"
+    },
+    {
+        "Title": "The Matrix",
+        "Year": "1999",
+        "ID": "51518"
+    },
+    {
+        "Title": "X2",
+        "Year": "2003",
+        "ID": "27722"
+    },
+    {
+        "Title": "Eternal Sunshine of the Spotless Mind",
+        "Year": "2004",
+        "ID": "2683"
+    },
+    {
+        "Title": "Star Wars: Episode III – Revenge of the Sith",
+        "Year": "2005",
+        "ID": "50709"
+    },
+    {
+        "Title": "X-Men",
+        "Year": "2000",
+        "ID": "27723"
+    },
+    {
+        "Title": "Children of Men",
+        "Year": "2006",
+        "ID": "46911"
+    },
+    {
+        "Title": "Rise of the Planet of the Apes",
+        "Year": "2011",
+        "ID": "4948"
+    },
+    {
+        "Title": "Inception",
+        "Year": "2010",
+        "ID": "34722"
+    },
+    {
+        "Title": "Avatar",
+        "Year": "2009",
+        "ID": "39304"
+    },
+    {
+        "Title": "The Avengers",
+        "Year": "2012",
+        "ID": "36778"
+    },
+    {
+        "Title": "Gravity",
+        "Year": "2013",
+        "ID": "16529"
+    },
+    {
+        "Title": "Interstellar",
+        "Year": "2014",
+        "ID": "117621"
+    },
+    {
+        "Title": "Star Wars: The Force Awakens",
+        "Year": "2015",
+        "ID": "107418"
+    },
+    {
+        "Title": "Iron Man",
+        "Year": "2008",
+        "ID": "50825"
+    },
+    {
+        "Title": "Blade Runner 2049",
+        "Year": "2017",
+        "ID": "265439"
+    },
+    {
+        "Title": "Ready Player One",
+        "Year": "2018",
+        "ID": "261866"
+    },
+    {
+        "Title": "Rogue One: A Star Wars Story",
+        "Year": "2016",
+        "ID": "258128"
+    },
+    {
+        "Title": "Star Wars: The Rise of Skywalker",
+        "Year": "2019",
+        "ID": "131984"
+    },
+    {
+        "Title": "The Golden Voyage of Sinbad",
+        "Year": "1973",
+        "ID": "40709"
+    },
+    {
+        "Title": "Nope",
+        "Year": "2022",
+        "ID": "682547"
+    },
+    {
+        "Title": "Avatar: The Way of Water",
+        "Year": "2022",
+        "ID": "63058"
+    },
+    {
+        "Title": "The Down-in-the-Hole Gang",
+        "Year": "1974",
+        "ID": "49515"
+    },
+    {
+        "Title": "Doc Savage: The Man of Bronze",
+        "Year": "1975",
+        "ID": "25146"
+    },
+    {
+        "Title": "The Muppet Movie",
+        "Year": "1979",
+        "ID": "45532"
+    },
+    {
+        "Title": "Heaven Can Wait",
+        "Year": "1978",
+        "ID": "44720"
+    },
+    {
+        "Title": "Oh, God!",
+        "Year": "1977",
+        "ID": "37078"
+    },
+    {
+        "Title": "Somewhere in Time",
+        "Year": "1980",
+        "ID": "41469"
+    },
+    {
+        "Title": "The Dark Crystal",
+        "Year": "1982",
+        "ID": "45112"
+    },
+    {
+        "Title": "Ghostbusters",
+        "Year": "1984",
+        "ID": "6166"
+    },
+    {
+        "Title": "Something Wicked This Way Comes",
+        "Year": "1983",
+        "ID": "36497"
+    },
+    {
+        "Title": "Ladyhawke",
+        "Year": "1985",
+        "ID": "51591"
+    },
+    {
+        "Title": "The Princess Bride",
+        "Year": "1987",
+        "ID": "50226"
+    },
+    {
+        "Title": "The Boy Who Could Fly",
+        "Year": "1986",
+        "ID": "37032"
+    },
+    {
+        "Title": "Raiders of the Lost Ark",
+        "Year": "1981",
+        "ID": "51965"
+    },
+    {
+        "Title": "Ghost",
+        "Year": "1990",
+        "ID": "51805"
+    },
+    {
+        "Title": "Edward Scissorhands",
+        "Year": "1990",
+        "ID": "51889"
+    },
+    {
+        "Title": "Who Framed Roger Rabbit",
+        "Year": "1988",
+        "ID": "51296"
+    },
+    {
+        "Title": "The Nightmare Before Christmas",
+        "Year": "1993",
+        "ID": "47119"
+    },
+    {
+        "Title": "Aladdin",
+        "Year": "1992",
+        "ID": "51340"
+    },
+    {
+        "Title": "Babe",
+        "Year": "1995",
+        "ID": "47003"
+    },
+    {
+        "Title": "DragonHeart",
+        "Year": "1996",
+        "ID": "47581"
+    },
+    {
+        "Title": "Forrest Gump",
+        "Year": "1994",
+        "ID": "2704"
+    },
+    {
+        "Title": "The Truman Show",
+        "Year": "1998",
+        "ID": "27256"
+    },
+    {
+        "Title": "Being John Malkovich",
+        "Year": "1999",
+        "ID": "51618"
+    },
+    {
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "ID": "51930"
+    },
+    {
+        "Title": "Austin Powers: International Man of Mystery",
+        "Year": "1997",
+        "ID": "51336"
+    },
+    {
+        "Title": "Spider-Man 2",
+        "Year": "2004",
+        "ID": "51560"
+    },
+    {
+        "Title": "The Return of the King",
+        "Year": "1980",
+        "ID": "51095"
+    },
+    {
+        "Title": "Frequency",
+        "Year": "2000",
+        "ID": "46113"
+    },
+    {
+        "Title": "Batman Begins",
+        "Year": "2005",
+        "ID": "51784"
+    },
+    {
+        "Title": "The Curious Case of Benjamin Button",
+        "Year": "2008",
+        "ID": "49075"
+    },
+    {
+        "Title": "Superman Returns",
+        "Year": "2006",
+        "ID": "51020"
+    },
+    {
+        "Title": "Enchanted",
+        "Year": "2007",
+        "ID": "49280"
+    },
+    {
+        "Title": "The Lord of the Rings: The Two Towers",
+        "Year": "2002",
+        "ID": "51929"
+    },
+    {
+        "Title": "Watchmen",
+        "Year": "2009",
+        "ID": "44070"
+    },
+    {
+        "Title": "Alice in Wonderland",
+        "Year": "2010",
+        "ID": "44748"
+    },
+    {
+        "Title": "Life of Pi",
+        "Year": "2012",
+        "ID": "74348"
+    },
+    {
+        "Title": "Her",
+        "Year": "2013",
+        "ID": "114564"
+    },
+    {
+        "Title": "Cinderella",
+        "Year": "2015",
+        "ID": "113380"
+    },
+    {
+        "Title": "Harry Potter and the Deathly Hallows: Part 2",
+        "Year": "2011",
+        "ID": "44580"
+    },
+    {
+        "Title": "The Hobbit: The Battle of the Five Armies",
+        "Year": "2014",
+        "ID": "96552"
+    },
+    {
+        "Title": "The Shape of Water",
+        "Year": "2017",
+        "ID": "333308"
+    },
+    {
+        "Title": "The Jungle Book",
+        "Year": "2016",
+        "ID": "203083"
+    },
+    {
+        "Title": "Once Upon a Time... in Hollywood",
+        "Year": "2019",
+        "ID": "397859"
+    },
+    {
+        "Title": "Toy Story 4",
+        "Year": "2019",
+        "ID": "228628"
+    },
+    {
+        "Title": "Indiana Jones and the Dial of Destiny",
+        "Year": "2023",
+        "ID": "265433"
+    },
+    {
+        "Title": "Everything Everywhere All at Once",
+        "Year": "2022",
+        "ID": "474474"
+    }
+]
