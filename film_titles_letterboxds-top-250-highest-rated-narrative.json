@@ -1,1502 +1,1502 @@
 [
-    {
-        "ListNumber": 1,
-        "Title": "Band of Brothers",
-        "Year": "2001",
-        "ID": "259011"
-    },
-    {
-        "ListNumber": 2,
-        "Title": "Fullmetal Alchemist: Brotherhood",
-        "Year": "2009",
-        "ID": "607081"
-    },
-    {
-        "ListNumber": 3,
-        "Title": "Cowboy Bebop",
-        "Year": "1998",
-        "ID": "607221"
-    },
-    {
-        "ListNumber": 4,
-        "Title": "Monster",
-        "Year": "2004",
-        "ID": "608932"
-    },
-    {
-        "ListNumber": 5,
-        "Title": "Over the Garden Wall",
-        "Year": "2014",
-        "ID": "343911"
-    },
-    {
-        "ListNumber": 6,
-        "Title": "Twin Peaks: The Return",
-        "Year": "2017",
-        "ID": "424054"
-    },
-    {
-        "ListNumber": 7,
-        "Title": "Chernobyl",
-        "Year": "2019",
-        "ID": "532082"
-    },
-    {
-        "ListNumber": 8,
-        "Title": "Dekalog",
-        "Year": "1989",
-        "ID": "274105"
-    },
-    {
-        "ListNumber": 9,
-        "Title": "Samuel",
-        "Year": "2024",
-        "ID": "1142724"
-    },
-    {
-        "ListNumber": 10,
-        "Title": "Berserk",
-        "Year": "1997",
-        "ID": "609378"
-    },
-    {
-        "ListNumber": 11,
-        "Title": "When They See Us",
-        "Year": "2019",
-        "ID": "481169"
-    },
-    {
-        "ListNumber": 12,
-        "Title": "Ping Pong the Animation",
-        "Year": "2014",
-        "ID": "590063"
-    },
-    {
-        "ListNumber": 13,
-        "Title": "Neon Genesis Evangelion",
-        "Year": "1995",
-        "ID": "607220"
-    },
-    {
-        "ListNumber": 14,
-        "Title": "NANA",
-        "Year": "2006",
-        "ID": "634109"
-    },
-    {
-        "ListNumber": 15,
-        "Title": "Fanny and Alexander",
-        "Year": "1984",
-        "ID": "523424"
-    },
-    {
-        "ListNumber": 16,
-        "Title": "Scavengers Reign",
-        "Year": "2023",
-        "ID": "1099097"
-    },
-    {
-        "ListNumber": 17,
-        "Title": "I May Destroy You",
-        "Year": "2020",
-        "ID": "642390"
-    },
-    {
-        "ListNumber": 18,
-        "Title": "Reply 1988",
-        "Year": "2015",
-        "ID": "730802"
-    },
-    {
-        "ListNumber": 19,
-        "Title": "The Tatami Galaxy",
-        "Year": "2010",
-        "ID": "590085"
-    },
-    {
-        "ListNumber": 20,
-        "Title": "Frieren: Beyond Journey's End",
-        "Year": "2023",
-        "ID": "1148509"
-    },
-    {
-        "ListNumber": 21,
-        "Title": "Samurai Champloo",
-        "Year": "2004",
-        "ID": "575164"
-    },
-    {
-        "ListNumber": 22,
-        "Title": "Brass Eye",
-        "Year": "1997",
-        "ID": "608925"
-    },
-    {
-        "ListNumber": 23,
-        "Title": "Mario Puzo's The Godfather: The Complete Novel for Television",
-        "Year": "1977",
-        "ID": "332099"
-    },
-    {
-        "ListNumber": 24,
-        "Title": "Veneno",
-        "Year": "2020",
-        "ID": "677811"
-    },
-    {
-        "ListNumber": 25,
-        "Title": "Okupas",
-        "Year": "2000",
-        "ID": "670290"
-    },
-    {
-        "ListNumber": 26,
-        "Title": "Normal People",
-        "Year": "2020",
-        "ID": "620781"
-    },
-    {
-        "ListNumber": 27,
-        "Title": "Scenes from a Marriage",
-        "Year": "1973",
-        "ID": "656211"
-    },
-    {
-        "ListNumber": 28,
-        "Title": "Serial Experiments Lain",
-        "Year": "1998",
-        "ID": "428548"
-    },
-    {
-        "ListNumber": 29,
-        "Title": "Garth Marenghi's Darkplace",
-        "Year": "2004",
-        "ID": "614467"
-    },
-    {
-        "ListNumber": 30,
-        "Title": "Revolutionary Girl Utena",
-        "Year": "1997",
-        "ID": "606726"
-    },
-    {
-        "ListNumber": 31,
-        "Title": "Steins;Gate",
-        "Year": "2011",
-        "ID": "606891"
-    },
-    {
-        "ListNumber": 32,
-        "Title": "Tear Along the Dotted Line",
-        "Year": "2021",
-        "ID": "811252"
-    },
-    {
-        "ListNumber": 33,
-        "Title": "Move to Heaven",
-        "Year": "2021",
-        "ID": "746033"
-    },
-    {
-        "ListNumber": 34,
-        "Title": "Jam",
-        "Year": "2000",
-        "ID": "608923"
-    },
-    {
-        "ListNumber": 35,
-        "Title": "My Mister",
-        "Year": "2018",
-        "ID": "721937"
-    },
-    {
-        "ListNumber": 36,
-        "Title": "Death Note",
-        "Year": "2006",
-        "ID": "606834"
-    },
-    {
-        "ListNumber": 37,
-        "Title": "This Is Going to Hurt",
-        "Year": "2022",
-        "ID": "882076"
-    },
-    {
-        "ListNumber": 38,
-        "Title": "Adventure Time: Distant Lands",
-        "Year": "2020",
-        "ID": "642653"
-    },
-    {
-        "ListNumber": 39,
-        "Title": "The Midnight Gospel",
-        "Year": "2020",
-        "ID": "794903"
-    },
-    {
-        "ListNumber": 40,
-        "Title": "O Auto da Compadecida",
-        "Year": "1999",
-        "ID": "616424"
-    },
-    {
-        "ListNumber": 41,
-        "Title": "Mushi-Shi",
-        "Year": "2005",
-        "ID": "608517"
-    },
-    {
-        "ListNumber": 42,
-        "Title": "Weak Hero Class 1",
-        "Year": "2022",
-        "ID": "947902"
-    },
-    {
-        "ListNumber": 43,
-        "Title": "The Haunting of Hill House",
-        "Year": "2018",
-        "ID": "482701"
-    },
-    {
-        "ListNumber": 44,
-        "Title": "Twinkling Watermelon",
-        "Year": "2023",
-        "ID": "1089526"
-    },
-    {
-        "ListNumber": 45,
-        "Title": "Banana Fish",
-        "Year": "2018",
-        "ID": "637747"
-    },
-    {
-        "ListNumber": 46,
-        "Title": "FLCL",
-        "Year": "2000",
-        "ID": "284640"
-    },
-    {
-        "ListNumber": 47,
-        "Title": "It's a Sin",
-        "Year": "2021",
-        "ID": "706741"
-    },
-    {
-        "ListNumber": 48,
-        "Title": "PLUTO",
-        "Year": "2023",
-        "ID": "1081739"
-    },
-    {
-        "ListNumber": 49,
-        "Title": "Eight Hours Don’t Make a Day",
-        "Year": "1972",
-        "ID": "840578"
-    },
-    {
-        "ListNumber": 50,
-        "Title": "Mononoke",
-        "Year": "2007",
-        "ID": "530008"
-    },
-    {
-        "ListNumber": 51,
-        "Title": "Maid",
-        "Year": "2021",
-        "ID": "787774"
-    },
-    {
-        "ListNumber": 52,
-        "Title": "Moving",
-        "Year": "2023",
-        "ID": "1067782"
-    },
-    {
-        "ListNumber": 53,
-        "Title": "Puella Magi Madoka Magica",
-        "Year": "2011",
-        "ID": "608525"
-    },
-    {
-        "ListNumber": 54,
-        "Title": "Horace and Pete",
-        "Year": "2016",
-        "ID": "343783"
-    },
-    {
-        "ListNumber": 55,
-        "Title": "Sharp Objects",
-        "Year": "2018",
-        "ID": "454285"
-    },
-    {
-        "ListNumber": 56,
-        "Title": "The Messiah",
-        "Year": "2023",
-        "ID": "1077632"
-    },
-    {
-        "ListNumber": 57,
-        "Title": "Cyberpunk: Edgerunners",
-        "Year": "2022",
-        "ID": "925183"
-    },
-    {
-        "ListNumber": 58,
-        "Title": "The Day Today",
-        "Year": "1994",
-        "ID": "615117"
-    },
-    {
-        "ListNumber": 59,
-        "Title": "Nichijou: My Ordinary Life",
-        "Year": "2011",
-        "ID": "608533"
-    },
-    {
-        "ListNumber": 60,
-        "Title": "Persona",
-        "Year": "2018",
-        "ID": "562692"
-    },
-    {
-        "ListNumber": 61,
-        "Title": "I, Claudius",
-        "Year": "1976",
-        "ID": "147485"
-    },
-    {
-        "ListNumber": 62,
-        "Title": "Das Boot",
-        "Year": "1985",
-        "ID": "970423"
-    },
-    {
-        "ListNumber": 63,
-        "Title": "The Penguin",
-        "Year": "2024",
-        "ID": "1247272"
-    },
-    {
-        "ListNumber": 64,
-        "Title": "Gurren Lagann",
-        "Year": "2007",
-        "ID": "599234"
-    },
-    {
-        "ListNumber": 65,
-        "Title": "The Rose of Versailles",
-        "Year": "1979",
-        "ID": "636779"
-    },
-    {
-        "ListNumber": 66,
-        "Title": "Generation Kill",
-        "Year": "2008",
-        "ID": "55110"
-    },
-    {
-        "ListNumber": 67,
-        "Title": "Kaiba",
-        "Year": "2008",
-        "ID": "636828"
-    },
-    {
-        "ListNumber": 68,
-        "Title": "Twenty Five Twenty One",
-        "Year": "2022",
-        "ID": "861905"
-    },
-    {
-        "ListNumber": 69,
-        "Title": "Sonny Boy",
-        "Year": "2021",
-        "ID": "762227"
-    },
-    {
-        "ListNumber": 70,
-        "Title": "The Glory",
-        "Year": "2022",
-        "ID": "989827"
-    },
-    {
-        "ListNumber": 71,
-        "Title": "Watchmen",
-        "Year": "2019",
-        "ID": "580092"
-    },
-    {
-        "ListNumber": 72,
-        "Title": "The Gay and Wondrous Life of Caleb Gallo",
-        "Year": "2016",
-        "ID": "558037"
-    },
-    {
-        "ListNumber": 73,
-        "Title": "When I Fly Towards You",
-        "Year": "2023",
-        "ID": "1033112"
-    },
-    {
-        "ListNumber": 74,
-        "Title": "Paranoia Agent",
-        "Year": "2004",
-        "ID": "520304"
-    },
-    {
-        "ListNumber": 75,
-        "Title": "Azumanga Daioh",
-        "Year": "2002",
-        "ID": "614458"
-    },
-    {
-        "ListNumber": 76,
-        "Title": "ODDTAXI",
-        "Year": "2021",
-        "ID": "760170"
-    },
-    {
-        "ListNumber": 77,
-        "Title": "Great Teacher Onizuka",
-        "Year": "1999",
-        "ID": "625580"
-    },
-    {
-        "ListNumber": 78,
-        "Title": "Violet Evergarden",
-        "Year": "2018",
-        "ID": "608529"
-    },
-    {
-        "ListNumber": 79,
-        "Title": "My Liberation Notes",
-        "Year": "2022",
-        "ID": "885751"
-    },
-    {
-        "ListNumber": 80,
-        "Title": "Pride and Prejudice",
-        "Year": "1995",
-        "ID": "384832"
-    },
-    {
-        "ListNumber": 81,
-        "Title": "BEEF",
-        "Year": "2023",
-        "ID": "996925"
-    },
-    {
-        "ListNumber": 82,
-        "Title": "Sassy the Sasquatch",
-        "Year": "2022",
-        "ID": "1039377"
-    },
-    {
-        "ListNumber": 83,
-        "Title": "The Untamed",
-        "Year": "2019",
-        "ID": "721944"
-    },
-    {
-        "ListNumber": 84,
-        "Title": "The Queen's Gambit",
-        "Year": "2020",
-        "ID": "668077"
-    },
-    {
-        "ListNumber": 85,
-        "Title": "BOCCHI THE ROCK!",
-        "Year": "2022",
-        "ID": "967485"
-    },
-    {
-        "ListNumber": 86,
-        "Title": "Crash Landing on You",
-        "Year": "2019",
-        "ID": "730803"
-    },
-    {
-        "ListNumber": 87,
-        "Title": "Heimat",
-        "Year": "1984",
-        "ID": "542165"
-    },
-    {
-        "ListNumber": 88,
-        "Title": "The Curse",
-        "Year": "2023",
-        "ID": "1071313"
-    },
-    {
-        "ListNumber": 89,
-        "Title": "Mr. Sunshine",
-        "Year": "2018",
-        "ID": "734755"
-    },
-    {
-        "ListNumber": 90,
-        "Title": "Berlin Alexanderplatz",
-        "Year": "1980",
-        "ID": "885412"
-    },
-    {
-        "ListNumber": 91,
-        "Title": "Mobile Suit Gundam 0080: War in the Pocket",
-        "Year": "1989",
-        "ID": "644622"
-    },
-    {
-        "ListNumber": 92,
-        "Title": "The Night Of",
-        "Year": "2016",
-        "ID": "348277"
-    },
-    {
-        "ListNumber": 93,
-        "Title": "Brideshead Revisited",
-        "Year": "1981",
-        "ID": "373366"
-    },
-    {
-        "ListNumber": 94,
-        "Title": "Angels in America",
-        "Year": "2003",
-        "ID": "37090"
-    },
-    {
-        "ListNumber": 95,
-        "Title": "Love in the Big City",
-        "Year": "2024",
-        "ID": "1261711"
-    },
-    {
-        "ListNumber": 96,
-        "Title": "Samurai X: Trust & Betrayal",
-        "Year": "1999",
-        "ID": "843822"
-    },
-    {
-        "ListNumber": 97,
-        "Title": "Hilda Furacão",
-        "Year": "1998",
-        "ID": "1034129"
-    },
-    {
-        "ListNumber": 98,
-        "Title": "My Uncle Napoleon",
-        "Year": "1976",
-        "ID": "845461"
-    },
-    {
-        "ListNumber": 99,
-        "Title": "Kino's Journey",
-        "Year": "2003",
-        "ID": "514547"
-    },
-    {
-        "ListNumber": 100,
-        "Title": "Station Eleven",
-        "Year": "2021",
-        "ID": "683524"
-    },
-    {
-        "ListNumber": 101,
-        "Title": "Mouse",
-        "Year": "2021",
-        "ID": "766323"
-    },
-    {
-        "ListNumber": 102,
-        "Title": "Keep Your Hands Off Eizouken!",
-        "Year": "2020",
-        "ID": "608679"
-    },
-    {
-        "ListNumber": 103,
-        "Title": "Unbelievable",
-        "Year": "2019",
-        "ID": "557494"
-    },
-    {
-        "ListNumber": 104,
-        "Title": "Mare of Easttown",
-        "Year": "2021",
-        "ID": "715859"
-    },
-    {
-        "ListNumber": 105,
-        "Title": "This Is England '90",
-        "Year": "2015",
-        "ID": "291743"
-    },
-    {
-        "ListNumber": 106,
-        "Title": "Haibane Renmei",
-        "Year": "2002",
-        "ID": "644546"
-    },
-    {
-        "ListNumber": 107,
-        "Title": "Weightlifting Fairy Kim Bok-joo",
-        "Year": "2016",
-        "ID": "734747"
-    },
-    {
-        "ListNumber": 108,
-        "Title": "Welcome to the N.H.K.",
-        "Year": "2006",
-        "ID": "608931"
-    },
-    {
-        "ListNumber": 109,
-        "Title": "Beyond Evil",
-        "Year": "2021",
-        "ID": "737215"
-    },
-    {
-        "ListNumber": 110,
-        "Title": "Manoel’s Destinies",
-        "Year": "1984",
-        "ID": "400642"
-    },
-    {
-        "ListNumber": 111,
-        "Title": "A Small Light",
-        "Year": "2023",
-        "ID": "1008033"
-    },
-    {
-        "ListNumber": 112,
-        "Title": "Fellow Travelers",
-        "Year": "2023",
-        "ID": "1077673"
-    },
-    {
-        "ListNumber": 113,
-        "Title": "The Virtues",
-        "Year": "2019",
-        "ID": "529822"
-    },
-    {
-        "ListNumber": 114,
-        "Title": "Daily Dose of Sunshine",
-        "Year": "2023",
-        "ID": "1086316"
-    },
-    {
-        "ListNumber": 115,
-        "Title": "Lovely Runner",
-        "Year": "2024",
-        "ID": "1179828"
-    },
-    {
-        "ListNumber": 116,
-        "Title": "Olive Kitteridge",
-        "Year": "2014",
-        "ID": "215255"
-    },
-    {
-        "ListNumber": 117,
-        "Title": "The Apothecary Diaries",
-        "Year": "2023",
-        "ID": "1169366"
-    },
-    {
-        "ListNumber": 118,
-        "Title": "Texhnolyze",
-        "Year": "2003",
-        "ID": "608927"
-    },
-    {
-        "ListNumber": 119,
-        "Title": "Girls' Last Tour",
-        "Year": "2017",
-        "ID": "634909"
-    },
-    {
-        "ListNumber": 120,
-        "Title": "Ikebukuro West Gate Park",
-        "Year": "2000",
-        "ID": "813524"
-    },
-    {
-        "ListNumber": 121,
-        "Title": "Princess Tutu",
-        "Year": "2002",
-        "ID": "857829"
-    },
-    {
-        "ListNumber": 122,
-        "Title": "I Know This Much Is True",
-        "Year": "2020",
-        "ID": "617820"
-    },
-    {
-        "ListNumber": 123,
-        "Title": "First Love",
-        "Year": "2022",
-        "ID": "952375"
-    },
-    {
-        "ListNumber": 124,
-        "Title": "Signal",
-        "Year": "2016",
-        "ID": "723229"
-    },
-    {
-        "ListNumber": 125,
-        "Title": "Strangers from Hell",
-        "Year": "2019",
-        "ID": "721946"
-    },
-    {
-        "ListNumber": 126,
-        "Title": "Prison Playbook",
-        "Year": "2017",
-        "ID": "730801"
-    },
-    {
-        "ListNumber": 127,
-        "Title": "Anne of Green Gables",
-        "Year": "1985",
-        "ID": "1065884"
-    },
-    {
-        "ListNumber": 128,
-        "Title": "Scenes from a Marriage",
-        "Year": "2021",
-        "ID": "776444"
-    },
-    {
-        "ListNumber": 129,
-        "Title": "This World Can't Tear Me Down",
-        "Year": "2023",
-        "ID": "1025204"
-    },
-    {
-        "ListNumber": 130,
-        "Title": "The Young Pope",
-        "Year": "2016",
-        "ID": "382689"
-    },
-    {
-        "ListNumber": 131,
-        "Title": "Tinker Tailor Soldier Spy",
-        "Year": "1979",
-        "ID": "107106"
-    },
-    {
-        "ListNumber": 132,
-        "Title": "1883",
-        "Year": "2021",
-        "ID": "882471"
-    },
-    {
-        "ListNumber": 133,
-        "Title": "This Is England '88",
-        "Year": "2011",
-        "ID": "158173"
-    },
-    {
-        "ListNumber": 134,
-        "Title": "Dopesick",
-        "Year": "2021",
-        "ID": "796758"
-    },
-    {
-        "ListNumber": 135,
-        "Title": "Scott Pilgrim Takes Off",
-        "Year": "2023",
-        "ID": "1090923"
-    },
-    {
-        "ListNumber": 136,
-        "Title": "Your Lie in April",
-        "Year": "2014",
-        "ID": "608523"
-    },
-    {
-        "ListNumber": 137,
-        "Title": "Small Axe",
-        "Year": "2020",
-        "ID": "665519"
-    },
-    {
-        "ListNumber": 138,
-        "Title": "Future Boy Conan",
-        "Year": "1978",
-        "ID": "617832"
-    },
-    {
-        "ListNumber": 139,
-        "Title": "Youth of May",
-        "Year": "2021",
-        "ID": "753443"
-    },
-    {
-        "ListNumber": 140,
-        "Title": "Ripley",
-        "Year": "2024",
-        "ID": "1141320"
-    },
-    {
-        "ListNumber": 141,
-        "Title": "Scarlet Heart: Ryeo",
-        "Year": "2016",
-        "ID": "729828"
-    },
-    {
-        "ListNumber": 142,
-        "Title": "A Place Further Than the Universe",
-        "Year": "2018",
-        "ID": "608532"
-    },
-    {
-        "ListNumber": 143,
-        "Title": "Watchmen: Motion Comic",
-        "Year": "2008",
-        "ID": "192443"
-    },
-    {
-        "ListNumber": 144,
-        "Title": "Beck: Mongolian Chop Squad",
-        "Year": "2004",
-        "ID": "624862"
-    },
-    {
-        "ListNumber": 145,
-        "Title": "Lonesome Dove",
-        "Year": "1989",
-        "ID": "227706"
-    },
-    {
-        "ListNumber": 146,
-        "Title": "TRIGUN",
-        "Year": "1998",
-        "ID": "608521"
-    },
-    {
-        "ListNumber": 147,
-        "Title": "The Underground Railroad",
-        "Year": "2021",
-        "ID": "718742"
-    },
-    {
-        "ListNumber": 148,
-        "Title": "Daisy Jones & the Six",
-        "Year": "2023",
-        "ID": "985816"
-    },
-    {
-        "ListNumber": 149,
-        "Title": "Dorohedoro",
-        "Year": "2020",
-        "ID": "673323"
-    },
-    {
-        "ListNumber": 150,
-        "Title": "This Is England '86",
-        "Year": "2010",
-        "ID": "335508"
-    },
-    {
-        "ListNumber": 151,
-        "Title": "Not Me",
-        "Year": "2021",
-        "ID": "861935"
-    },
-    {
-        "ListNumber": 152,
-        "Title": "The Pacific",
-        "Year": "2010",
-        "ID": "136354"
-    },
-    {
-        "ListNumber": 153,
-        "Title": "Baccano!",
-        "Year": "2007",
-        "ID": "604999"
-    },
-    {
-        "ListNumber": 154,
-        "Title": "Under the Queen's Umbrella",
-        "Year": "2022",
-        "ID": "955317"
-    },
-    {
-        "ListNumber": 155,
-        "Title": "Run with the Wind",
-        "Year": "2018",
-        "ID": "659649"
-    },
-    {
-        "ListNumber": 156,
-        "Title": "Battlestar Galactica",
-        "Year": "2003",
-        "ID": "252777"
-    },
-    {
-        "ListNumber": 157,
-        "Title": "The Tatami Time Machine Blues",
-        "Year": "2022",
-        "ID": "1000972"
-    },
-    {
-        "ListNumber": 158,
-        "Title": "Be Melodramatic",
-        "Year": "2019",
-        "ID": "736018"
-    },
-    {
-        "ListNumber": 159,
-        "Title": "Bakemonogatari",
-        "Year": "2009",
-        "ID": "706735"
-    },
-    {
-        "ListNumber": 160,
-        "Title": "Someday or One Day",
-        "Year": "2019",
-        "ID": "735997"
-    },
-    {
-        "ListNumber": 161,
-        "Title": "The Makanai: Cooking for the Maiko House",
-        "Year": "2023",
-        "ID": "967342"
-    },
-    {
-        "ListNumber": 162,
-        "Title": "Rebooting",
-        "Year": "2023",
-        "ID": "991811"
-    },
-    {
-        "ListNumber": 163,
-        "Title": "Years and Years",
-        "Year": "2019",
-        "ID": "529999"
-    },
-    {
-        "ListNumber": 164,
-        "Title": "Paradise Kiss",
-        "Year": "2005",
-        "ID": "634437"
-    },
-    {
-        "ListNumber": 165,
-        "Title": "House of Cards",
-        "Year": "1990",
-        "ID": "130477"
-    },
-    {
-        "ListNumber": 166,
-        "Title": "The Good Bad Mother",
-        "Year": "2023",
-        "ID": "1025246"
-    },
-    {
-        "ListNumber": 167,
-        "Title": "ERASED",
-        "Year": "2016",
-        "ID": "608515"
-    },
-    {
-        "ListNumber": 168,
-        "Title": "North & South",
-        "Year": "2004",
-        "ID": "256526"
-    },
-    {
-        "ListNumber": 169,
-        "Title": "Incomplete Life",
-        "Year": "2014",
-        "ID": "729816"
-    },
-    {
-        "ListNumber": 170,
-        "Title": "Skip and Loafer",
-        "Year": "2023",
-        "ID": "1031997"
-    },
-    {
-        "ListNumber": 171,
-        "Title": "Flower of Evil",
-        "Year": "2020",
-        "ID": "721940"
-    },
-    {
-        "ListNumber": 172,
-        "Title": "Generation War",
-        "Year": "2013",
-        "ID": "130113"
-    },
-    {
-        "ListNumber": 173,
-        "Title": "My School President",
-        "Year": "2022",
-        "ID": "985508"
-    },
-    {
-        "ListNumber": 174,
-        "Title": "Devilman Crybaby",
-        "Year": "2018",
-        "ID": "536053"
-    },
-    {
-        "ListNumber": 175,
-        "Title": "Patrick Melrose",
-        "Year": "2018",
-        "ID": "453525"
-    },
-    {
-        "ListNumber": 176,
-        "Title": "World on a Wire",
-        "Year": "1973",
-        "ID": "885411"
-    },
-    {
-        "ListNumber": 177,
-        "Title": "SKY Castle",
-        "Year": "2018",
-        "ID": "728053"
-    },
-    {
-        "ListNumber": 178,
-        "Title": "Riot Police",
-        "Year": "2020",
-        "ID": "675210"
-    },
-    {
-        "ListNumber": 179,
-        "Title": "One Day",
-        "Year": "2024",
-        "ID": "1120909"
-    },
-    {
-        "ListNumber": 180,
-        "Title": "Gunbuster",
-        "Year": "1988",
-        "ID": "637739"
-    },
-    {
-        "ListNumber": 181,
-        "Title": "Ethos",
-        "Year": "2020",
-        "ID": "684975"
-    },
-    {
-        "ListNumber": 182,
-        "Title": "Lessons in Chemistry",
-        "Year": "2023",
-        "ID": "1074983"
-    },
-    {
-        "ListNumber": 183,
-        "Title": "Black Bird",
-        "Year": "2022",
-        "ID": "896757"
-    },
-    {
-        "ListNumber": 184,
-        "Title": "Vincenzo",
-        "Year": "2021",
-        "ID": "741226"
-    },
-    {
-        "ListNumber": 185,
-        "Title": "The House in the Woods",
-        "Year": "1971",
-        "ID": "192864"
-    },
-    {
-        "ListNumber": 186,
-        "Title": "Roots",
-        "Year": "1977",
-        "ID": "455366"
-    },
-    {
-        "ListNumber": 187,
-        "Title": "Asobi Asobase - workshop of fun -",
-        "Year": "2018",
-        "ID": "745608"
-    },
-    {
-        "ListNumber": 188,
-        "Title": "Summer Strike",
-        "Year": "2022",
-        "ID": "966908"
-    },
-    {
-        "ListNumber": 189,
-        "Title": "The Singing Detective",
-        "Year": "1986",
-        "ID": "53721"
-    },
-    {
-        "ListNumber": 190,
-        "Title": "From the Earth to the Moon",
-        "Year": "1998",
-        "ID": "31574"
-    },
-    {
-        "ListNumber": 191,
-        "Title": "Caliphate",
-        "Year": "2020",
-        "ID": "622540"
-    },
-    {
-        "ListNumber": 192,
-        "Title": "Our Beloved Summer",
-        "Year": "2021",
-        "ID": "836733"
-    },
-    {
-        "ListNumber": 193,
-        "Title": "Tomorrow",
-        "Year": "2022",
-        "ID": "881719"
-    },
-    {
-        "ListNumber": 194,
-        "Title": "It's Okay to Not Be Okay",
-        "Year": "2020",
-        "ID": "729821"
-    },
-    {
-        "ListNumber": 195,
-        "Title": "Boiling Point",
-        "Year": "2023",
-        "ID": "1072481"
-    },
-    {
-        "ListNumber": 196,
-        "Title": "Ergo Proxy",
-        "Year": "2006",
-        "ID": "610956"
-    },
-    {
-        "ListNumber": 197,
-        "Title": "Barakamon",
-        "Year": "2014",
-        "ID": "631905"
-    },
-    {
-        "ListNumber": 198,
-        "Title": "Our Blues",
-        "Year": "2022",
-        "ID": "888603"
-    },
-    {
-        "ListNumber": 199,
-        "Title": "The Corner",
-        "Year": "2000",
-        "ID": "629982"
-    },
-    {
-        "ListNumber": 200,
-        "Title": "ONI: Thunder God's Tale",
-        "Year": "2022",
-        "ID": "936819"
-    },
-    {
-        "ListNumber": 201,
-        "Title": "Time",
-        "Year": "2021",
-        "ID": "754768"
-    },
-    {
-        "ListNumber": 202,
-        "Title": "ZeroZeroZero",
-        "Year": "2020",
-        "ID": "614130"
-    },
-    {
-        "ListNumber": 203,
-        "Title": "The Red Sleeve",
-        "Year": "2021",
-        "ID": "827746"
-    },
-    {
-        "ListNumber": 204,
-        "Title": "Queen Charlotte: A Bridgerton Story",
-        "Year": "2023",
-        "ID": "1010401"
-    },
-    {
-        "ListNumber": 205,
-        "Title": "Yokohama Kaidashi Kikou",
-        "Year": "1998",
-        "ID": "387063"
-    },
-    {
-        "ListNumber": 206,
-        "Title": "FEUD",
-        "Year": "2017",
-        "ID": "636744"
-    },
-    {
-        "ListNumber": 207,
-        "Title": "Dororo",
-        "Year": "2019",
-        "ID": "608914"
-    },
-    {
-        "ListNumber": 208,
-        "Title": "Kotaro Lives Alone",
-        "Year": "2022",
-        "ID": "854566"
-    },
-    {
-        "ListNumber": 209,
-        "Title": "Heidi, Girl of the Alps",
-        "Year": "1974",
-        "ID": "670356"
-    },
-    {
-        "ListNumber": 210,
-        "Title": "Death's Game",
-        "Year": "2023",
-        "ID": "1116065"
-    },
-    {
-        "ListNumber": 211,
-        "Title": "Goblin",
-        "Year": "2016",
-        "ID": "733797"
-    },
-    {
-        "ListNumber": 212,
-        "Title": "The Collapse",
-        "Year": "2019",
-        "ID": "656203"
-    },
-    {
-        "ListNumber": 213,
-        "Title": "Through the Darkness",
-        "Year": "2022",
-        "ID": "853336"
-    },
-    {
-        "ListNumber": 214,
-        "Title": "Wolf Hall",
-        "Year": "2015",
-        "ID": "247396"
-    },
-    {
-        "ListNumber": 215,
-        "Title": "Flowers of Evil",
-        "Year": "2013",
-        "ID": "619795"
-    },
-    {
-        "ListNumber": 216,
-        "Title": "The Maxx",
-        "Year": "1995",
-        "ID": "332031"
-    },
-    {
-        "ListNumber": 217,
-        "Title": "Princess Jellyfish",
-        "Year": "2010",
-        "ID": "655138"
-    },
-    {
-        "ListNumber": 218,
-        "Title": "Ouran High School Host Club",
-        "Year": "2006",
-        "ID": "653123"
-    },
-    {
-        "ListNumber": 219,
-        "Title": "Takin' Over the Asylum",
-        "Year": "1994",
-        "ID": "316456"
-    },
-    {
-        "ListNumber": 220,
-        "Title": "My Name",
-        "Year": "2021",
-        "ID": "796804"
-    },
-    {
-        "ListNumber": 221,
-        "Title": "Crashing",
-        "Year": "2016",
-        "ID": "553456"
-    },
-    {
-        "ListNumber": 222,
-        "Title": "We Own This City",
-        "Year": "2022",
-        "ID": "870239"
-    },
-    {
-        "ListNumber": 223,
-        "Title": "The Kingdom",
-        "Year": "1994",
-        "ID": "38053"
-    },
-    {
-        "ListNumber": 224,
-        "Title": "Penguindrum",
-        "Year": "2011",
-        "ID": "594713"
-    },
-    {
-        "ListNumber": 225,
-        "Title": "The Storks Will Return",
-        "Year": "2007",
-        "ID": "776864"
-    },
-    {
-        "ListNumber": 226,
-        "Title": "Mrs. America",
-        "Year": "2020",
-        "ID": "591235"
-    },
-    {
-        "ListNumber": 227,
-        "Title": "Bad Buddy",
-        "Year": "2021",
-        "ID": "843045"
-    },
-    {
-        "ListNumber": 228,
-        "Title": "His and Her Circumstances",
-        "Year": "1998",
-        "ID": "618417"
-    },
-    {
-        "ListNumber": 229,
-        "Title": "Midnight Mass",
-        "Year": "2021",
-        "ID": "774923"
-    },
-    {
-        "ListNumber": 230,
-        "Title": "Hellsing Ultimate",
-        "Year": "2006",
-        "ID": "634404"
-    },
-    {
-        "ListNumber": 231,
-        "Title": "Hometown Cha-Cha-Cha",
-        "Year": "2021",
-        "ID": "797144"
-    },
-    {
-        "ListNumber": 232,
-        "Title": "Calls",
-        "Year": "2021",
-        "ID": "744211"
-    },
-    {
-        "ListNumber": 233,
-        "Title": "Summer Heights High",
-        "Year": "2007",
-        "ID": "378912"
-    },
-    {
-        "ListNumber": 234,
-        "Title": "Mobile Suit Zeta Gundam",
-        "Year": "1985",
-        "ID": "746736"
-    },
-    {
-        "ListNumber": 235,
-        "Title": "Given",
-        "Year": "2019",
-        "ID": "636775"
-    },
-    {
-        "ListNumber": 236,
-        "Title": "Fullmetal Alchemist",
-        "Year": "2003",
-        "ID": "608926"
-    },
-    {
-        "ListNumber": 237,
-        "Title": "A Girl Named Zat",
-        "Year": "2013",
-        "ID": "880288"
-    },
-    {
-        "ListNumber": 238,
-        "Title": "Capitu",
-        "Year": "2008",
-        "ID": "370766"
-    },
-    {
-        "ListNumber": 239,
-        "Title": "Who Is America?",
-        "Year": "2018",
-        "ID": "474663"
-    },
-    {
-        "ListNumber": 240,
-        "Title": "Mr. Queen",
-        "Year": "2020",
-        "ID": "729837"
-    },
-    {
-        "ListNumber": 241,
-        "Title": "John Adams",
-        "Year": "2008",
-        "ID": "93699"
-    },
-    {
-        "ListNumber": 242,
-        "Title": "My Dearest",
-        "Year": "2023",
-        "ID": "1099102"
-    },
-    {
-        "ListNumber": 243,
-        "Title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
-        "Year": "2020",
-        "ID": "704908"
-    },
-    {
-        "ListNumber": 244,
-        "Title": "Giri/Haji",
-        "Year": "2019",
-        "ID": "650914"
-    },
-    {
-        "ListNumber": 245,
-        "Title": "Hi Bye, Mama!",
-        "Year": "2020",
-        "ID": "746038"
-    },
-    {
-        "ListNumber": 246,
-        "Title": "Fruits Basket",
-        "Year": "2001",
-        "ID": "627472"
-    },
-    {
-        "ListNumber": 247,
-        "Title": "The Tattooist of Auschwitz",
-        "Year": "2024",
-        "ID": "1169256"
-    },
-    {
-        "ListNumber": 248,
-        "Title": "Rainbow",
-        "Year": "2010",
-        "ID": "659182"
-    },
-    {
-        "ListNumber": 249,
-        "Title": "We Are Who We Are",
-        "Year": "2020",
-        "ID": "550727"
-    },
-    {
-        "ListNumber": 250,
-        "Title": "Mobile Suit Gundam",
-        "Year": "1979",
-        "ID": "614452"
-    }
+  {
+    "ListNumber": 1,
+    "Title": "Band of Brothers",
+    "Year": "2001",
+    "ID": "259011"
+  },
+  {
+    "ListNumber": 2,
+    "Title": "Fullmetal Alchemist: Brotherhood",
+    "Year": "2009",
+    "ID": "607081"
+  },
+  {
+    "ListNumber": 3,
+    "Title": "Cowboy Bebop",
+    "Year": "1998",
+    "ID": "607221"
+  },
+  {
+    "ListNumber": 4,
+    "Title": "Monster",
+    "Year": "2004",
+    "ID": "608932"
+  },
+  {
+    "ListNumber": 5,
+    "Title": "Over the Garden Wall",
+    "Year": "2014",
+    "ID": "343911"
+  },
+  {
+    "ListNumber": 6,
+    "Title": "Twin Peaks: The Return",
+    "Year": "2017",
+    "ID": "424054"
+  },
+  {
+    "ListNumber": 7,
+    "Title": "Chernobyl",
+    "Year": "2019",
+    "ID": "532082"
+  },
+  {
+    "ListNumber": 8,
+    "Title": "Dekalog",
+    "Year": "1989",
+    "ID": "274105"
+  },
+  {
+    "ListNumber": 9,
+    "Title": "Samuel",
+    "Year": "2024",
+    "ID": "1142724"
+  },
+  {
+    "ListNumber": 10,
+    "Title": "Berserk",
+    "Year": "1997",
+    "ID": "609378"
+  },
+  {
+    "ListNumber": 11,
+    "Title": "When They See Us",
+    "Year": "2019",
+    "ID": "481169"
+  },
+  {
+    "ListNumber": 12,
+    "Title": "Ping Pong the Animation",
+    "Year": "2014",
+    "ID": "590063"
+  },
+  {
+    "ListNumber": 13,
+    "Title": "Neon Genesis Evangelion",
+    "Year": "1995",
+    "ID": "607220"
+  },
+  {
+    "ListNumber": 14,
+    "Title": "NANA",
+    "Year": "2006",
+    "ID": "634109"
+  },
+  {
+    "ListNumber": 15,
+    "Title": "Fanny and Alexander",
+    "Year": "1984",
+    "ID": "523424"
+  },
+  {
+    "ListNumber": 16,
+    "Title": "Scavengers Reign",
+    "Year": "2023",
+    "ID": "1099097"
+  },
+  {
+    "ListNumber": 17,
+    "Title": "I May Destroy You",
+    "Year": "2020",
+    "ID": "642390"
+  },
+  {
+    "ListNumber": 18,
+    "Title": "Reply 1988",
+    "Year": "2015",
+    "ID": "730802"
+  },
+  {
+    "ListNumber": 19,
+    "Title": "The Tatami Galaxy",
+    "Year": "2010",
+    "ID": "590085"
+  },
+  {
+    "ListNumber": 20,
+    "Title": "Frieren: Beyond Journey's End",
+    "Year": "2023",
+    "ID": "1148509"
+  },
+  {
+    "ListNumber": 21,
+    "Title": "Samurai Champloo",
+    "Year": "2004",
+    "ID": "575164"
+  },
+  {
+    "ListNumber": 22,
+    "Title": "Brass Eye",
+    "Year": "1997",
+    "ID": "608925"
+  },
+  {
+    "ListNumber": 23,
+    "Title": "Mario Puzo's The Godfather: The Complete Novel for Television",
+    "Year": "1977",
+    "ID": "332099"
+  },
+  {
+    "ListNumber": 24,
+    "Title": "Veneno",
+    "Year": "2020",
+    "ID": "677811"
+  },
+  {
+    "ListNumber": 25,
+    "Title": "Okupas",
+    "Year": "2000",
+    "ID": "670290"
+  },
+  {
+    "ListNumber": 26,
+    "Title": "Normal People",
+    "Year": "2020",
+    "ID": "620781"
+  },
+  {
+    "ListNumber": 27,
+    "Title": "Scenes from a Marriage",
+    "Year": "1973",
+    "ID": "656211"
+  },
+  {
+    "ListNumber": 28,
+    "Title": "Serial Experiments Lain",
+    "Year": "1998",
+    "ID": "428548"
+  },
+  {
+    "ListNumber": 29,
+    "Title": "Garth Marenghi's Darkplace",
+    "Year": "2004",
+    "ID": "614467"
+  },
+  {
+    "ListNumber": 30,
+    "Title": "Revolutionary Girl Utena",
+    "Year": "1997",
+    "ID": "606726"
+  },
+  {
+    "ListNumber": 31,
+    "Title": "Steins;Gate",
+    "Year": "2011",
+    "ID": "606891"
+  },
+  {
+    "ListNumber": 32,
+    "Title": "Tear Along the Dotted Line",
+    "Year": "2021",
+    "ID": "811252"
+  },
+  {
+    "ListNumber": 33,
+    "Title": "Move to Heaven",
+    "Year": "2021",
+    "ID": "746033"
+  },
+  {
+    "ListNumber": 34,
+    "Title": "Jam",
+    "Year": "2000",
+    "ID": "608923"
+  },
+  {
+    "ListNumber": 35,
+    "Title": "My Mister",
+    "Year": "2018",
+    "ID": "721937"
+  },
+  {
+    "ListNumber": 36,
+    "Title": "Death Note",
+    "Year": "2006",
+    "ID": "606834"
+  },
+  {
+    "ListNumber": 37,
+    "Title": "This Is Going to Hurt",
+    "Year": "2022",
+    "ID": "882076"
+  },
+  {
+    "ListNumber": 38,
+    "Title": "Adventure Time: Distant Lands",
+    "Year": "2020",
+    "ID": "642653"
+  },
+  {
+    "ListNumber": 39,
+    "Title": "The Midnight Gospel",
+    "Year": "2020",
+    "ID": "794903"
+  },
+  {
+    "ListNumber": 40,
+    "Title": "O Auto da Compadecida",
+    "Year": "1999",
+    "ID": "616424"
+  },
+  {
+    "ListNumber": 41,
+    "Title": "Mushi-Shi",
+    "Year": "2005",
+    "ID": "608517"
+  },
+  {
+    "ListNumber": 42,
+    "Title": "Weak Hero Class 1",
+    "Year": "2022",
+    "ID": "947902"
+  },
+  {
+    "ListNumber": 43,
+    "Title": "The Haunting of Hill House",
+    "Year": "2018",
+    "ID": "482701"
+  },
+  {
+    "ListNumber": 44,
+    "Title": "Twinkling Watermelon",
+    "Year": "2023",
+    "ID": "1089526"
+  },
+  {
+    "ListNumber": 45,
+    "Title": "Banana Fish",
+    "Year": "2018",
+    "ID": "637747"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "FLCL",
+    "Year": "2000",
+    "ID": "284640"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "It's a Sin",
+    "Year": "2021",
+    "ID": "706741"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "PLUTO",
+    "Year": "2023",
+    "ID": "1081739"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "Eight Hours Don’t Make a Day",
+    "Year": "1972",
+    "ID": "840578"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "Mononoke",
+    "Year": "2007",
+    "ID": "530008"
+  },
+  {
+    "ListNumber": 51,
+    "Title": "Maid",
+    "Year": "2021",
+    "ID": "787774"
+  },
+  {
+    "ListNumber": 52,
+    "Title": "Moving",
+    "Year": "2023",
+    "ID": "1067782"
+  },
+  {
+    "ListNumber": 53,
+    "Title": "Puella Magi Madoka Magica",
+    "Year": "2011",
+    "ID": "608525"
+  },
+  {
+    "ListNumber": 54,
+    "Title": "Horace and Pete",
+    "Year": "2016",
+    "ID": "343783"
+  },
+  {
+    "ListNumber": 55,
+    "Title": "Sharp Objects",
+    "Year": "2018",
+    "ID": "454285"
+  },
+  {
+    "ListNumber": 56,
+    "Title": "The Messiah",
+    "Year": "2023",
+    "ID": "1077632"
+  },
+  {
+    "ListNumber": 57,
+    "Title": "Cyberpunk: Edgerunners",
+    "Year": "2022",
+    "ID": "925183"
+  },
+  {
+    "ListNumber": 58,
+    "Title": "The Day Today",
+    "Year": "1994",
+    "ID": "615117"
+  },
+  {
+    "ListNumber": 59,
+    "Title": "Nichijou: My Ordinary Life",
+    "Year": "2011",
+    "ID": "608533"
+  },
+  {
+    "ListNumber": 60,
+    "Title": "Persona",
+    "Year": "2018",
+    "ID": "562692"
+  },
+  {
+    "ListNumber": 61,
+    "Title": "I, Claudius",
+    "Year": "1976",
+    "ID": "147485"
+  },
+  {
+    "ListNumber": 62,
+    "Title": "Das Boot",
+    "Year": "1985",
+    "ID": "970423"
+  },
+  {
+    "ListNumber": 63,
+    "Title": "The Penguin",
+    "Year": "2024",
+    "ID": "1247272"
+  },
+  {
+    "ListNumber": 64,
+    "Title": "Gurren Lagann",
+    "Year": "2007",
+    "ID": "599234"
+  },
+  {
+    "ListNumber": 65,
+    "Title": "The Rose of Versailles",
+    "Year": "1979",
+    "ID": "636779"
+  },
+  {
+    "ListNumber": 66,
+    "Title": "Generation Kill",
+    "Year": "2008",
+    "ID": "55110"
+  },
+  {
+    "ListNumber": 67,
+    "Title": "Kaiba",
+    "Year": "2008",
+    "ID": "636828"
+  },
+  {
+    "ListNumber": 68,
+    "Title": "Twenty Five Twenty One",
+    "Year": "2022",
+    "ID": "861905"
+  },
+  {
+    "ListNumber": 69,
+    "Title": "Sonny Boy",
+    "Year": "2021",
+    "ID": "762227"
+  },
+  {
+    "ListNumber": 70,
+    "Title": "The Glory",
+    "Year": "2022",
+    "ID": "989827"
+  },
+  {
+    "ListNumber": 71,
+    "Title": "Watchmen",
+    "Year": "2019",
+    "ID": "580092"
+  },
+  {
+    "ListNumber": 72,
+    "Title": "The Gay and Wondrous Life of Caleb Gallo",
+    "Year": "2016",
+    "ID": "558037"
+  },
+  {
+    "ListNumber": 73,
+    "Title": "When I Fly Towards You",
+    "Year": "2023",
+    "ID": "1033112"
+  },
+  {
+    "ListNumber": 74,
+    "Title": "Paranoia Agent",
+    "Year": "2004",
+    "ID": "520304"
+  },
+  {
+    "ListNumber": 75,
+    "Title": "Azumanga Daioh",
+    "Year": "2002",
+    "ID": "614458"
+  },
+  {
+    "ListNumber": 76,
+    "Title": "ODDTAXI",
+    "Year": "2021",
+    "ID": "760170"
+  },
+  {
+    "ListNumber": 77,
+    "Title": "Great Teacher Onizuka",
+    "Year": "1999",
+    "ID": "625580"
+  },
+  {
+    "ListNumber": 78,
+    "Title": "Violet Evergarden",
+    "Year": "2018",
+    "ID": "608529"
+  },
+  {
+    "ListNumber": 79,
+    "Title": "My Liberation Notes",
+    "Year": "2022",
+    "ID": "885751"
+  },
+  {
+    "ListNumber": 80,
+    "Title": "Pride and Prejudice",
+    "Year": "1995",
+    "ID": "384832"
+  },
+  {
+    "ListNumber": 81,
+    "Title": "BEEF",
+    "Year": "2023",
+    "ID": "996925"
+  },
+  {
+    "ListNumber": 82,
+    "Title": "Sassy the Sasquatch",
+    "Year": "2022",
+    "ID": "1039377"
+  },
+  {
+    "ListNumber": 83,
+    "Title": "The Untamed",
+    "Year": "2019",
+    "ID": "721944"
+  },
+  {
+    "ListNumber": 84,
+    "Title": "The Queen's Gambit",
+    "Year": "2020",
+    "ID": "668077"
+  },
+  {
+    "ListNumber": 85,
+    "Title": "BOCCHI THE ROCK!",
+    "Year": "2022",
+    "ID": "967485"
+  },
+  {
+    "ListNumber": 86,
+    "Title": "Crash Landing on You",
+    "Year": "2019",
+    "ID": "730803"
+  },
+  {
+    "ListNumber": 87,
+    "Title": "Heimat",
+    "Year": "1984",
+    "ID": "542165"
+  },
+  {
+    "ListNumber": 88,
+    "Title": "The Curse",
+    "Year": "2023",
+    "ID": "1071313"
+  },
+  {
+    "ListNumber": 89,
+    "Title": "Mr. Sunshine",
+    "Year": "2018",
+    "ID": "734755"
+  },
+  {
+    "ListNumber": 90,
+    "Title": "Berlin Alexanderplatz",
+    "Year": "1980",
+    "ID": "885412"
+  },
+  {
+    "ListNumber": 91,
+    "Title": "Mobile Suit Gundam 0080: War in the Pocket",
+    "Year": "1989",
+    "ID": "644622"
+  },
+  {
+    "ListNumber": 92,
+    "Title": "The Night Of",
+    "Year": "2016",
+    "ID": "348277"
+  },
+  {
+    "ListNumber": 93,
+    "Title": "Brideshead Revisited",
+    "Year": "1981",
+    "ID": "373366"
+  },
+  {
+    "ListNumber": 94,
+    "Title": "Angels in America",
+    "Year": "2003",
+    "ID": "37090"
+  },
+  {
+    "ListNumber": 95,
+    "Title": "Love in the Big City",
+    "Year": "2024",
+    "ID": "1261711"
+  },
+  {
+    "ListNumber": 96,
+    "Title": "Samurai X: Trust & Betrayal",
+    "Year": "1999",
+    "ID": "843822"
+  },
+  {
+    "ListNumber": 97,
+    "Title": "Hilda Furacão",
+    "Year": "1998",
+    "ID": "1034129"
+  },
+  {
+    "ListNumber": 98,
+    "Title": "My Uncle Napoleon",
+    "Year": "1976",
+    "ID": "845461"
+  },
+  {
+    "ListNumber": 99,
+    "Title": "Kino's Journey",
+    "Year": "2003",
+    "ID": "514547"
+  },
+  {
+    "ListNumber": 100,
+    "Title": "Station Eleven",
+    "Year": "2021",
+    "ID": "683524"
+  },
+  {
+    "ListNumber": 101,
+    "Title": "Mouse",
+    "Year": "2021",
+    "ID": "766323"
+  },
+  {
+    "ListNumber": 102,
+    "Title": "Keep Your Hands Off Eizouken!",
+    "Year": "2020",
+    "ID": "608679"
+  },
+  {
+    "ListNumber": 103,
+    "Title": "Unbelievable",
+    "Year": "2019",
+    "ID": "557494"
+  },
+  {
+    "ListNumber": 104,
+    "Title": "Mare of Easttown",
+    "Year": "2021",
+    "ID": "715859"
+  },
+  {
+    "ListNumber": 105,
+    "Title": "This Is England '90",
+    "Year": "2015",
+    "ID": "291743"
+  },
+  {
+    "ListNumber": 106,
+    "Title": "Haibane Renmei",
+    "Year": "2002",
+    "ID": "644546"
+  },
+  {
+    "ListNumber": 107,
+    "Title": "Weightlifting Fairy Kim Bok-joo",
+    "Year": "2016",
+    "ID": "734747"
+  },
+  {
+    "ListNumber": 108,
+    "Title": "Welcome to the N.H.K.",
+    "Year": "2006",
+    "ID": "608931"
+  },
+  {
+    "ListNumber": 109,
+    "Title": "Beyond Evil",
+    "Year": "2021",
+    "ID": "737215"
+  },
+  {
+    "ListNumber": 110,
+    "Title": "Manoel’s Destinies",
+    "Year": "1984",
+    "ID": "400642"
+  },
+  {
+    "ListNumber": 111,
+    "Title": "A Small Light",
+    "Year": "2023",
+    "ID": "1008033"
+  },
+  {
+    "ListNumber": 112,
+    "Title": "Fellow Travelers",
+    "Year": "2023",
+    "ID": "1077673"
+  },
+  {
+    "ListNumber": 113,
+    "Title": "The Virtues",
+    "Year": "2019",
+    "ID": "529822"
+  },
+  {
+    "ListNumber": 114,
+    "Title": "Daily Dose of Sunshine",
+    "Year": "2023",
+    "ID": "1086316"
+  },
+  {
+    "ListNumber": 115,
+    "Title": "Lovely Runner",
+    "Year": "2024",
+    "ID": "1179828"
+  },
+  {
+    "ListNumber": 116,
+    "Title": "Olive Kitteridge",
+    "Year": "2014",
+    "ID": "215255"
+  },
+  {
+    "ListNumber": 117,
+    "Title": "The Apothecary Diaries",
+    "Year": "2023",
+    "ID": "1169366"
+  },
+  {
+    "ListNumber": 118,
+    "Title": "Texhnolyze",
+    "Year": "2003",
+    "ID": "608927"
+  },
+  {
+    "ListNumber": 119,
+    "Title": "Girls' Last Tour",
+    "Year": "2017",
+    "ID": "634909"
+  },
+  {
+    "ListNumber": 120,
+    "Title": "Ikebukuro West Gate Park",
+    "Year": "2000",
+    "ID": "813524"
+  },
+  {
+    "ListNumber": 121,
+    "Title": "Princess Tutu",
+    "Year": "2002",
+    "ID": "857829"
+  },
+  {
+    "ListNumber": 122,
+    "Title": "I Know This Much Is True",
+    "Year": "2020",
+    "ID": "617820"
+  },
+  {
+    "ListNumber": 123,
+    "Title": "First Love",
+    "Year": "2022",
+    "ID": "952375"
+  },
+  {
+    "ListNumber": 124,
+    "Title": "Signal",
+    "Year": "2016",
+    "ID": "723229"
+  },
+  {
+    "ListNumber": 125,
+    "Title": "Strangers from Hell",
+    "Year": "2019",
+    "ID": "721946"
+  },
+  {
+    "ListNumber": 126,
+    "Title": "Prison Playbook",
+    "Year": "2017",
+    "ID": "730801"
+  },
+  {
+    "ListNumber": 127,
+    "Title": "Anne of Green Gables",
+    "Year": "1985",
+    "ID": "1065884"
+  },
+  {
+    "ListNumber": 128,
+    "Title": "Scenes from a Marriage",
+    "Year": "2021",
+    "ID": "776444"
+  },
+  {
+    "ListNumber": 129,
+    "Title": "This World Can't Tear Me Down",
+    "Year": "2023",
+    "ID": "1025204"
+  },
+  {
+    "ListNumber": 130,
+    "Title": "The Young Pope",
+    "Year": "2016",
+    "ID": "382689"
+  },
+  {
+    "ListNumber": 131,
+    "Title": "Tinker Tailor Soldier Spy",
+    "Year": "1979",
+    "ID": "107106"
+  },
+  {
+    "ListNumber": 132,
+    "Title": "1883",
+    "Year": "2021",
+    "ID": "882471"
+  },
+  {
+    "ListNumber": 133,
+    "Title": "This Is England '88",
+    "Year": "2011",
+    "ID": "158173"
+  },
+  {
+    "ListNumber": 134,
+    "Title": "Dopesick",
+    "Year": "2021",
+    "ID": "796758"
+  },
+  {
+    "ListNumber": 135,
+    "Title": "Scott Pilgrim Takes Off",
+    "Year": "2023",
+    "ID": "1090923"
+  },
+  {
+    "ListNumber": 136,
+    "Title": "Your Lie in April",
+    "Year": "2014",
+    "ID": "608523"
+  },
+  {
+    "ListNumber": 137,
+    "Title": "Small Axe",
+    "Year": "2020",
+    "ID": "665519"
+  },
+  {
+    "ListNumber": 138,
+    "Title": "Future Boy Conan",
+    "Year": "1978",
+    "ID": "617832"
+  },
+  {
+    "ListNumber": 139,
+    "Title": "Youth of May",
+    "Year": "2021",
+    "ID": "753443"
+  },
+  {
+    "ListNumber": 140,
+    "Title": "Ripley",
+    "Year": "2024",
+    "ID": "1141320"
+  },
+  {
+    "ListNumber": 141,
+    "Title": "Scarlet Heart: Ryeo",
+    "Year": "2016",
+    "ID": "729828"
+  },
+  {
+    "ListNumber": 142,
+    "Title": "A Place Further Than the Universe",
+    "Year": "2018",
+    "ID": "608532"
+  },
+  {
+    "ListNumber": 143,
+    "Title": "Watchmen: Motion Comic",
+    "Year": "2008",
+    "ID": "192443"
+  },
+  {
+    "ListNumber": 144,
+    "Title": "Beck: Mongolian Chop Squad",
+    "Year": "2004",
+    "ID": "624862"
+  },
+  {
+    "ListNumber": 145,
+    "Title": "Lonesome Dove",
+    "Year": "1989",
+    "ID": "227706"
+  },
+  {
+    "ListNumber": 146,
+    "Title": "TRIGUN",
+    "Year": "1998",
+    "ID": "608521"
+  },
+  {
+    "ListNumber": 147,
+    "Title": "The Underground Railroad",
+    "Year": "2021",
+    "ID": "718742"
+  },
+  {
+    "ListNumber": 148,
+    "Title": "Daisy Jones & the Six",
+    "Year": "2023",
+    "ID": "985816"
+  },
+  {
+    "ListNumber": 149,
+    "Title": "Dorohedoro",
+    "Year": "2020",
+    "ID": "673323"
+  },
+  {
+    "ListNumber": 150,
+    "Title": "This Is England '86",
+    "Year": "2010",
+    "ID": "335508"
+  },
+  {
+    "ListNumber": 151,
+    "Title": "Not Me",
+    "Year": "2021",
+    "ID": "861935"
+  },
+  {
+    "ListNumber": 152,
+    "Title": "The Pacific",
+    "Year": "2010",
+    "ID": "136354"
+  },
+  {
+    "ListNumber": 153,
+    "Title": "Baccano!",
+    "Year": "2007",
+    "ID": "604999"
+  },
+  {
+    "ListNumber": 154,
+    "Title": "Under the Queen's Umbrella",
+    "Year": "2022",
+    "ID": "955317"
+  },
+  {
+    "ListNumber": 155,
+    "Title": "Run with the Wind",
+    "Year": "2018",
+    "ID": "659649"
+  },
+  {
+    "ListNumber": 156,
+    "Title": "Battlestar Galactica",
+    "Year": "2003",
+    "ID": "252777"
+  },
+  {
+    "ListNumber": 157,
+    "Title": "The Tatami Time Machine Blues",
+    "Year": "2022",
+    "ID": "1000972"
+  },
+  {
+    "ListNumber": 158,
+    "Title": "Be Melodramatic",
+    "Year": "2019",
+    "ID": "736018"
+  },
+  {
+    "ListNumber": 159,
+    "Title": "Bakemonogatari",
+    "Year": "2009",
+    "ID": "706735"
+  },
+  {
+    "ListNumber": 160,
+    "Title": "Someday or One Day",
+    "Year": "2019",
+    "ID": "735997"
+  },
+  {
+    "ListNumber": 161,
+    "Title": "The Makanai: Cooking for the Maiko House",
+    "Year": "2023",
+    "ID": "967342"
+  },
+  {
+    "ListNumber": 162,
+    "Title": "Rebooting",
+    "Year": "2023",
+    "ID": "991811"
+  },
+  {
+    "ListNumber": 163,
+    "Title": "Years and Years",
+    "Year": "2019",
+    "ID": "529999"
+  },
+  {
+    "ListNumber": 164,
+    "Title": "Paradise Kiss",
+    "Year": "2005",
+    "ID": "634437"
+  },
+  {
+    "ListNumber": 165,
+    "Title": "House of Cards",
+    "Year": "1990",
+    "ID": "130477"
+  },
+  {
+    "ListNumber": 166,
+    "Title": "The Good Bad Mother",
+    "Year": "2023",
+    "ID": "1025246"
+  },
+  {
+    "ListNumber": 167,
+    "Title": "ERASED",
+    "Year": "2016",
+    "ID": "608515"
+  },
+  {
+    "ListNumber": 168,
+    "Title": "North & South",
+    "Year": "2004",
+    "ID": "256526"
+  },
+  {
+    "ListNumber": 169,
+    "Title": "Incomplete Life",
+    "Year": "2014",
+    "ID": "729816"
+  },
+  {
+    "ListNumber": 170,
+    "Title": "Skip and Loafer",
+    "Year": "2023",
+    "ID": "1031997"
+  },
+  {
+    "ListNumber": 171,
+    "Title": "Flower of Evil",
+    "Year": "2020",
+    "ID": "721940"
+  },
+  {
+    "ListNumber": 172,
+    "Title": "Generation War",
+    "Year": "2013",
+    "ID": "130113"
+  },
+  {
+    "ListNumber": 173,
+    "Title": "My School President",
+    "Year": "2022",
+    "ID": "985508"
+  },
+  {
+    "ListNumber": 174,
+    "Title": "Devilman Crybaby",
+    "Year": "2018",
+    "ID": "536053"
+  },
+  {
+    "ListNumber": 175,
+    "Title": "Patrick Melrose",
+    "Year": "2018",
+    "ID": "453525"
+  },
+  {
+    "ListNumber": 176,
+    "Title": "World on a Wire",
+    "Year": "1973",
+    "ID": "885411"
+  },
+  {
+    "ListNumber": 177,
+    "Title": "SKY Castle",
+    "Year": "2018",
+    "ID": "728053"
+  },
+  {
+    "ListNumber": 178,
+    "Title": "Riot Police",
+    "Year": "2020",
+    "ID": "675210"
+  },
+  {
+    "ListNumber": 179,
+    "Title": "One Day",
+    "Year": "2024",
+    "ID": "1120909"
+  },
+  {
+    "ListNumber": 180,
+    "Title": "Gunbuster",
+    "Year": "1988",
+    "ID": "637739"
+  },
+  {
+    "ListNumber": 181,
+    "Title": "Ethos",
+    "Year": "2020",
+    "ID": "684975"
+  },
+  {
+    "ListNumber": 182,
+    "Title": "Lessons in Chemistry",
+    "Year": "2023",
+    "ID": "1074983"
+  },
+  {
+    "ListNumber": 183,
+    "Title": "Black Bird",
+    "Year": "2022",
+    "ID": "896757"
+  },
+  {
+    "ListNumber": 184,
+    "Title": "Vincenzo",
+    "Year": "2021",
+    "ID": "741226"
+  },
+  {
+    "ListNumber": 185,
+    "Title": "The House in the Woods",
+    "Year": "1971",
+    "ID": "192864"
+  },
+  {
+    "ListNumber": 186,
+    "Title": "Roots",
+    "Year": "1977",
+    "ID": "455366"
+  },
+  {
+    "ListNumber": 187,
+    "Title": "Asobi Asobase - workshop of fun -",
+    "Year": "2018",
+    "ID": "745608"
+  },
+  {
+    "ListNumber": 188,
+    "Title": "Summer Strike",
+    "Year": "2022",
+    "ID": "966908"
+  },
+  {
+    "ListNumber": 189,
+    "Title": "The Singing Detective",
+    "Year": "1986",
+    "ID": "53721"
+  },
+  {
+    "ListNumber": 190,
+    "Title": "From the Earth to the Moon",
+    "Year": "1998",
+    "ID": "31574"
+  },
+  {
+    "ListNumber": 191,
+    "Title": "Caliphate",
+    "Year": "2020",
+    "ID": "622540"
+  },
+  {
+    "ListNumber": 192,
+    "Title": "Our Beloved Summer",
+    "Year": "2021",
+    "ID": "836733"
+  },
+  {
+    "ListNumber": 193,
+    "Title": "Tomorrow",
+    "Year": "2022",
+    "ID": "881719"
+  },
+  {
+    "ListNumber": 194,
+    "Title": "It's Okay to Not Be Okay",
+    "Year": "2020",
+    "ID": "729821"
+  },
+  {
+    "ListNumber": 195,
+    "Title": "Boiling Point",
+    "Year": "2023",
+    "ID": "1072481"
+  },
+  {
+    "ListNumber": 196,
+    "Title": "Ergo Proxy",
+    "Year": "2006",
+    "ID": "610956"
+  },
+  {
+    "ListNumber": 197,
+    "Title": "Barakamon",
+    "Year": "2014",
+    "ID": "631905"
+  },
+  {
+    "ListNumber": 198,
+    "Title": "Our Blues",
+    "Year": "2022",
+    "ID": "888603"
+  },
+  {
+    "ListNumber": 199,
+    "Title": "The Corner",
+    "Year": "2000",
+    "ID": "629982"
+  },
+  {
+    "ListNumber": 200,
+    "Title": "ONI: Thunder God's Tale",
+    "Year": "2022",
+    "ID": "936819"
+  },
+  {
+    "ListNumber": 201,
+    "Title": "Time",
+    "Year": "2021",
+    "ID": "754768"
+  },
+  {
+    "ListNumber": 202,
+    "Title": "ZeroZeroZero",
+    "Year": "2020",
+    "ID": "614130"
+  },
+  {
+    "ListNumber": 203,
+    "Title": "The Red Sleeve",
+    "Year": "2021",
+    "ID": "827746"
+  },
+  {
+    "ListNumber": 204,
+    "Title": "Queen Charlotte: A Bridgerton Story",
+    "Year": "2023",
+    "ID": "1010401"
+  },
+  {
+    "ListNumber": 205,
+    "Title": "Yokohama Kaidashi Kikou",
+    "Year": "1998",
+    "ID": "387063"
+  },
+  {
+    "ListNumber": 206,
+    "Title": "FEUD",
+    "Year": "2017",
+    "ID": "636744"
+  },
+  {
+    "ListNumber": 207,
+    "Title": "Dororo",
+    "Year": "2019",
+    "ID": "608914"
+  },
+  {
+    "ListNumber": 208,
+    "Title": "Kotaro Lives Alone",
+    "Year": "2022",
+    "ID": "854566"
+  },
+  {
+    "ListNumber": 209,
+    "Title": "Heidi, Girl of the Alps",
+    "Year": "1974",
+    "ID": "670356"
+  },
+  {
+    "ListNumber": 210,
+    "Title": "Death's Game",
+    "Year": "2023",
+    "ID": "1116065"
+  },
+  {
+    "ListNumber": 211,
+    "Title": "Goblin",
+    "Year": "2016",
+    "ID": "733797"
+  },
+  {
+    "ListNumber": 212,
+    "Title": "The Collapse",
+    "Year": "2019",
+    "ID": "656203"
+  },
+  {
+    "ListNumber": 213,
+    "Title": "Through the Darkness",
+    "Year": "2022",
+    "ID": "853336"
+  },
+  {
+    "ListNumber": 214,
+    "Title": "Wolf Hall",
+    "Year": "2015",
+    "ID": "247396"
+  },
+  {
+    "ListNumber": 215,
+    "Title": "Flowers of Evil",
+    "Year": "2013",
+    "ID": "619795"
+  },
+  {
+    "ListNumber": 216,
+    "Title": "The Maxx",
+    "Year": "1995",
+    "ID": "332031"
+  },
+  {
+    "ListNumber": 217,
+    "Title": "Princess Jellyfish",
+    "Year": "2010",
+    "ID": "655138"
+  },
+  {
+    "ListNumber": 218,
+    "Title": "Ouran High School Host Club",
+    "Year": "2006",
+    "ID": "653123"
+  },
+  {
+    "ListNumber": 219,
+    "Title": "Takin' Over the Asylum",
+    "Year": "1994",
+    "ID": "316456"
+  },
+  {
+    "ListNumber": 220,
+    "Title": "My Name",
+    "Year": "2021",
+    "ID": "796804"
+  },
+  {
+    "ListNumber": 221,
+    "Title": "Crashing",
+    "Year": "2016",
+    "ID": "553456"
+  },
+  {
+    "ListNumber": 222,
+    "Title": "We Own This City",
+    "Year": "2022",
+    "ID": "870239"
+  },
+  {
+    "ListNumber": 223,
+    "Title": "The Kingdom",
+    "Year": "1994",
+    "ID": "38053"
+  },
+  {
+    "ListNumber": 224,
+    "Title": "Penguindrum",
+    "Year": "2011",
+    "ID": "594713"
+  },
+  {
+    "ListNumber": 225,
+    "Title": "The Storks Will Return",
+    "Year": "2007",
+    "ID": "776864"
+  },
+  {
+    "ListNumber": 226,
+    "Title": "Mrs. America",
+    "Year": "2020",
+    "ID": "591235"
+  },
+  {
+    "ListNumber": 227,
+    "Title": "Bad Buddy",
+    "Year": "2021",
+    "ID": "843045"
+  },
+  {
+    "ListNumber": 228,
+    "Title": "His and Her Circumstances",
+    "Year": "1998",
+    "ID": "618417"
+  },
+  {
+    "ListNumber": 229,
+    "Title": "Midnight Mass",
+    "Year": "2021",
+    "ID": "774923"
+  },
+  {
+    "ListNumber": 230,
+    "Title": "Hellsing Ultimate",
+    "Year": "2006",
+    "ID": "634404"
+  },
+  {
+    "ListNumber": 231,
+    "Title": "Hometown Cha-Cha-Cha",
+    "Year": "2021",
+    "ID": "797144"
+  },
+  {
+    "ListNumber": 232,
+    "Title": "Calls",
+    "Year": "2021",
+    "ID": "744211"
+  },
+  {
+    "ListNumber": 233,
+    "Title": "Summer Heights High",
+    "Year": "2007",
+    "ID": "378912"
+  },
+  {
+    "ListNumber": 234,
+    "Title": "Mobile Suit Zeta Gundam",
+    "Year": "1985",
+    "ID": "746736"
+  },
+  {
+    "ListNumber": 235,
+    "Title": "Given",
+    "Year": "2019",
+    "ID": "636775"
+  },
+  {
+    "ListNumber": 236,
+    "Title": "Fullmetal Alchemist",
+    "Year": "2003",
+    "ID": "608926"
+  },
+  {
+    "ListNumber": 237,
+    "Title": "A Girl Named Zat",
+    "Year": "2013",
+    "ID": "880288"
+  },
+  {
+    "ListNumber": 238,
+    "Title": "Capitu",
+    "Year": "2008",
+    "ID": "370766"
+  },
+  {
+    "ListNumber": 239,
+    "Title": "Who Is America?",
+    "Year": "2018",
+    "ID": "474663"
+  },
+  {
+    "ListNumber": 240,
+    "Title": "Mr. Queen",
+    "Year": "2020",
+    "ID": "729837"
+  },
+  {
+    "ListNumber": 241,
+    "Title": "John Adams",
+    "Year": "2008",
+    "ID": "93699"
+  },
+  {
+    "ListNumber": 242,
+    "Title": "My Dearest",
+    "Year": "2023",
+    "ID": "1099102"
+  },
+  {
+    "ListNumber": 243,
+    "Title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
+    "Year": "2020",
+    "ID": "704908"
+  },
+  {
+    "ListNumber": 244,
+    "Title": "Giri/Haji",
+    "Year": "2019",
+    "ID": "650914"
+  },
+  {
+    "ListNumber": 245,
+    "Title": "Hi Bye, Mama!",
+    "Year": "2020",
+    "ID": "746038"
+  },
+  {
+    "ListNumber": 246,
+    "Title": "Fruits Basket",
+    "Year": "2001",
+    "ID": "627472"
+  },
+  {
+    "ListNumber": 247,
+    "Title": "The Tattooist of Auschwitz",
+    "Year": "2024",
+    "ID": "1169256"
+  },
+  {
+    "ListNumber": 248,
+    "Title": "Rainbow",
+    "Year": "2010",
+    "ID": "659182"
+  },
+  {
+    "ListNumber": 249,
+    "Title": "We Are Who We Are",
+    "Year": "2020",
+    "ID": "550727"
+  },
+  {
+    "ListNumber": 250,
+    "Title": "Mobile Suit Gundam",
+    "Year": "1979",
+    "ID": "614452"
+  }
 ]
