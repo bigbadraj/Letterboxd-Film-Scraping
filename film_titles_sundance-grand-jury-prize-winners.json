@@ -1,227 +1,227 @@
 [
-    {
-        "Title": "Old Enough",
-        "Year": "1984",
-        "ID": "84239"
-    },
-    {
-        "Title": "Heat and Sunlight",
-        "Year": "1987",
-        "ID": "96911"
-    },
-    {
-        "Title": "True Love",
-        "Year": "1989",
-        "ID": "89315"
-    },
-    {
-        "Title": "The Trouble with Dick",
-        "Year": "1987",
-        "ID": "93806"
-    },
-    {
-        "Title": "Waiting for the Moon",
-        "Year": "1987",
-        "ID": "157883"
-    },
-    {
-        "Title": "Chameleon Street",
-        "Year": "1989",
-        "ID": "83471"
-    },
-    {
-        "Title": "Smooth Talk",
-        "Year": "1985",
-        "ID": "29557"
-    },
-    {
-        "Title": "Blood Simple",
-        "Year": "1984",
-        "ID": "45366"
-    },
-    {
-        "Title": "Poison",
-        "Year": "1991",
-        "ID": "17790"
-    },
-    {
-        "Title": "Ruby in Paradise",
-        "Year": "1993",
-        "ID": "17544"
-    },
-    {
-        "Title": "In the Soup",
-        "Year": "1992",
-        "ID": "12983"
-    },
-    {
-        "Title": "Public Access",
-        "Year": "1993",
-        "ID": "63486"
-    },
-    {
-        "Title": "The Brothers McMullen",
-        "Year": "1995",
-        "ID": "41594"
-    },
-    {
-        "Title": "What Happened Was...",
-        "Year": "1994",
-        "ID": "70186"
-    },
-    {
-        "Title": "Welcome to the Dollhouse",
-        "Year": "1995",
-        "ID": "45296"
-    },
-    {
-        "Title": "The Young Poisoner's Handbook",
-        "Year": "1995",
-        "ID": "41306"
-    },
-    {
-        "Title": "Sunday",
-        "Year": "1997",
-        "ID": "58661"
-    },
-    {
-        "Title": "Three Seasons",
-        "Year": "1999",
-        "ID": "49493"
-    },
-    {
-        "Title": "Slam",
-        "Year": "1998",
-        "ID": "26957"
-    },
-    {
-        "Title": "You Can Count on Me",
-        "Year": "2000",
-        "ID": "43191"
-    },
-    {
-        "Title": "Girlfight",
-        "Year": "2000",
-        "ID": "39691"
-    },
-    {
-        "Title": "The Believer",
-        "Year": "2001",
-        "ID": "49529"
-    },
-    {
-        "Title": "American Splendor",
-        "Year": "2003",
-        "ID": "50100"
-    },
-    {
-        "Title": "Personal Velocity",
-        "Year": "2002",
-        "ID": "30292"
-    },
-    {
-        "Title": "Primer",
-        "Year": "2004",
-        "ID": "2682"
-    },
-    {
-        "Title": "Forty Shades of Blue",
-        "Year": "2005",
-        "ID": "32290"
-    },
-    {
-        "Title": "Quinceañera",
-        "Year": "2006",
-        "ID": "451"
-    },
-    {
-        "Title": "Blood of My Blood",
-        "Year": "2007",
-        "ID": "66437"
-    },
-    {
-        "Title": "Frozen River",
-        "Year": "2008",
-        "ID": "46468"
-    },
-    {
-        "Title": "Precious",
-        "Year": "2009",
-        "ID": "35791"
-    },
-    {
-        "Title": "Like Crazy",
-        "Year": "2011",
-        "ID": "6178"
-    },
-    {
-        "Title": "Winter's Bone",
-        "Year": "2010",
-        "ID": "25629"
-    },
-    {
-        "Title": "Beasts of the Southern Wild",
-        "Year": "2012",
-        "ID": "70666"
-    },
-    {
-        "Title": "Fruitvale Station",
-        "Year": "2013",
-        "ID": "117574"
-    },
-    {
-        "Title": "Me and Earl and the Dying Girl",
-        "Year": "2015",
-        "ID": "235480"
-    },
-    {
-        "Title": "The Birth of a Nation",
-        "Year": "2016",
-        "ID": "268955"
-    },
-    {
-        "Title": "The Miseducation of Cameron Post",
-        "Year": "2018",
-        "ID": "360028"
-    },
-    {
-        "Title": "Whiplash",
-        "Year": "2014",
-        "ID": "171384"
-    },
-    {
-        "Title": "Clemency",
-        "Year": "2019",
-        "ID": "493696"
-    },
-    {
-        "Title": "I Don't Feel at Home in This World Anymore",
-        "Year": "2017",
-        "ID": "359045"
-    },
-    {
-        "Title": "Minari",
-        "Year": "2020",
-        "ID": "542449"
-    },
-    {
-        "Title": "Nanny",
-        "Year": "2022",
-        "ID": "758693"
-    },
-    {
-        "Title": "In the Summers",
-        "Year": "2024",
-        "ID": "1037668"
-    },
-    {
-        "Title": "CODA",
-        "Year": "2021",
-        "ID": "695473"
-    },
-    {
-        "Title": "A Thousand and One",
-        "Year": "2023",
-        "ID": "769606"
-    }
+  {
+    "Title": "Blood Simple",
+    "Year": "1984",
+    "ID": "45366"
+  },
+  {
+    "Title": "Heat and Sunlight",
+    "Year": "1987",
+    "ID": "96911"
+  },
+  {
+    "Title": "Old Enough",
+    "Year": "1984",
+    "ID": "84239"
+  },
+  {
+    "Title": "The Trouble with Dick",
+    "Year": "1987",
+    "ID": "93806"
+  },
+  {
+    "Title": "Waiting for the Moon",
+    "Year": "1987",
+    "ID": "157883"
+  },
+  {
+    "Title": "Smooth Talk",
+    "Year": "1985",
+    "ID": "29557"
+  },
+  {
+    "Title": "True Love",
+    "Year": "1989",
+    "ID": "89315"
+  },
+  {
+    "Title": "In the Soup",
+    "Year": "1992",
+    "ID": "12983"
+  },
+  {
+    "Title": "Public Access",
+    "Year": "1993",
+    "ID": "63486"
+  },
+  {
+    "Title": "Ruby in Paradise",
+    "Year": "1993",
+    "ID": "17544"
+  },
+  {
+    "Title": "Poison",
+    "Year": "1991",
+    "ID": "17790"
+  },
+  {
+    "Title": "What Happened Was...",
+    "Year": "1994",
+    "ID": "70186"
+  },
+  {
+    "Title": "Chameleon Street",
+    "Year": "1989",
+    "ID": "83471"
+  },
+  {
+    "Title": "The Brothers McMullen",
+    "Year": "1995",
+    "ID": "41594"
+  },
+  {
+    "Title": "Welcome to the Dollhouse",
+    "Year": "1995",
+    "ID": "45296"
+  },
+  {
+    "Title": "The Young Poisoner's Handbook",
+    "Year": "1995",
+    "ID": "41306"
+  },
+  {
+    "Title": "Slam",
+    "Year": "1998",
+    "ID": "26957"
+  },
+  {
+    "Title": "Sunday",
+    "Year": "1997",
+    "ID": "58661"
+  },
+  {
+    "Title": "You Can Count on Me",
+    "Year": "2000",
+    "ID": "43191"
+  },
+  {
+    "Title": "American Splendor",
+    "Year": "2003",
+    "ID": "50100"
+  },
+  {
+    "Title": "Three Seasons",
+    "Year": "1999",
+    "ID": "49493"
+  },
+  {
+    "Title": "Personal Velocity",
+    "Year": "2002",
+    "ID": "30292"
+  },
+  {
+    "Title": "Girlfight",
+    "Year": "2000",
+    "ID": "39691"
+  },
+  {
+    "Title": "The Believer",
+    "Year": "2001",
+    "ID": "49529"
+  },
+  {
+    "Title": "Blood of My Blood",
+    "Year": "2007",
+    "ID": "66437"
+  },
+  {
+    "Title": "Forty Shades of Blue",
+    "Year": "2005",
+    "ID": "32290"
+  },
+  {
+    "Title": "Primer",
+    "Year": "2004",
+    "ID": "2682"
+  },
+  {
+    "Title": "Winter's Bone",
+    "Year": "2010",
+    "ID": "25629"
+  },
+  {
+    "Title": "Quinceañera",
+    "Year": "2006",
+    "ID": "451"
+  },
+  {
+    "Title": "Frozen River",
+    "Year": "2008",
+    "ID": "46468"
+  },
+  {
+    "Title": "Like Crazy",
+    "Year": "2011",
+    "ID": "6178"
+  },
+  {
+    "Title": "Precious",
+    "Year": "2009",
+    "ID": "35791"
+  },
+  {
+    "Title": "Whiplash",
+    "Year": "2014",
+    "ID": "171384"
+  },
+  {
+    "Title": "Fruitvale Station",
+    "Year": "2013",
+    "ID": "117574"
+  },
+  {
+    "Title": "Me and Earl and the Dying Girl",
+    "Year": "2015",
+    "ID": "235480"
+  },
+  {
+    "Title": "Beasts of the Southern Wild",
+    "Year": "2012",
+    "ID": "70666"
+  },
+  {
+    "Title": "I Don't Feel at Home in This World Anymore",
+    "Year": "2017",
+    "ID": "359045"
+  },
+  {
+    "Title": "The Birth of a Nation",
+    "Year": "2016",
+    "ID": "268955"
+  },
+  {
+    "Title": "The Miseducation of Cameron Post",
+    "Year": "2018",
+    "ID": "360028"
+  },
+  {
+    "Title": "CODA",
+    "Year": "2021",
+    "ID": "695473"
+  },
+  {
+    "Title": "Minari",
+    "Year": "2020",
+    "ID": "542449"
+  },
+  {
+    "Title": "Clemency",
+    "Year": "2019",
+    "ID": "493696"
+  },
+  {
+    "Title": "Nanny",
+    "Year": "2022",
+    "ID": "758693"
+  },
+  {
+    "Title": "In the Summers",
+    "Year": "2024",
+    "ID": "1037668"
+  },
+  {
+    "Title": "A Thousand and One",
+    "Year": "2023",
+    "ID": "769606"
+  }
 ]
