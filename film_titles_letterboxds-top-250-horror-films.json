@@ -1,1502 +1,1502 @@
 [
-    {
-        "ListNumber": 1,
-        "Title": "Perfect Blue",
-        "Year": "1997",
-        "ID": "46175"
-    },
-    {
-        "ListNumber": 2,
-        "Title": "The Thing",
-        "Year": "1982",
-        "ID": "51155"
-    },
-    {
-        "ListNumber": 3,
-        "Title": "The Silence of the Lambs",
-        "Year": "1991",
-        "ID": "51782"
-    },
-    {
-        "ListNumber": 4,
-        "Title": "Psycho",
-        "Year": "1960",
-        "ID": "51578"
-    },
-    {
-        "ListNumber": 5,
-        "Title": "Alien",
-        "Year": "1979",
-        "ID": "51714"
-    },
-    {
-        "ListNumber": 6,
-        "Title": "The Cremator",
-        "Year": "1969",
-        "ID": "40415"
-    },
-    {
-        "ListNumber": 7,
-        "Title": "Cure",
-        "Year": "1997",
-        "ID": "28195"
-    },
-    {
-        "ListNumber": 8,
-        "Title": "The Shining",
-        "Year": "1980",
-        "ID": "51432"
-    },
-    {
-        "ListNumber": 9,
-        "Title": "Kwaidan",
-        "Year": "1964",
-        "ID": "31595"
-    },
-    {
-        "ListNumber": 10,
-        "Title": "Rosemary's Baby",
-        "Year": "1968",
-        "ID": "51347"
-    },
-    {
-        "ListNumber": 11,
-        "Title": "Twin Peaks: Fire Walk with Me",
-        "Year": "1992",
-        "ID": "50682"
-    },
-    {
-        "ListNumber": 12,
-        "Title": "Demons",
-        "Year": "1971",
-        "ID": "84683"
-    },
-    {
-        "ListNumber": 13,
-        "Title": "Diabolique",
-        "Year": "1955",
-        "ID": "51325"
-    },
-    {
-        "ListNumber": 14,
-        "Title": "Coraline",
-        "Year": "2009",
-        "ID": "42779"
-    },
-    {
-        "ListNumber": 15,
-        "Title": "What Ever Happened to Baby Jane?",
-        "Year": "1962",
-        "ID": "46411"
-    },
-    {
-        "ListNumber": 16,
-        "Title": "Get Out",
-        "Year": "2017",
-        "ID": "353117"
-    },
-    {
-        "ListNumber": 17,
-        "Title": "Black Swan",
-        "Year": "2010",
-        "ID": "20956"
-    },
-    {
-        "ListNumber": 18,
-        "Title": "Seconds",
-        "Year": "1966",
-        "ID": "38894"
-    },
-    {
-        "ListNumber": 19,
-        "Title": "Aliens",
-        "Year": "1986",
-        "ID": "51445"
-    },
-    {
-        "ListNumber": 20,
-        "Title": "What We Do in the Shadows",
-        "Year": "2014",
-        "ID": "172537"
-    },
-    {
-        "ListNumber": 21,
-        "Title": "The Innocents",
-        "Year": "1961",
-        "ID": "41608"
-    },
-    {
-        "ListNumber": 22,
-        "Title": "The Wolf House",
-        "Year": "2018",
-        "ID": "429571"
-    },
-    {
-        "ListNumber": 23,
-        "Title": "Faust",
-        "Year": "1926",
-        "ID": "45950"
-    },
-    {
-        "ListNumber": 24,
-        "Title": "Phantom of the Paradise",
-        "Year": "1974",
-        "ID": "34615"
-    },
-    {
-        "ListNumber": 25,
-        "Title": "Onibaba",
-        "Year": "1964",
-        "ID": "49601"
-    },
-    {
-        "ListNumber": 26,
-        "Title": "The Phantom Carriage",
-        "Year": "1921",
-        "ID": "8100"
-    },
-    {
-        "ListNumber": 27,
-        "Title": "Godzilla Minus One",
-        "Year": "2023",
-        "ID": "845706"
-    },
-    {
-        "ListNumber": 28,
-        "Title": "Possession",
-        "Year": "1981",
-        "ID": "38374"
-    },
-    {
-        "ListNumber": 29,
-        "Title": "The Cabinet of Dr. Caligari",
-        "Year": "1920",
-        "ID": "51822"
-    },
-    {
-        "ListNumber": 30,
-        "Title": "Vampire Hunter D: Bloodlust",
-        "Year": "2000",
-        "ID": "41920"
-    },
-    {
-        "ListNumber": 31,
-        "Title": "One Cut of the Dead",
-        "Year": "2017",
-        "ID": "443086"
-    },
-    {
-        "ListNumber": 32,
-        "Title": "Let the Right One In",
-        "Year": "2008",
-        "ID": "43989"
-    },
-    {
-        "ListNumber": 33,
-        "Title": "Godzilla",
-        "Year": "1954",
-        "ID": "50866"
-    },
-    {
-        "ListNumber": 34,
-        "Title": "The Sixth Sense",
-        "Year": "1999",
-        "ID": "51407"
-    },
-    {
-        "ListNumber": 35,
-        "Title": "Kuroneko",
-        "Year": "1968",
-        "ID": "24742"
-    },
-    {
-        "ListNumber": 36,
-        "Title": "I Saw the Devil",
-        "Year": "2010",
-        "ID": "15827"
-    },
-    {
-        "ListNumber": 37,
-        "Title": "The Lighthouse",
-        "Year": "2019",
-        "ID": "433863"
-    },
-    {
-        "ListNumber": 38,
-        "Title": "Scream",
-        "Year": "1996",
-        "ID": "49455"
-    },
-    {
-        "ListNumber": 39,
-        "Title": "Peeping Tom",
-        "Year": "1960",
-        "ID": "45541"
-    },
-    {
-        "ListNumber": 40,
-        "Title": "The Rocky Horror Picture Show",
-        "Year": "1975",
-        "ID": "27698"
-    },
-    {
-        "ListNumber": 41,
-        "Title": "Evil Dead II",
-        "Year": "1987",
-        "ID": "51387"
-    },
-    {
-        "ListNumber": 42,
-        "Title": "Santa Sangre",
-        "Year": "1989",
-        "ID": "39765"
-    },
-    {
-        "ListNumber": 43,
-        "Title": "Häxan",
-        "Year": "1922",
-        "ID": "8871"
-    },
-    {
-        "ListNumber": 44,
-        "Title": "House",
-        "Year": "1977",
-        "ID": "35925"
-    },
-    {
-        "ListNumber": 45,
-        "Title": "Hour of the Wolf",
-        "Year": "1968",
-        "ID": "40422"
-    },
-    {
-        "ListNumber": 46,
-        "Title": "The Fly",
-        "Year": "1986",
-        "ID": "47171"
-    },
-    {
-        "ListNumber": 47,
-        "Title": "The Exorcist",
-        "Year": "1973",
-        "ID": "47048"
-    },
-    {
-        "ListNumber": 48,
-        "Title": "The Wailing",
-        "Year": "2016",
-        "ID": "220556"
-    },
-    {
-        "ListNumber": 49,
-        "Title": "Misery",
-        "Year": "1990",
-        "ID": "50846"
-    },
-    {
-        "ListNumber": 50,
-        "Title": "Bride of Frankenstein",
-        "Year": "1935",
-        "ID": "51827"
-    },
-    {
-        "ListNumber": 51,
-        "Title": "Shaun of the Dead",
-        "Year": "2004",
-        "ID": "51405"
-    },
-    {
-        "ListNumber": 52,
-        "Title": "Dawn of the Dead",
-        "Year": "1978",
-        "ID": "51230"
-    },
-    {
-        "ListNumber": 53,
-        "Title": "The Wicker Man",
-        "Year": "1973",
-        "ID": "41662"
-    },
-    {
-        "ListNumber": 54,
-        "Title": "Hereditary",
-        "Year": "2018",
-        "ID": "424348"
-    },
-    {
-        "ListNumber": 55,
-        "Title": "Train to Busan",
-        "Year": "2016",
-        "ID": "330912"
-    },
-    {
-        "ListNumber": 56,
-        "Title": "Night of the Living Dead",
-        "Year": "1968",
-        "ID": "46330"
-    },
-    {
-        "ListNumber": 57,
-        "Title": "Manichitrathazhu",
-        "Year": "1993",
-        "ID": "70818"
-    },
-    {
-        "ListNumber": 58,
-        "Title": "Jaws",
-        "Year": "1975",
-        "ID": "51542"
-    },
-    {
-        "ListNumber": 59,
-        "Title": "Mother Joan of the Angels",
-        "Year": "1961",
-        "ID": "90480"
-    },
-    {
-        "ListNumber": 60,
-        "Title": "Invasion of the Body Snatchers",
-        "Year": "1978",
-        "ID": "44952"
-    },
-    {
-        "ListNumber": 61,
-        "Title": "Funny Games",
-        "Year": "1997",
-        "ID": "46418"
-    },
-    {
-        "ListNumber": 62,
-        "Title": "Suspiria",
-        "Year": "1977",
-        "ID": "44900"
-    },
-    {
-        "ListNumber": 63,
-        "Title": "Braindead",
-        "Year": "1992",
-        "ID": "51389"
-    },
-    {
-        "ListNumber": 64,
-        "Title": "Freaks",
-        "Year": "1932",
-        "ID": "51915"
-    },
-    {
-        "ListNumber": 65,
-        "Title": "Eyes Without a Face",
-        "Year": "1960",
-        "ID": "31194"
-    },
-    {
-        "ListNumber": 66,
-        "Title": "The Substance",
-        "Year": "2024",
-        "ID": "838140"
-    },
-    {
-        "ListNumber": 67,
-        "Title": "Beauty and the Beast",
-        "Year": "1978",
-        "ID": "59102"
-    },
-    {
-        "ListNumber": 68,
-        "Title": "Repulsion",
-        "Year": "1965",
-        "ID": "45263"
-    },
-    {
-        "ListNumber": 69,
-        "Title": "Deep Red",
-        "Year": "1975",
-        "ID": "39219"
-    },
-    {
-        "ListNumber": 70,
-        "Title": "The Skeleton of Mrs. Morales",
-        "Year": "1960",
-        "ID": "93485"
-    },
-    {
-        "ListNumber": 71,
-        "Title": "Wait Until Dark",
-        "Year": "1967",
-        "ID": "45503"
-    },
-    {
-        "ListNumber": 72,
-        "Title": "Humanist Vampire Seeking Consenting Suicidal Person",
-        "Year": "2023",
-        "ID": "890105"
-    },
-    {
-        "ListNumber": 73,
-        "Title": "The Man Who Laughs",
-        "Year": "1928",
-        "ID": "34449"
-    },
-    {
-        "ListNumber": 74,
-        "Title": "Witchhammer",
-        "Year": "1970",
-        "ID": "3972"
-    },
-    {
-        "ListNumber": 75,
-        "Title": "Videodrome",
-        "Year": "1983",
-        "ID": "51315"
-    },
-    {
-        "ListNumber": 76,
-        "Title": "Nosferatu",
-        "Year": "1922",
-        "ID": "51471"
-    },
-    {
-        "ListNumber": 77,
-        "Title": "Angel Dust",
-        "Year": "1994",
-        "ID": "29389"
-    },
-    {
-        "ListNumber": 78,
-        "Title": "Tetsuo: The Iron Man",
-        "Year": "1989",
-        "ID": "23602"
-    },
-    {
-        "ListNumber": 79,
-        "Title": "The Invisible Man",
-        "Year": "1933",
-        "ID": "45897"
-    },
-    {
-        "ListNumber": 80,
-        "Title": "The Tenant",
-        "Year": "1976",
-        "ID": "45262"
-    },
-    {
-        "ListNumber": 81,
-        "Title": "Shin Godzilla",
-        "Year": "2016",
-        "ID": "241920"
-    },
-    {
-        "ListNumber": 82,
-        "Title": "Eraserhead",
-        "Year": "1977",
-        "ID": "51184"
-    },
-    {
-        "ListNumber": 83,
-        "Title": "Manhunter",
-        "Year": "1986",
-        "ID": "45288"
-    },
-    {
-        "ListNumber": 84,
-        "Title": "The Devil",
-        "Year": "1972",
-        "ID": "78750"
-    },
-    {
-        "ListNumber": 85,
-        "Title": "King Kong",
-        "Year": "1933",
-        "ID": "51812"
-    },
-    {
-        "ListNumber": 86,
-        "Title": "Nosferatu the Vampyre",
-        "Year": "1979",
-        "ID": "48329"
-    },
-    {
-        "ListNumber": 87,
-        "Title": "Little Shop of Horrors",
-        "Year": "1986",
-        "ID": "45907"
-    },
-    {
-        "ListNumber": 88,
-        "Title": "Carrie",
-        "Year": "1976",
-        "ID": "48049"
-    },
-    {
-        "ListNumber": 89,
-        "Title": "Inland Empire",
-        "Year": "2006",
-        "ID": "50822"
-    },
-    {
-        "ListNumber": 90,
-        "Title": "Dead Ringers",
-        "Year": "1988",
-        "ID": "47060"
-    },
-    {
-        "ListNumber": 91,
-        "Title": "The Incredible Shrinking Man",
-        "Year": "1957",
-        "ID": "30962"
-    },
-    {
-        "ListNumber": 92,
-        "Title": "Thesis",
-        "Year": "1996",
-        "ID": "47293"
-    },
-    {
-        "ListNumber": 93,
-        "Title": "The Third Part of the Night",
-        "Year": "1971",
-        "ID": "18566"
-    },
-    {
-        "ListNumber": 94,
-        "Title": "American Psycho",
-        "Year": "2000",
-        "ID": "51097"
-    },
-    {
-        "ListNumber": 95,
-        "Title": "An American Werewolf in London",
-        "Year": "1981",
-        "ID": "51338"
-    },
-    {
-        "ListNumber": 96,
-        "Title": "Kotoko",
-        "Year": "2011",
-        "ID": "71517"
-    },
-    {
-        "ListNumber": 97,
-        "Title": "The Skin I Live In",
-        "Year": "2011",
-        "ID": "3519"
-    },
-    {
-        "ListNumber": 98,
-        "Title": "The Texas Chain Saw Massacre",
-        "Year": "1974",
-        "ID": "31985"
-    },
-    {
-        "ListNumber": 99,
-        "Title": "Jacob's Ladder",
-        "Year": "1990",
-        "ID": "50358"
-    },
-    {
-        "ListNumber": 100,
-        "Title": "Helter Skelter",
-        "Year": "2012",
-        "ID": "84642"
-    },
-    {
-        "ListNumber": 101,
-        "Title": "Scooby-Doo on Zombie Island",
-        "Year": "1998",
-        "ID": "44096"
-    },
-    {
-        "ListNumber": 102,
-        "Title": "The Witch",
-        "Year": "2015",
-        "ID": "237177"
-    },
-    {
-        "ListNumber": 103,
-        "Title": "Black Christmas",
-        "Year": "1974",
-        "ID": "41305"
-    },
-    {
-        "ListNumber": 104,
-        "Title": "A Page of Madness",
-        "Year": "1926",
-        "ID": "78433"
-    },
-    {
-        "ListNumber": 105,
-        "Title": "The Devil's Backbone",
-        "Year": "2001",
-        "ID": "51034"
-    },
-    {
-        "ListNumber": 106,
-        "Title": "Invasion of the Body Snatchers",
-        "Year": "1956",
-        "ID": "45199"
-    },
-    {
-        "ListNumber": 107,
-        "Title": "Morgiana",
-        "Year": "1972",
-        "ID": "12747"
-    },
-    {
-        "ListNumber": 108,
-        "Title": "Frankenstein",
-        "Year": "1931",
-        "ID": "49930"
-    },
-    {
-        "ListNumber": 109,
-        "Title": "Audition",
-        "Year": "1999",
-        "ID": "45628"
-    },
-    {
-        "ListNumber": 110,
-        "Title": "The Unknown",
-        "Year": "1927",
-        "ID": "34463"
-    },
-    {
-        "ListNumber": 111,
-        "Title": "Gamera 3: Revenge of Iris",
-        "Year": "1999",
-        "ID": "6421"
-    },
-    {
-        "ListNumber": 112,
-        "Title": "November",
-        "Year": "2017",
-        "ID": "370364"
-    },
-    {
-        "ListNumber": 113,
-        "Title": "The Happiness of the Katakuris",
-        "Year": "2001",
-        "ID": "41763"
-    },
-    {
-        "ListNumber": 114,
-        "Title": "The Return of the Living Dead",
-        "Year": "1985",
-        "ID": "45768"
-    },
-    {
-        "ListNumber": 115,
-        "Title": "Vampyr",
-        "Year": "1932",
-        "ID": "51373"
-    },
-    {
-        "ListNumber": 116,
-        "Title": "Don't Look Now",
-        "Year": "1973",
-        "ID": "51222"
-    },
-    {
-        "ListNumber": 117,
-        "Title": "Rapture",
-        "Year": "1979",
-        "ID": "49297"
-    },
-    {
-        "ListNumber": 118,
-        "Title": "In the Mouth of Madness",
-        "Year": "1994",
-        "ID": "50166"
-    },
-    {
-        "ListNumber": 119,
-        "Title": "Bramayugam",
-        "Year": "2024",
-        "ID": "1054150"
-    },
-    {
-        "ListNumber": 120,
-        "Title": "Halloween",
-        "Year": "1978",
-        "ID": "60298"
-    },
-    {
-        "ListNumber": 121,
-        "Title": "Godzilla vs. Destoroyah",
-        "Year": "1995",
-        "ID": "44476"
-    },
-    {
-        "ListNumber": 122,
-        "Title": "Night of the Demon",
-        "Year": "1957",
-        "ID": "36286"
-    },
-    {
-        "ListNumber": 123,
-        "Title": "Mad God",
-        "Year": "2021",
-        "ID": "761046"
-    },
-    {
-        "ListNumber": 124,
-        "Title": "Thirst",
-        "Year": "2009",
-        "ID": "37835"
-    },
-    {
-        "ListNumber": 125,
-        "Title": "The Haunting",
-        "Year": "1963",
-        "ID": "45023"
-    },
-    {
-        "ListNumber": 126,
-        "Title": "Climax",
-        "Year": "2018",
-        "ID": "436873"
-    },
-    {
-        "ListNumber": 127,
-        "Title": "The Boxer's Omen",
-        "Year": "1983",
-        "ID": "16350"
-    },
-    {
-        "ListNumber": 128,
-        "Title": "Taste of Fear",
-        "Year": "1961",
-        "ID": "391"
-    },
-    {
-        "ListNumber": 129,
-        "Title": "Midsommar",
-        "Year": "2019",
-        "ID": "459564"
-    },
-    {
-        "ListNumber": 130,
-        "Title": "The Hunchback of Notre Dame",
-        "Year": "1939",
-        "ID": "30959"
-    },
-    {
-        "ListNumber": 131,
-        "Title": "A Girl Walks Home Alone at Night",
-        "Year": "2014",
-        "ID": "176053"
-    },
-    {
-        "ListNumber": 132,
-        "Title": "Carnival of Souls",
-        "Year": "1962",
-        "ID": "41838"
-    },
-    {
-        "ListNumber": 133,
-        "Title": "Day of the Dead",
-        "Year": "1985",
-        "ID": "47751"
-    },
-    {
-        "ListNumber": 134,
-        "Title": "28 Days Later",
-        "Year": "2002",
-        "ID": "51881"
-    },
-    {
-        "ListNumber": 135,
-        "Title": "The Host",
-        "Year": "2006",
-        "ID": "51125"
-    },
-    {
-        "ListNumber": 136,
-        "Title": "Re-Animator",
-        "Year": "1985",
-        "ID": "50851"
-    },
-    {
-        "ListNumber": 137,
-        "Title": "Dr. Jekyll and Mr. Hyde",
-        "Year": "1931",
-        "ID": "49946"
-    },
-    {
-        "ListNumber": 138,
-        "Title": "Little Otik",
-        "Year": "2000",
-        "ID": "39982"
-    },
-    {
-        "ListNumber": 139,
-        "Title": "The Birds",
-        "Year": "1963",
-        "ID": "51549"
-    },
-    {
-        "ListNumber": 140,
-        "Title": "The Others",
-        "Year": "2001",
-        "ID": "50675"
-    },
-    {
-        "ListNumber": 141,
-        "Title": "Dead of Night",
-        "Year": "1945",
-        "ID": "43764"
-    },
-    {
-        "ListNumber": 142,
-        "Title": "Guilty of Romance",
-        "Year": "2011",
-        "ID": "67114"
-    },
-    {
-        "ListNumber": 143,
-        "Title": "Angst",
-        "Year": "1983",
-        "ID": "40003"
-    },
-    {
-        "ListNumber": 144,
-        "Title": "Tenebre",
-        "Year": "1982",
-        "ID": "32623"
-    },
-    {
-        "ListNumber": 145,
-        "Title": "Images",
-        "Year": "1972",
-        "ID": "32853"
-    },
-    {
-        "ListNumber": 146,
-        "Title": "Suspiria",
-        "Year": "2018",
-        "ID": "293066"
-    },
-    {
-        "ListNumber": 147,
-        "Title": "Martin",
-        "Year": "1977",
-        "ID": "35260"
-    },
-    {
-        "ListNumber": 148,
-        "Title": "The Fall of the House of Usher",
-        "Year": "1928",
-        "ID": "33842"
-    },
-    {
-        "ListNumber": 149,
-        "Title": "Who Can Kill a Child?",
-        "Year": "1976",
-        "ID": "21406"
-    },
-    {
-        "ListNumber": 150,
-        "Title": "Blood and Black Lace",
-        "Year": "1964",
-        "ID": "33965"
-    },
-    {
-        "ListNumber": 151,
-        "Title": "Retribution",
-        "Year": "2006",
-        "ID": "19146"
-    },
-    {
-        "ListNumber": 152,
-        "Title": "Pearl",
-        "Year": "2022",
-        "ID": "853822"
-    },
-    {
-        "ListNumber": 153,
-        "Title": "Clearcut",
-        "Year": "1991",
-        "ID": "92419"
-    },
-    {
-        "ListNumber": 154,
-        "Title": "A Nightmare on Elm Street",
-        "Year": "1984",
-        "ID": "51708"
-    },
-    {
-        "ListNumber": 155,
-        "Title": "The Phantom of the Opera",
-        "Year": "1925",
-        "ID": "51199"
-    },
-    {
-        "ListNumber": 156,
-        "Title": "The Seventh Curse",
-        "Year": "1986",
-        "ID": "24971"
-    },
-    {
-        "ListNumber": 157,
-        "Title": "Cemetery Man",
-        "Year": "1994",
-        "ID": "38309"
-    },
-    {
-        "ListNumber": 158,
-        "Title": "The Stepford Wives",
-        "Year": "1975",
-        "ID": "44686"
-    },
-    {
-        "ListNumber": 159,
-        "Title": "Cold Fish",
-        "Year": "2010",
-        "ID": "52872"
-    },
-    {
-        "ListNumber": 160,
-        "Title": "Army of Darkness",
-        "Year": "1992",
-        "ID": "51386"
-    },
-    {
-        "ListNumber": 161,
-        "Title": "This Night I'll Possess Your Corpse",
-        "Year": "1967",
-        "ID": "31639"
-    },
-    {
-        "ListNumber": 162,
-        "Title": "Dante's Inferno",
-        "Year": "1911",
-        "ID": "58948"
-    },
-    {
-        "ListNumber": 163,
-        "Title": "Nope",
-        "Year": "2022",
-        "ID": "682547"
-    },
-    {
-        "ListNumber": 164,
-        "Title": "Blind Beast",
-        "Year": "1969",
-        "ID": "34534"
-    },
-    {
-        "ListNumber": 165,
-        "Title": "A Tale of Two Sisters",
-        "Year": "2003",
-        "ID": "49255"
-    },
-    {
-        "ListNumber": 166,
-        "Title": "Hush... Hush, Sweet Charlotte",
-        "Year": "1964",
-        "ID": "46359"
-    },
-    {
-        "ListNumber": 167,
-        "Title": "Gamera 2: Attack of Legion",
-        "Year": "1996",
-        "ID": "6909"
-    },
-    {
-        "ListNumber": 168,
-        "Title": "The Bird with the Crystal Plumage",
-        "Year": "1970",
-        "ID": "39072"
-    },
-    {
-        "ListNumber": 169,
-        "Title": "Elvira: Mistress of the Dark",
-        "Year": "1988",
-        "ID": "48730"
-    },
-    {
-        "ListNumber": 170,
-        "Title": "Bram Stoker's Dracula",
-        "Year": "1992",
-        "ID": "48454"
-    },
-    {
-        "ListNumber": 171,
-        "Title": "Raw",
-        "Year": "2016",
-        "ID": "327974"
-    },
-    {
-        "ListNumber": 172,
-        "Title": "Chime",
-        "Year": "2024",
-        "ID": "1103563"
-    },
-    {
-        "ListNumber": 173,
-        "Title": "White Dog",
-        "Year": "1982",
-        "ID": "17479"
-    },
-    {
-        "ListNumber": 174,
-        "Title": "Death Becomes Her",
-        "Year": "1992",
-        "ID": "47221"
-    },
-    {
-        "ListNumber": 175,
-        "Title": "[REC]",
-        "Year": "2007",
-        "ID": "47803"
-    },
-    {
-        "ListNumber": 176,
-        "Title": "Frenzy",
-        "Year": "1972",
-        "ID": "51547"
-    },
-    {
-        "ListNumber": 177,
-        "Title": "I Walked with a Zombie",
-        "Year": "1943",
-        "ID": "34778"
-    },
-    {
-        "ListNumber": 178,
-        "Title": "Island of Lost Souls",
-        "Year": "1932",
-        "ID": "49934"
-    },
-    {
-        "ListNumber": 179,
-        "Title": "Pulse",
-        "Year": "2001",
-        "ID": "34618"
-    },
-    {
-        "ListNumber": 180,
-        "Title": "Bones and All",
-        "Year": "2022",
-        "ID": "709299"
-    },
-    {
-        "ListNumber": 181,
-        "Title": "The Day of the Beast",
-        "Year": "1995",
-        "ID": "45956"
-    },
-    {
-        "ListNumber": 182,
-        "Title": "The Golem: How He Came Into the World",
-        "Year": "1920",
-        "ID": "49986"
-    },
-    {
-        "ListNumber": 183,
-        "Title": "Gozu",
-        "Year": "2003",
-        "ID": "44548"
-    },
-    {
-        "ListNumber": 184,
-        "Title": "Cat People",
-        "Year": "1942",
-        "ID": "36010"
-    },
-    {
-        "ListNumber": 185,
-        "Title": "Altered States",
-        "Year": "1980",
-        "ID": "45206"
-    },
-    {
-        "ListNumber": 186,
-        "Title": "Strange Circus",
-        "Year": "2005",
-        "ID": "45843"
-    },
-    {
-        "ListNumber": 187,
-        "Title": "Poison for the Fairies",
-        "Year": "1986",
-        "ID": "33235"
-    },
-    {
-        "ListNumber": 188,
-        "Title": "Tumbbad",
-        "Year": "2018",
-        "ID": "468195"
-    },
-    {
-        "ListNumber": 189,
-        "Title": "Encounters of the Spooky Kind",
-        "Year": "1980",
-        "ID": "42149"
-    },
-    {
-        "ListNumber": 190,
-        "Title": "Tucker and Dale vs. Evil",
-        "Year": "2010",
-        "ID": "18527"
-    },
-    {
-        "ListNumber": 191,
-        "Title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
-        "Year": "2001",
-        "ID": "28063"
-    },
-    {
-        "ListNumber": 192,
-        "Title": "Anguish",
-        "Year": "1987",
-        "ID": "23058"
-    },
-    {
-        "ListNumber": 193,
-        "Title": "The Evil Dead",
-        "Year": "1981",
-        "ID": "51388"
-    },
-    {
-        "ListNumber": 194,
-        "Title": "The Bad Seed",
-        "Year": "1956",
-        "ID": "22870"
-    },
-    {
-        "ListNumber": 195,
-        "Title": "Us",
-        "Year": "2019",
-        "ID": "390520"
-    },
-    {
-        "ListNumber": 196,
-        "Title": "Black Sunday",
-        "Year": "1960",
-        "ID": "34346"
-    },
-    {
-        "ListNumber": 197,
-        "Title": "Bone Tomahawk",
-        "Year": "2015",
-        "ID": "222298"
-    },
-    {
-        "ListNumber": 198,
-        "Title": "Don't Torture a Duckling",
-        "Year": "1972",
-        "ID": "16239"
-    },
-    {
-        "ListNumber": 199,
-        "Title": "Empire of Passion",
-        "Year": "1978",
-        "ID": "16485"
-    },
-    {
-        "ListNumber": 200,
-        "Title": "Green Room",
-        "Year": "2015",
-        "ID": "241052"
-    },
-    {
-        "ListNumber": 201,
-        "Title": "The Lost Boys",
-        "Year": "1987",
-        "ID": "50987"
-    },
-    {
-        "ListNumber": 202,
-        "Title": "Mr. Vampire",
-        "Year": "1985",
-        "ID": "53843"
-    },
-    {
-        "ListNumber": 203,
-        "Title": "Tales from the Hood",
-        "Year": "1995",
-        "ID": "36313"
-    },
-    {
-        "ListNumber": 204,
-        "Title": "The Abominable Dr. Phibes",
-        "Year": "1971",
-        "ID": "40661"
-    },
-    {
-        "ListNumber": 205,
-        "Title": "A Quiet Place",
-        "Year": "2018",
-        "ID": "379687"
-    },
-    {
-        "ListNumber": 206,
-        "Title": "Opera",
-        "Year": "1987",
-        "ID": "39226"
-    },
-    {
-        "ListNumber": 207,
-        "Title": "Candyman",
-        "Year": "1992",
-        "ID": "47071"
-    },
-    {
-        "ListNumber": 208,
-        "Title": "Angel Heart",
-        "Year": "1987",
-        "ID": "51489"
-    },
-    {
-        "ListNumber": 209,
-        "Title": "Martyrs",
-        "Year": "2008",
-        "ID": "47061"
-    },
-    {
-        "ListNumber": 210,
-        "Title": "Bedevilled",
-        "Year": "2010",
-        "ID": "54949"
-    },
-    {
-        "ListNumber": 211,
-        "Title": "Dressed to Kill",
-        "Year": "1980",
-        "ID": "45670"
-    },
-    {
-        "ListNumber": 212,
-        "Title": "In a Glass Cage",
-        "Year": "1986",
-        "ID": "18598"
-    },
-    {
-        "ListNumber": 213,
-        "Title": "Alien: Romulus",
-        "Year": "2024",
-        "ID": "850459"
-    },
-    {
-        "ListNumber": 214,
-        "Title": "Noroi: The Curse",
-        "Year": "2005",
-        "ID": "38360"
-    },
-    {
-        "ListNumber": 215,
-        "Title": "Séance",
-        "Year": "2000",
-        "ID": "34240"
-    },
-    {
-        "ListNumber": 216,
-        "Title": "The Orphanage",
-        "Year": "2007",
-        "ID": "51991"
-    },
-    {
-        "ListNumber": 217,
-        "Title": "Ravenous",
-        "Year": "1999",
-        "ID": "46439"
-    },
-    {
-        "ListNumber": 218,
-        "Title": "Gremlins",
-        "Year": "1984",
-        "ID": "51226"
-    },
-    {
-        "ListNumber": 219,
-        "Title": "Mad Love",
-        "Year": "1935",
-        "ID": "33785"
-    },
-    {
-        "ListNumber": 220,
-        "Title": "The Spiral Staircase",
-        "Year": "1946",
-        "ID": "34509"
-    },
-    {
-        "ListNumber": 221,
-        "Title": "Saw",
-        "Year": "2004",
-        "ID": "51875"
-    },
-    {
-        "ListNumber": 222,
-        "Title": "Black Sabbath",
-        "Year": "1963",
-        "ID": "33977"
-    },
-    {
-        "ListNumber": 223,
-        "Title": "You Won't Be Alone",
-        "Year": "2022",
-        "ID": "794063"
-    },
-    {
-        "ListNumber": 224,
-        "Title": "Jigoku",
-        "Year": "1960",
-        "ID": "15475"
-    },
-    {
-        "ListNumber": 225,
-        "Title": "Ganja & Hess",
-        "Year": "1973",
-        "ID": "69553"
-    },
-    {
-        "ListNumber": 226,
-        "Title": "Tigers Are Not Afraid",
-        "Year": "2017",
-        "ID": "279276"
-    },
-    {
-        "ListNumber": 227,
-        "Title": "Ichi the Killer",
-        "Year": "2001",
-        "ID": "46908"
-    },
-    {
-        "ListNumber": 228,
-        "Title": "Ginger Snaps",
-        "Year": "2000",
-        "ID": "46762"
-    },
-    {
-        "ListNumber": 229,
-        "Title": "The Hitcher",
-        "Year": "1986",
-        "ID": "47058"
-    },
-    {
-        "ListNumber": 230,
-        "Title": "The Blob",
-        "Year": "1988",
-        "ID": "47002"
-    },
-    {
-        "ListNumber": 231,
-        "Title": "Theatre of Blood",
-        "Year": "1973",
-        "ID": "33618"
-    },
-    {
-        "ListNumber": 232,
-        "Title": "The Hidden",
-        "Year": "1987",
-        "ID": "44559"
-    },
-    {
-        "ListNumber": 233,
-        "Title": "Under the Skin",
-        "Year": "2013",
-        "ID": "80198"
-    },
-    {
-        "ListNumber": 234,
-        "Title": "The Masque of the Red Death",
-        "Year": "1964",
-        "ID": "36140"
-    },
-    {
-        "ListNumber": 235,
-        "Title": "The Omen",
-        "Year": "1976",
-        "ID": "51358"
-    },
-    {
-        "ListNumber": 236,
-        "Title": "The House That Jack Built",
-        "Year": "2018",
-        "ID": "332432"
-    },
-    {
-        "ListNumber": 237,
-        "Title": "Phenomena",
-        "Year": "1985",
-        "ID": "33086"
-    },
-    {
-        "ListNumber": 238,
-        "Title": "The Addiction",
-        "Year": "1995",
-        "ID": "28829"
-    },
-    {
-        "ListNumber": 239,
-        "Title": "Mandy",
-        "Year": "2018",
-        "ID": "392654"
-    },
-    {
-        "ListNumber": 240,
-        "Title": "Funny Games",
-        "Year": "2007",
-        "ID": "47710"
-    },
-    {
-        "ListNumber": 241,
-        "Title": "Titane",
-        "Year": "2021",
-        "ID": "556553"
-    },
-    {
-        "ListNumber": 242,
-        "Title": "Ring",
-        "Year": "1998",
-        "ID": "50155"
-    },
-    {
-        "ListNumber": 243,
-        "Title": "The Brood",
-        "Year": "1979",
-        "ID": "33256"
-    },
-    {
-        "ListNumber": 244,
-        "Title": "The Picture of Dorian Gray",
-        "Year": "1945",
-        "ID": "41498"
-    },
-    {
-        "ListNumber": 245,
-        "Title": "Village of the Damned",
-        "Year": "1960",
-        "ID": "45022"
-    },
-    {
-        "ListNumber": 246,
-        "Title": "The Descent",
-        "Year": "2005",
-        "ID": "47204"
-    },
-    {
-        "ListNumber": 247,
-        "Title": "Viy",
-        "Year": "1967",
-        "ID": "8922"
-    },
-    {
-        "ListNumber": 248,
-        "Title": "The Body Snatcher",
-        "Year": "1945",
-        "ID": "32107"
-    },
-    {
-        "ListNumber": 249,
-        "Title": "Dracula",
-        "Year": "1958",
-        "ID": "44935"
-    },
-    {
-        "ListNumber": 250,
-        "Title": "Sisters",
-        "Year": "1972",
-        "ID": "37970"
-    }
+  {
+    "ListNumber": 1,
+    "Title": "Perfect Blue",
+    "Year": "1997",
+    "ID": "46175"
+  },
+  {
+    "ListNumber": 2,
+    "Title": "The Thing",
+    "Year": "1982",
+    "ID": "51155"
+  },
+  {
+    "ListNumber": 3,
+    "Title": "The Silence of the Lambs",
+    "Year": "1991",
+    "ID": "51782"
+  },
+  {
+    "ListNumber": 4,
+    "Title": "Psycho",
+    "Year": "1960",
+    "ID": "51578"
+  },
+  {
+    "ListNumber": 5,
+    "Title": "Alien",
+    "Year": "1979",
+    "ID": "51714"
+  },
+  {
+    "ListNumber": 6,
+    "Title": "The Cremator",
+    "Year": "1969",
+    "ID": "40415"
+  },
+  {
+    "ListNumber": 7,
+    "Title": "Cure",
+    "Year": "1997",
+    "ID": "28195"
+  },
+  {
+    "ListNumber": 8,
+    "Title": "The Shining",
+    "Year": "1980",
+    "ID": "51432"
+  },
+  {
+    "ListNumber": 9,
+    "Title": "Kwaidan",
+    "Year": "1964",
+    "ID": "31595"
+  },
+  {
+    "ListNumber": 10,
+    "Title": "Twin Peaks: Fire Walk with Me",
+    "Year": "1992",
+    "ID": "50682"
+  },
+  {
+    "ListNumber": 11,
+    "Title": "Rosemary's Baby",
+    "Year": "1968",
+    "ID": "51347"
+  },
+  {
+    "ListNumber": 12,
+    "Title": "Demons",
+    "Year": "1971",
+    "ID": "84683"
+  },
+  {
+    "ListNumber": 13,
+    "Title": "Diabolique",
+    "Year": "1955",
+    "ID": "51325"
+  },
+  {
+    "ListNumber": 14,
+    "Title": "Coraline",
+    "Year": "2009",
+    "ID": "42779"
+  },
+  {
+    "ListNumber": 15,
+    "Title": "What Ever Happened to Baby Jane?",
+    "Year": "1962",
+    "ID": "46411"
+  },
+  {
+    "ListNumber": 16,
+    "Title": "Get Out",
+    "Year": "2017",
+    "ID": "353117"
+  },
+  {
+    "ListNumber": 17,
+    "Title": "Black Swan",
+    "Year": "2010",
+    "ID": "20956"
+  },
+  {
+    "ListNumber": 18,
+    "Title": "Seconds",
+    "Year": "1966",
+    "ID": "38894"
+  },
+  {
+    "ListNumber": 19,
+    "Title": "Aliens",
+    "Year": "1986",
+    "ID": "51445"
+  },
+  {
+    "ListNumber": 20,
+    "Title": "What We Do in the Shadows",
+    "Year": "2014",
+    "ID": "172537"
+  },
+  {
+    "ListNumber": 21,
+    "Title": "The Innocents",
+    "Year": "1961",
+    "ID": "41608"
+  },
+  {
+    "ListNumber": 22,
+    "Title": "The Wolf House",
+    "Year": "2018",
+    "ID": "429571"
+  },
+  {
+    "ListNumber": 23,
+    "Title": "Faust",
+    "Year": "1926",
+    "ID": "45950"
+  },
+  {
+    "ListNumber": 24,
+    "Title": "Phantom of the Paradise",
+    "Year": "1974",
+    "ID": "34615"
+  },
+  {
+    "ListNumber": 25,
+    "Title": "Onibaba",
+    "Year": "1964",
+    "ID": "49601"
+  },
+  {
+    "ListNumber": 26,
+    "Title": "The Phantom Carriage",
+    "Year": "1921",
+    "ID": "8100"
+  },
+  {
+    "ListNumber": 27,
+    "Title": "Godzilla Minus One",
+    "Year": "2023",
+    "ID": "845706"
+  },
+  {
+    "ListNumber": 28,
+    "Title": "Possession",
+    "Year": "1981",
+    "ID": "38374"
+  },
+  {
+    "ListNumber": 29,
+    "Title": "Vampire Hunter D: Bloodlust",
+    "Year": "2000",
+    "ID": "41920"
+  },
+  {
+    "ListNumber": 30,
+    "Title": "The Cabinet of Dr. Caligari",
+    "Year": "1920",
+    "ID": "51822"
+  },
+  {
+    "ListNumber": 31,
+    "Title": "One Cut of the Dead",
+    "Year": "2017",
+    "ID": "443086"
+  },
+  {
+    "ListNumber": 32,
+    "Title": "Let the Right One In",
+    "Year": "2008",
+    "ID": "43989"
+  },
+  {
+    "ListNumber": 33,
+    "Title": "Godzilla",
+    "Year": "1954",
+    "ID": "50866"
+  },
+  {
+    "ListNumber": 34,
+    "Title": "The Sixth Sense",
+    "Year": "1999",
+    "ID": "51407"
+  },
+  {
+    "ListNumber": 35,
+    "Title": "Kuroneko",
+    "Year": "1968",
+    "ID": "24742"
+  },
+  {
+    "ListNumber": 36,
+    "Title": "I Saw the Devil",
+    "Year": "2010",
+    "ID": "15827"
+  },
+  {
+    "ListNumber": 37,
+    "Title": "The Lighthouse",
+    "Year": "2019",
+    "ID": "433863"
+  },
+  {
+    "ListNumber": 38,
+    "Title": "Scream",
+    "Year": "1996",
+    "ID": "49455"
+  },
+  {
+    "ListNumber": 39,
+    "Title": "Peeping Tom",
+    "Year": "1960",
+    "ID": "45541"
+  },
+  {
+    "ListNumber": 40,
+    "Title": "The Rocky Horror Picture Show",
+    "Year": "1975",
+    "ID": "27698"
+  },
+  {
+    "ListNumber": 41,
+    "Title": "Evil Dead II",
+    "Year": "1987",
+    "ID": "51387"
+  },
+  {
+    "ListNumber": 42,
+    "Title": "Santa Sangre",
+    "Year": "1989",
+    "ID": "39765"
+  },
+  {
+    "ListNumber": 43,
+    "Title": "Häxan",
+    "Year": "1922",
+    "ID": "8871"
+  },
+  {
+    "ListNumber": 44,
+    "Title": "House",
+    "Year": "1977",
+    "ID": "35925"
+  },
+  {
+    "ListNumber": 45,
+    "Title": "Hour of the Wolf",
+    "Year": "1968",
+    "ID": "40422"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "The Fly",
+    "Year": "1986",
+    "ID": "47171"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "The Wailing",
+    "Year": "2016",
+    "ID": "220556"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "The Exorcist",
+    "Year": "1973",
+    "ID": "47048"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "Misery",
+    "Year": "1990",
+    "ID": "50846"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "Bride of Frankenstein",
+    "Year": "1935",
+    "ID": "51827"
+  },
+  {
+    "ListNumber": 51,
+    "Title": "Shaun of the Dead",
+    "Year": "2004",
+    "ID": "51405"
+  },
+  {
+    "ListNumber": 52,
+    "Title": "Dawn of the Dead",
+    "Year": "1978",
+    "ID": "51230"
+  },
+  {
+    "ListNumber": 53,
+    "Title": "The Wicker Man",
+    "Year": "1973",
+    "ID": "41662"
+  },
+  {
+    "ListNumber": 54,
+    "Title": "Hereditary",
+    "Year": "2018",
+    "ID": "424348"
+  },
+  {
+    "ListNumber": 55,
+    "Title": "Train to Busan",
+    "Year": "2016",
+    "ID": "330912"
+  },
+  {
+    "ListNumber": 56,
+    "Title": "Night of the Living Dead",
+    "Year": "1968",
+    "ID": "46330"
+  },
+  {
+    "ListNumber": 57,
+    "Title": "Jaws",
+    "Year": "1975",
+    "ID": "51542"
+  },
+  {
+    "ListNumber": 58,
+    "Title": "Manichitrathazhu",
+    "Year": "1993",
+    "ID": "70818"
+  },
+  {
+    "ListNumber": 59,
+    "Title": "Mother Joan of the Angels",
+    "Year": "1961",
+    "ID": "90480"
+  },
+  {
+    "ListNumber": 60,
+    "Title": "Invasion of the Body Snatchers",
+    "Year": "1978",
+    "ID": "44952"
+  },
+  {
+    "ListNumber": 61,
+    "Title": "Funny Games",
+    "Year": "1997",
+    "ID": "46418"
+  },
+  {
+    "ListNumber": 62,
+    "Title": "Braindead",
+    "Year": "1992",
+    "ID": "51389"
+  },
+  {
+    "ListNumber": 63,
+    "Title": "Suspiria",
+    "Year": "1977",
+    "ID": "44900"
+  },
+  {
+    "ListNumber": 64,
+    "Title": "Freaks",
+    "Year": "1932",
+    "ID": "51915"
+  },
+  {
+    "ListNumber": 65,
+    "Title": "Eyes Without a Face",
+    "Year": "1960",
+    "ID": "31194"
+  },
+  {
+    "ListNumber": 66,
+    "Title": "Beauty and the Beast",
+    "Year": "1978",
+    "ID": "59102"
+  },
+  {
+    "ListNumber": 67,
+    "Title": "Repulsion",
+    "Year": "1965",
+    "ID": "45263"
+  },
+  {
+    "ListNumber": 68,
+    "Title": "Deep Red",
+    "Year": "1975",
+    "ID": "39219"
+  },
+  {
+    "ListNumber": 69,
+    "Title": "The Substance",
+    "Year": "2024",
+    "ID": "838140"
+  },
+  {
+    "ListNumber": 70,
+    "Title": "The Skeleton of Mrs. Morales",
+    "Year": "1960",
+    "ID": "93485"
+  },
+  {
+    "ListNumber": 71,
+    "Title": "Wait Until Dark",
+    "Year": "1967",
+    "ID": "45503"
+  },
+  {
+    "ListNumber": 72,
+    "Title": "Humanist Vampire Seeking Consenting Suicidal Person",
+    "Year": "2023",
+    "ID": "890105"
+  },
+  {
+    "ListNumber": 73,
+    "Title": "Witchhammer",
+    "Year": "1970",
+    "ID": "3972"
+  },
+  {
+    "ListNumber": 74,
+    "Title": "The Man Who Laughs",
+    "Year": "1928",
+    "ID": "34449"
+  },
+  {
+    "ListNumber": 75,
+    "Title": "Videodrome",
+    "Year": "1983",
+    "ID": "51315"
+  },
+  {
+    "ListNumber": 76,
+    "Title": "Nosferatu",
+    "Year": "1922",
+    "ID": "51471"
+  },
+  {
+    "ListNumber": 77,
+    "Title": "Angel Dust",
+    "Year": "1994",
+    "ID": "29389"
+  },
+  {
+    "ListNumber": 78,
+    "Title": "Tetsuo: The Iron Man",
+    "Year": "1989",
+    "ID": "23602"
+  },
+  {
+    "ListNumber": 79,
+    "Title": "The Invisible Man",
+    "Year": "1933",
+    "ID": "45897"
+  },
+  {
+    "ListNumber": 80,
+    "Title": "Shin Godzilla",
+    "Year": "2016",
+    "ID": "241920"
+  },
+  {
+    "ListNumber": 81,
+    "Title": "The Tenant",
+    "Year": "1976",
+    "ID": "45262"
+  },
+  {
+    "ListNumber": 82,
+    "Title": "Manhunter",
+    "Year": "1986",
+    "ID": "45288"
+  },
+  {
+    "ListNumber": 83,
+    "Title": "Eraserhead",
+    "Year": "1977",
+    "ID": "51184"
+  },
+  {
+    "ListNumber": 84,
+    "Title": "The Devil",
+    "Year": "1972",
+    "ID": "78750"
+  },
+  {
+    "ListNumber": 85,
+    "Title": "King Kong",
+    "Year": "1933",
+    "ID": "51812"
+  },
+  {
+    "ListNumber": 86,
+    "Title": "Nosferatu the Vampyre",
+    "Year": "1979",
+    "ID": "48329"
+  },
+  {
+    "ListNumber": 87,
+    "Title": "Little Shop of Horrors",
+    "Year": "1986",
+    "ID": "45907"
+  },
+  {
+    "ListNumber": 88,
+    "Title": "Carrie",
+    "Year": "1976",
+    "ID": "48049"
+  },
+  {
+    "ListNumber": 89,
+    "Title": "Inland Empire",
+    "Year": "2006",
+    "ID": "50822"
+  },
+  {
+    "ListNumber": 90,
+    "Title": "Thesis",
+    "Year": "1996",
+    "ID": "47293"
+  },
+  {
+    "ListNumber": 91,
+    "Title": "The Incredible Shrinking Man",
+    "Year": "1957",
+    "ID": "30962"
+  },
+  {
+    "ListNumber": 92,
+    "Title": "Dead Ringers",
+    "Year": "1988",
+    "ID": "47060"
+  },
+  {
+    "ListNumber": 93,
+    "Title": "The Third Part of the Night",
+    "Year": "1971",
+    "ID": "18566"
+  },
+  {
+    "ListNumber": 94,
+    "Title": "American Psycho",
+    "Year": "2000",
+    "ID": "51097"
+  },
+  {
+    "ListNumber": 95,
+    "Title": "An American Werewolf in London",
+    "Year": "1981",
+    "ID": "51338"
+  },
+  {
+    "ListNumber": 96,
+    "Title": "Kotoko",
+    "Year": "2011",
+    "ID": "71517"
+  },
+  {
+    "ListNumber": 97,
+    "Title": "The Skin I Live In",
+    "Year": "2011",
+    "ID": "3519"
+  },
+  {
+    "ListNumber": 98,
+    "Title": "Helter Skelter",
+    "Year": "2012",
+    "ID": "84642"
+  },
+  {
+    "ListNumber": 99,
+    "Title": "Jacob's Ladder",
+    "Year": "1990",
+    "ID": "50358"
+  },
+  {
+    "ListNumber": 100,
+    "Title": "The Texas Chain Saw Massacre",
+    "Year": "1974",
+    "ID": "31985"
+  },
+  {
+    "ListNumber": 101,
+    "Title": "Scooby-Doo on Zombie Island",
+    "Year": "1998",
+    "ID": "44096"
+  },
+  {
+    "ListNumber": 102,
+    "Title": "The Witch",
+    "Year": "2015",
+    "ID": "237177"
+  },
+  {
+    "ListNumber": 103,
+    "Title": "Black Christmas",
+    "Year": "1974",
+    "ID": "41305"
+  },
+  {
+    "ListNumber": 104,
+    "Title": "A Page of Madness",
+    "Year": "1926",
+    "ID": "78433"
+  },
+  {
+    "ListNumber": 105,
+    "Title": "The Devil's Backbone",
+    "Year": "2001",
+    "ID": "51034"
+  },
+  {
+    "ListNumber": 106,
+    "Title": "Invasion of the Body Snatchers",
+    "Year": "1956",
+    "ID": "45199"
+  },
+  {
+    "ListNumber": 107,
+    "Title": "Morgiana",
+    "Year": "1972",
+    "ID": "12747"
+  },
+  {
+    "ListNumber": 108,
+    "Title": "Frankenstein",
+    "Year": "1931",
+    "ID": "49930"
+  },
+  {
+    "ListNumber": 109,
+    "Title": "The Unknown",
+    "Year": "1927",
+    "ID": "34463"
+  },
+  {
+    "ListNumber": 110,
+    "Title": "Audition",
+    "Year": "1999",
+    "ID": "45628"
+  },
+  {
+    "ListNumber": 111,
+    "Title": "Gamera 3: Revenge of Iris",
+    "Year": "1999",
+    "ID": "6421"
+  },
+  {
+    "ListNumber": 112,
+    "Title": "November",
+    "Year": "2017",
+    "ID": "370364"
+  },
+  {
+    "ListNumber": 113,
+    "Title": "The Happiness of the Katakuris",
+    "Year": "2001",
+    "ID": "41763"
+  },
+  {
+    "ListNumber": 114,
+    "Title": "The Return of the Living Dead",
+    "Year": "1985",
+    "ID": "45768"
+  },
+  {
+    "ListNumber": 115,
+    "Title": "Vampyr",
+    "Year": "1932",
+    "ID": "51373"
+  },
+  {
+    "ListNumber": 116,
+    "Title": "Rapture",
+    "Year": "1979",
+    "ID": "49297"
+  },
+  {
+    "ListNumber": 117,
+    "Title": "Don't Look Now",
+    "Year": "1973",
+    "ID": "51222"
+  },
+  {
+    "ListNumber": 118,
+    "Title": "In the Mouth of Madness",
+    "Year": "1994",
+    "ID": "50166"
+  },
+  {
+    "ListNumber": 119,
+    "Title": "Bramayugam",
+    "Year": "2024",
+    "ID": "1054150"
+  },
+  {
+    "ListNumber": 120,
+    "Title": "Halloween",
+    "Year": "1978",
+    "ID": "60298"
+  },
+  {
+    "ListNumber": 121,
+    "Title": "Godzilla vs. Destoroyah",
+    "Year": "1995",
+    "ID": "44476"
+  },
+  {
+    "ListNumber": 122,
+    "Title": "Night of the Demon",
+    "Year": "1957",
+    "ID": "36286"
+  },
+  {
+    "ListNumber": 123,
+    "Title": "Mad God",
+    "Year": "2021",
+    "ID": "761046"
+  },
+  {
+    "ListNumber": 124,
+    "Title": "Thirst",
+    "Year": "2009",
+    "ID": "37835"
+  },
+  {
+    "ListNumber": 125,
+    "Title": "The Haunting",
+    "Year": "1963",
+    "ID": "45023"
+  },
+  {
+    "ListNumber": 126,
+    "Title": "The Boxer's Omen",
+    "Year": "1983",
+    "ID": "16350"
+  },
+  {
+    "ListNumber": 127,
+    "Title": "Taste of Fear",
+    "Year": "1961",
+    "ID": "391"
+  },
+  {
+    "ListNumber": 128,
+    "Title": "Climax",
+    "Year": "2018",
+    "ID": "436873"
+  },
+  {
+    "ListNumber": 129,
+    "Title": "Midsommar",
+    "Year": "2019",
+    "ID": "459564"
+  },
+  {
+    "ListNumber": 130,
+    "Title": "The Hunchback of Notre Dame",
+    "Year": "1939",
+    "ID": "30959"
+  },
+  {
+    "ListNumber": 131,
+    "Title": "A Girl Walks Home Alone at Night",
+    "Year": "2014",
+    "ID": "176053"
+  },
+  {
+    "ListNumber": 132,
+    "Title": "Carnival of Souls",
+    "Year": "1962",
+    "ID": "41838"
+  },
+  {
+    "ListNumber": 133,
+    "Title": "Day of the Dead",
+    "Year": "1985",
+    "ID": "47751"
+  },
+  {
+    "ListNumber": 134,
+    "Title": "28 Days Later",
+    "Year": "2002",
+    "ID": "51881"
+  },
+  {
+    "ListNumber": 135,
+    "Title": "The Host",
+    "Year": "2006",
+    "ID": "51125"
+  },
+  {
+    "ListNumber": 136,
+    "Title": "Re-Animator",
+    "Year": "1985",
+    "ID": "50851"
+  },
+  {
+    "ListNumber": 137,
+    "Title": "Dr. Jekyll and Mr. Hyde",
+    "Year": "1931",
+    "ID": "49946"
+  },
+  {
+    "ListNumber": 138,
+    "Title": "Little Otik",
+    "Year": "2000",
+    "ID": "39982"
+  },
+  {
+    "ListNumber": 139,
+    "Title": "The Others",
+    "Year": "2001",
+    "ID": "50675"
+  },
+  {
+    "ListNumber": 140,
+    "Title": "The Birds",
+    "Year": "1963",
+    "ID": "51549"
+  },
+  {
+    "ListNumber": 141,
+    "Title": "Dead of Night",
+    "Year": "1945",
+    "ID": "43764"
+  },
+  {
+    "ListNumber": 142,
+    "Title": "Guilty of Romance",
+    "Year": "2011",
+    "ID": "67114"
+  },
+  {
+    "ListNumber": 143,
+    "Title": "Tenebre",
+    "Year": "1982",
+    "ID": "32623"
+  },
+  {
+    "ListNumber": 144,
+    "Title": "Angst",
+    "Year": "1983",
+    "ID": "40003"
+  },
+  {
+    "ListNumber": 145,
+    "Title": "Images",
+    "Year": "1972",
+    "ID": "32853"
+  },
+  {
+    "ListNumber": 146,
+    "Title": "Suspiria",
+    "Year": "2018",
+    "ID": "293066"
+  },
+  {
+    "ListNumber": 147,
+    "Title": "Martin",
+    "Year": "1977",
+    "ID": "35260"
+  },
+  {
+    "ListNumber": 148,
+    "Title": "The Fall of the House of Usher",
+    "Year": "1928",
+    "ID": "33842"
+  },
+  {
+    "ListNumber": 149,
+    "Title": "Blood and Black Lace",
+    "Year": "1964",
+    "ID": "33965"
+  },
+  {
+    "ListNumber": 150,
+    "Title": "Who Can Kill a Child?",
+    "Year": "1976",
+    "ID": "21406"
+  },
+  {
+    "ListNumber": 151,
+    "Title": "Clearcut",
+    "Year": "1991",
+    "ID": "92419"
+  },
+  {
+    "ListNumber": 152,
+    "Title": "Retribution",
+    "Year": "2006",
+    "ID": "19146"
+  },
+  {
+    "ListNumber": 153,
+    "Title": "Pearl",
+    "Year": "2022",
+    "ID": "853822"
+  },
+  {
+    "ListNumber": 154,
+    "Title": "A Nightmare on Elm Street",
+    "Year": "1984",
+    "ID": "51708"
+  },
+  {
+    "ListNumber": 155,
+    "Title": "The Phantom of the Opera",
+    "Year": "1925",
+    "ID": "51199"
+  },
+  {
+    "ListNumber": 156,
+    "Title": "The Seventh Curse",
+    "Year": "1986",
+    "ID": "24971"
+  },
+  {
+    "ListNumber": 157,
+    "Title": "Cemetery Man",
+    "Year": "1994",
+    "ID": "38309"
+  },
+  {
+    "ListNumber": 158,
+    "Title": "The Stepford Wives",
+    "Year": "1975",
+    "ID": "44686"
+  },
+  {
+    "ListNumber": 159,
+    "Title": "Cold Fish",
+    "Year": "2010",
+    "ID": "52872"
+  },
+  {
+    "ListNumber": 160,
+    "Title": "Army of Darkness",
+    "Year": "1992",
+    "ID": "51386"
+  },
+  {
+    "ListNumber": 161,
+    "Title": "This Night I'll Possess Your Corpse",
+    "Year": "1967",
+    "ID": "31639"
+  },
+  {
+    "ListNumber": 162,
+    "Title": "Dante's Inferno",
+    "Year": "1911",
+    "ID": "58948"
+  },
+  {
+    "ListNumber": 163,
+    "Title": "Nope",
+    "Year": "2022",
+    "ID": "682547"
+  },
+  {
+    "ListNumber": 164,
+    "Title": "Blind Beast",
+    "Year": "1969",
+    "ID": "34534"
+  },
+  {
+    "ListNumber": 165,
+    "Title": "A Tale of Two Sisters",
+    "Year": "2003",
+    "ID": "49255"
+  },
+  {
+    "ListNumber": 166,
+    "Title": "Hush... Hush, Sweet Charlotte",
+    "Year": "1964",
+    "ID": "46359"
+  },
+  {
+    "ListNumber": 167,
+    "Title": "Gamera 2: Attack of Legion",
+    "Year": "1996",
+    "ID": "6909"
+  },
+  {
+    "ListNumber": 168,
+    "Title": "The Bird with the Crystal Plumage",
+    "Year": "1970",
+    "ID": "39072"
+  },
+  {
+    "ListNumber": 169,
+    "Title": "Elvira: Mistress of the Dark",
+    "Year": "1988",
+    "ID": "48730"
+  },
+  {
+    "ListNumber": 170,
+    "Title": "Bram Stoker's Dracula",
+    "Year": "1992",
+    "ID": "48454"
+  },
+  {
+    "ListNumber": 171,
+    "Title": "Raw",
+    "Year": "2016",
+    "ID": "327974"
+  },
+  {
+    "ListNumber": 172,
+    "Title": "Chime",
+    "Year": "2024",
+    "ID": "1103563"
+  },
+  {
+    "ListNumber": 173,
+    "Title": "White Dog",
+    "Year": "1982",
+    "ID": "17479"
+  },
+  {
+    "ListNumber": 174,
+    "Title": "Death Becomes Her",
+    "Year": "1992",
+    "ID": "47221"
+  },
+  {
+    "ListNumber": 175,
+    "Title": "[REC]",
+    "Year": "2007",
+    "ID": "47803"
+  },
+  {
+    "ListNumber": 176,
+    "Title": "Frenzy",
+    "Year": "1972",
+    "ID": "51547"
+  },
+  {
+    "ListNumber": 177,
+    "Title": "I Walked with a Zombie",
+    "Year": "1943",
+    "ID": "34778"
+  },
+  {
+    "ListNumber": 178,
+    "Title": "Bones and All",
+    "Year": "2022",
+    "ID": "709299"
+  },
+  {
+    "ListNumber": 179,
+    "Title": "Pulse",
+    "Year": "2001",
+    "ID": "34618"
+  },
+  {
+    "ListNumber": 180,
+    "Title": "Island of Lost Souls",
+    "Year": "1932",
+    "ID": "49934"
+  },
+  {
+    "ListNumber": 181,
+    "Title": "The Day of the Beast",
+    "Year": "1995",
+    "ID": "45956"
+  },
+  {
+    "ListNumber": 182,
+    "Title": "The Golem: How He Came Into the World",
+    "Year": "1920",
+    "ID": "49986"
+  },
+  {
+    "ListNumber": 183,
+    "Title": "Gozu",
+    "Year": "2003",
+    "ID": "44548"
+  },
+  {
+    "ListNumber": 184,
+    "Title": "Cat People",
+    "Year": "1942",
+    "ID": "36010"
+  },
+  {
+    "ListNumber": 185,
+    "Title": "Altered States",
+    "Year": "1980",
+    "ID": "45206"
+  },
+  {
+    "ListNumber": 186,
+    "Title": "Strange Circus",
+    "Year": "2005",
+    "ID": "45843"
+  },
+  {
+    "ListNumber": 187,
+    "Title": "Poison for the Fairies",
+    "Year": "1986",
+    "ID": "33235"
+  },
+  {
+    "ListNumber": 188,
+    "Title": "Tumbbad",
+    "Year": "2018",
+    "ID": "468195"
+  },
+  {
+    "ListNumber": 189,
+    "Title": "Tucker and Dale vs. Evil",
+    "Year": "2010",
+    "ID": "18527"
+  },
+  {
+    "ListNumber": 190,
+    "Title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+    "Year": "2001",
+    "ID": "28063"
+  },
+  {
+    "ListNumber": 191,
+    "Title": "Encounters of the Spooky Kind",
+    "Year": "1980",
+    "ID": "42149"
+  },
+  {
+    "ListNumber": 192,
+    "Title": "Anguish",
+    "Year": "1987",
+    "ID": "23058"
+  },
+  {
+    "ListNumber": 193,
+    "Title": "The Evil Dead",
+    "Year": "1981",
+    "ID": "51388"
+  },
+  {
+    "ListNumber": 194,
+    "Title": "The Bad Seed",
+    "Year": "1956",
+    "ID": "22870"
+  },
+  {
+    "ListNumber": 195,
+    "Title": "Black Sunday",
+    "Year": "1960",
+    "ID": "34346"
+  },
+  {
+    "ListNumber": 196,
+    "Title": "Us",
+    "Year": "2019",
+    "ID": "390520"
+  },
+  {
+    "ListNumber": 197,
+    "Title": "Don't Torture a Duckling",
+    "Year": "1972",
+    "ID": "16239"
+  },
+  {
+    "ListNumber": 198,
+    "Title": "Bone Tomahawk",
+    "Year": "2015",
+    "ID": "222298"
+  },
+  {
+    "ListNumber": 199,
+    "Title": "Empire of Passion",
+    "Year": "1978",
+    "ID": "16485"
+  },
+  {
+    "ListNumber": 200,
+    "Title": "Green Room",
+    "Year": "2015",
+    "ID": "241052"
+  },
+  {
+    "ListNumber": 201,
+    "Title": "The Lost Boys",
+    "Year": "1987",
+    "ID": "50987"
+  },
+  {
+    "ListNumber": 202,
+    "Title": "Mr. Vampire",
+    "Year": "1985",
+    "ID": "53843"
+  },
+  {
+    "ListNumber": 203,
+    "Title": "Tales from the Hood",
+    "Year": "1995",
+    "ID": "36313"
+  },
+  {
+    "ListNumber": 204,
+    "Title": "The Abominable Dr. Phibes",
+    "Year": "1971",
+    "ID": "40661"
+  },
+  {
+    "ListNumber": 205,
+    "Title": "Opera",
+    "Year": "1987",
+    "ID": "39226"
+  },
+  {
+    "ListNumber": 206,
+    "Title": "Candyman",
+    "Year": "1992",
+    "ID": "47071"
+  },
+  {
+    "ListNumber": 207,
+    "Title": "A Quiet Place",
+    "Year": "2018",
+    "ID": "379687"
+  },
+  {
+    "ListNumber": 208,
+    "Title": "Angel Heart",
+    "Year": "1987",
+    "ID": "51489"
+  },
+  {
+    "ListNumber": 209,
+    "Title": "Bedevilled",
+    "Year": "2010",
+    "ID": "54949"
+  },
+  {
+    "ListNumber": 210,
+    "Title": "Martyrs",
+    "Year": "2008",
+    "ID": "47061"
+  },
+  {
+    "ListNumber": 211,
+    "Title": "Dressed to Kill",
+    "Year": "1980",
+    "ID": "45670"
+  },
+  {
+    "ListNumber": 212,
+    "Title": "In a Glass Cage",
+    "Year": "1986",
+    "ID": "18598"
+  },
+  {
+    "ListNumber": 213,
+    "Title": "Séance",
+    "Year": "2000",
+    "ID": "34240"
+  },
+  {
+    "ListNumber": 214,
+    "Title": "Noroi: The Curse",
+    "Year": "2005",
+    "ID": "38360"
+  },
+  {
+    "ListNumber": 215,
+    "Title": "Alien: Romulus",
+    "Year": "2024",
+    "ID": "850459"
+  },
+  {
+    "ListNumber": 216,
+    "Title": "The Orphanage",
+    "Year": "2007",
+    "ID": "51991"
+  },
+  {
+    "ListNumber": 217,
+    "Title": "Ravenous",
+    "Year": "1999",
+    "ID": "46439"
+  },
+  {
+    "ListNumber": 218,
+    "Title": "Gremlins",
+    "Year": "1984",
+    "ID": "51226"
+  },
+  {
+    "ListNumber": 219,
+    "Title": "Mad Love",
+    "Year": "1935",
+    "ID": "33785"
+  },
+  {
+    "ListNumber": 220,
+    "Title": "The Spiral Staircase",
+    "Year": "1946",
+    "ID": "34509"
+  },
+  {
+    "ListNumber": 221,
+    "Title": "Saw",
+    "Year": "2004",
+    "ID": "51875"
+  },
+  {
+    "ListNumber": 222,
+    "Title": "Black Sabbath",
+    "Year": "1963",
+    "ID": "33977"
+  },
+  {
+    "ListNumber": 223,
+    "Title": "You Won't Be Alone",
+    "Year": "2022",
+    "ID": "794063"
+  },
+  {
+    "ListNumber": 224,
+    "Title": "Jigoku",
+    "Year": "1960",
+    "ID": "15475"
+  },
+  {
+    "ListNumber": 225,
+    "Title": "Ganja & Hess",
+    "Year": "1973",
+    "ID": "69553"
+  },
+  {
+    "ListNumber": 226,
+    "Title": "Tigers Are Not Afraid",
+    "Year": "2017",
+    "ID": "279276"
+  },
+  {
+    "ListNumber": 227,
+    "Title": "Ichi the Killer",
+    "Year": "2001",
+    "ID": "46908"
+  },
+  {
+    "ListNumber": 228,
+    "Title": "The Hitcher",
+    "Year": "1986",
+    "ID": "47058"
+  },
+  {
+    "ListNumber": 229,
+    "Title": "Ginger Snaps",
+    "Year": "2000",
+    "ID": "46762"
+  },
+  {
+    "ListNumber": 230,
+    "Title": "Theatre of Blood",
+    "Year": "1973",
+    "ID": "33618"
+  },
+  {
+    "ListNumber": 231,
+    "Title": "The Blob",
+    "Year": "1988",
+    "ID": "47002"
+  },
+  {
+    "ListNumber": 232,
+    "Title": "The Hidden",
+    "Year": "1987",
+    "ID": "44559"
+  },
+  {
+    "ListNumber": 233,
+    "Title": "Under the Skin",
+    "Year": "2013",
+    "ID": "80198"
+  },
+  {
+    "ListNumber": 234,
+    "Title": "The Omen",
+    "Year": "1976",
+    "ID": "51358"
+  },
+  {
+    "ListNumber": 235,
+    "Title": "The Masque of the Red Death",
+    "Year": "1964",
+    "ID": "36140"
+  },
+  {
+    "ListNumber": 236,
+    "Title": "The House That Jack Built",
+    "Year": "2018",
+    "ID": "332432"
+  },
+  {
+    "ListNumber": 237,
+    "Title": "Phenomena",
+    "Year": "1985",
+    "ID": "33086"
+  },
+  {
+    "ListNumber": 238,
+    "Title": "Mandy",
+    "Year": "2018",
+    "ID": "392654"
+  },
+  {
+    "ListNumber": 239,
+    "Title": "The Addiction",
+    "Year": "1995",
+    "ID": "28829"
+  },
+  {
+    "ListNumber": 240,
+    "Title": "Funny Games",
+    "Year": "2007",
+    "ID": "47710"
+  },
+  {
+    "ListNumber": 241,
+    "Title": "Titane",
+    "Year": "2021",
+    "ID": "556553"
+  },
+  {
+    "ListNumber": 242,
+    "Title": "Ring",
+    "Year": "1998",
+    "ID": "50155"
+  },
+  {
+    "ListNumber": 243,
+    "Title": "The Brood",
+    "Year": "1979",
+    "ID": "33256"
+  },
+  {
+    "ListNumber": 244,
+    "Title": "The Picture of Dorian Gray",
+    "Year": "1945",
+    "ID": "41498"
+  },
+  {
+    "ListNumber": 245,
+    "Title": "Village of the Damned",
+    "Year": "1960",
+    "ID": "45022"
+  },
+  {
+    "ListNumber": 246,
+    "Title": "Viy",
+    "Year": "1967",
+    "ID": "8922"
+  },
+  {
+    "ListNumber": 247,
+    "Title": "The Descent",
+    "Year": "2005",
+    "ID": "47204"
+  },
+  {
+    "ListNumber": 248,
+    "Title": "Dracula",
+    "Year": "1958",
+    "ID": "44935"
+  },
+  {
+    "ListNumber": 249,
+    "Title": "The Body Snatcher",
+    "Year": "1945",
+    "ID": "32107"
+  },
+  {
+    "ListNumber": 250,
+    "Title": "Sisters",
+    "Year": "1972",
+    "ID": "37970"
+  }
 ]
