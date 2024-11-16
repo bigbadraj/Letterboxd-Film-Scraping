@@ -1,8 +1,8 @@
 [
   {
-    "Title": "X",
+    "Title": "Pearl",
     "Year": "2022",
-    "ID": "680358"
+    "ID": "853822"
   },
   {
     "Title": "Creep",
@@ -15,24 +15,19 @@
     "ID": "819648"
   },
   {
-    "Title": "I Saw the Devil",
-    "Year": "2010",
-    "ID": "15827"
-  },
-  {
     "Title": "Inside",
     "Year": "2007",
     "ID": "43987"
   },
   {
-    "Title": "The Lost Boys",
-    "Year": "1987",
-    "ID": "50987"
+    "Title": "I Saw the Devil",
+    "Year": "2010",
+    "ID": "15827"
   },
   {
-    "Title": "Pearl",
+    "Title": "X",
     "Year": "2022",
-    "ID": "853822"
+    "ID": "680358"
   },
   {
     "Title": "Evil Dead",
@@ -40,9 +35,9 @@
     "ID": "87962"
   },
   {
-    "Title": "A Classic Horror Story",
-    "Year": "2021",
-    "ID": "688064"
+    "Title": "The Lost Boys",
+    "Year": "1987",
+    "ID": "50987"
   },
   {
     "Title": "Us",
@@ -50,14 +45,24 @@
     "ID": "390520"
   },
   {
-    "Title": "Hell House LLC",
-    "Year": "2015",
-    "ID": "291112"
+    "Title": "A Classic Horror Story",
+    "Year": "2021",
+    "ID": "688064"
   },
   {
     "Title": "Evil Dead Rise",
     "Year": "2023",
     "ID": "636761"
+  },
+  {
+    "Title": "Longlegs",
+    "Year": "2024",
+    "ID": "1110059"
+  },
+  {
+    "Title": "Hell House LLC",
+    "Year": "2015",
+    "ID": "291112"
   },
   {
     "Title": "Terrifier 2",
@@ -75,14 +80,9 @@
     "ID": "604967"
   },
   {
-    "Title": "Longlegs",
-    "Year": "2024",
-    "ID": "1110059"
-  },
-  {
-    "Title": "A Bay of Blood",
-    "Year": "1971",
-    "ID": "48833"
+    "Title": "Climax",
+    "Year": "2018",
+    "ID": "436873"
   },
   {
     "Title": "30 Days of Night",
@@ -90,39 +90,14 @@
     "ID": "49287"
   },
   {
-    "Title": "Climax",
-    "Year": "2018",
-    "ID": "436873"
-  },
-  {
-    "Title": "The Cabinet of Dr. Caligari",
-    "Year": "1920",
-    "ID": "51822"
-  },
-  {
-    "Title": "Sick",
-    "Year": "2022",
-    "ID": "745201"
-  },
-  {
-    "Title": "Suspiria",
-    "Year": "2018",
-    "ID": "293066"
-  },
-  {
     "Title": "Brightburn",
     "Year": "2019",
     "ID": "460543"
   },
   {
-    "Title": "You're Next",
-    "Year": "2011",
-    "ID": "70325"
-  },
-  {
-    "Title": "The Innocents",
-    "Year": "1961",
-    "ID": "41608"
+    "Title": "A Bay of Blood",
+    "Year": "1971",
+    "ID": "48833"
   },
   {
     "Title": "Psycho",
@@ -130,14 +105,29 @@
     "ID": "51578"
   },
   {
-    "Title": "As Above, So Below",
-    "Year": "2014",
-    "ID": "180087"
+    "Title": "Sick",
+    "Year": "2022",
+    "ID": "745201"
   },
   {
-    "Title": "Smile",
-    "Year": "2022",
-    "ID": "793883"
+    "Title": "The Cabinet of Dr. Caligari",
+    "Year": "1920",
+    "ID": "51822"
+  },
+  {
+    "Title": "You're Next",
+    "Year": "2011",
+    "ID": "70325"
+  },
+  {
+    "Title": "Suspiria",
+    "Year": "2018",
+    "ID": "293066"
+  },
+  {
+    "Title": "The Innocents",
+    "Year": "1961",
+    "ID": "41608"
   },
   {
     "Title": "28 Weeks Later",
@@ -145,19 +135,14 @@
     "ID": "50972"
   },
   {
-    "Title": "Anna and the Apocalypse",
-    "Year": "2017",
-    "ID": "393704"
+    "Title": "Smile",
+    "Year": "2022",
+    "ID": "793883"
   },
   {
-    "Title": "The Cell",
-    "Year": "2000",
-    "ID": "47578"
-  },
-  {
-    "Title": "Shaun of the Dead",
-    "Year": "2004",
-    "ID": "51405"
+    "Title": "As Above, So Below",
+    "Year": "2014",
+    "ID": "180087"
   },
   {
     "Title": "28 Days Later",
@@ -170,14 +155,24 @@
     "ID": "34542"
   },
   {
+    "Title": "Shaun of the Dead",
+    "Year": "2004",
+    "ID": "51405"
+  },
+  {
+    "Title": "Anna and the Apocalypse",
+    "Year": "2017",
+    "ID": "393704"
+  },
+  {
+    "Title": "The Cell",
+    "Year": "2000",
+    "ID": "47578"
+  },
+  {
     "Title": "The Evil Dead",
     "Year": "1981",
     "ID": "51388"
-  },
-  {
-    "Title": "Mad God",
-    "Year": "2021",
-    "ID": "761046"
   },
   {
     "Title": "Gonjiam: Haunted Asylum",
@@ -185,9 +180,9 @@
     "ID": "438430"
   },
   {
-    "Title": "A Quiet Place",
-    "Year": "2018",
-    "ID": "379687"
+    "Title": "Mad God",
+    "Year": "2021",
+    "ID": "761046"
   },
   {
     "Title": "Deep Red",
@@ -195,14 +190,9 @@
     "ID": "39219"
   },
   {
-    "Title": "American Psycho",
-    "Year": "2000",
-    "ID": "51097"
-  },
-  {
-    "Title": "Santa Sangre",
-    "Year": "1989",
-    "ID": "39765"
+    "Title": "A Quiet Place",
+    "Year": "2018",
+    "ID": "379687"
   },
   {
     "Title": "Evil Dead II",
@@ -215,9 +205,19 @@
     "ID": "46626"
   },
   {
-    "Title": "Stay Alive",
-    "Year": "2006",
-    "ID": "46577"
+    "Title": "Malignant",
+    "Year": "2021",
+    "ID": "546348"
+  },
+  {
+    "Title": "American Psycho",
+    "Year": "2000",
+    "ID": "51097"
+  },
+  {
+    "Title": "Santa Sangre",
+    "Year": "1989",
+    "ID": "39765"
   },
   {
     "Title": "The Coffee Table",
@@ -230,14 +230,14 @@
     "ID": "48049"
   },
   {
+    "Title": "Stay Alive",
+    "Year": "2006",
+    "ID": "46577"
+  },
+  {
     "Title": "Dawn of the Dead",
     "Year": "1978",
     "ID": "51230"
-  },
-  {
-    "Title": "In the Mouth of Madness",
-    "Year": "1994",
-    "ID": "50166"
   },
   {
     "Title": "Long Time Dead",
@@ -245,19 +245,14 @@
     "ID": "34674"
   },
   {
-    "Title": "Malignant",
-    "Year": "2021",
-    "ID": "546348"
+    "Title": "In the Mouth of Madness",
+    "Year": "1994",
+    "ID": "50166"
   },
   {
     "Title": "Deadstream",
     "Year": "2022",
     "ID": "797078"
-  },
-  {
-    "Title": "Visiting Hours",
-    "Year": "1982",
-    "ID": "18481"
   },
   {
     "Title": "Q",
@@ -275,6 +270,11 @@
     "ID": "50162"
   },
   {
+    "Title": "Visiting Hours",
+    "Year": "1982",
+    "ID": "18481"
+  },
+  {
     "Title": "The Haunting in Connecticut",
     "Year": "2009",
     "ID": "40104"
@@ -290,9 +290,19 @@
     "ID": "45728"
   },
   {
+    "Title": "The Others",
+    "Year": "2001",
+    "ID": "50675"
+  },
+  {
     "Title": "Late Night with the Devil",
     "Year": "2023",
     "ID": "843415"
+  },
+  {
+    "Title": "Vacancy",
+    "Year": "2007",
+    "ID": "46363"
   },
   {
     "Title": "Feast",
@@ -305,19 +315,9 @@
     "ID": "37105"
   },
   {
-    "Title": "Vacancy",
-    "Year": "2007",
-    "ID": "46363"
-  },
-  {
     "Title": "Gerald's Game",
     "Year": "2017",
     "ID": "273979"
-  },
-  {
-    "Title": "The Lair of the White Worm",
-    "Year": "1988",
-    "ID": "45387"
   },
   {
     "Title": "The Invitation",
@@ -325,14 +325,24 @@
     "ID": "234068"
   },
   {
-    "Title": "The Others",
-    "Year": "2001",
-    "ID": "50675"
+    "Title": "The Mummy",
+    "Year": "1999",
+    "ID": "51554"
   },
   {
     "Title": "Pet Sematary II",
     "Year": "1992",
     "ID": "45786"
+  },
+  {
+    "Title": "The Lair of the White Worm",
+    "Year": "1988",
+    "ID": "45387"
+  },
+  {
+    "Title": "Se7en",
+    "Year": "1995",
+    "ID": "51345"
   },
   {
     "Title": "The Cabin in the Woods",
@@ -350,14 +360,9 @@
     "ID": "363472"
   },
   {
-    "Title": "Trick 'r Treat",
-    "Year": "2007",
-    "ID": "37483"
-  },
-  {
-    "Title": "The Mummy",
-    "Year": "1999",
-    "ID": "51554"
+    "Title": "Dawn of the Dead",
+    "Year": "2004",
+    "ID": "51229"
   },
   {
     "Title": "House",
@@ -365,49 +370,14 @@
     "ID": "35925"
   },
   {
-    "Title": "Se7en",
-    "Year": "1995",
-    "ID": "51345"
-  },
-  {
-    "Title": "Super Dark Times",
-    "Year": "2017",
-    "ID": "331100"
-  },
-  {
     "Title": "Ichi the Killer",
     "Year": "2001",
     "ID": "46908"
   },
   {
-    "Title": "Dawn of the Dead",
-    "Year": "2004",
-    "ID": "51229"
-  },
-  {
-    "Title": "Audition",
-    "Year": "1999",
-    "ID": "45628"
-  },
-  {
-    "Title": "Day of the Dead",
-    "Year": "1985",
-    "ID": "47751"
-  },
-  {
-    "Title": "Let's Scare Jessica to Death",
-    "Year": "1971",
-    "ID": "41788"
-  },
-  {
-    "Title": "One Cut of the Dead",
-    "Year": "2017",
-    "ID": "443086"
-  },
-  {
-    "Title": "Godzilla",
-    "Year": "1954",
-    "ID": "50866"
+    "Title": "Trick 'r Treat",
+    "Year": "2007",
+    "ID": "37483"
   },
   {
     "Title": "Child's Play",
@@ -415,9 +385,44 @@
     "ID": "46087"
   },
   {
+    "Title": "Day of the Dead",
+    "Year": "1985",
+    "ID": "47751"
+  },
+  {
+    "Title": "One Cut of the Dead",
+    "Year": "2017",
+    "ID": "443086"
+  },
+  {
+    "Title": "Audition",
+    "Year": "1999",
+    "ID": "45628"
+  },
+  {
+    "Title": "Super Dark Times",
+    "Year": "2017",
+    "ID": "331100"
+  },
+  {
+    "Title": "Let's Scare Jessica to Death",
+    "Year": "1971",
+    "ID": "41788"
+  },
+  {
     "Title": "Halloween III: Season of the Witch",
     "Year": "1982",
     "ID": "45999"
+  },
+  {
+    "Title": "Wrong Turn",
+    "Year": "2003",
+    "ID": "46732"
+  },
+  {
+    "Title": "Godzilla",
+    "Year": "1954",
+    "ID": "50866"
   },
   {
     "Title": "Absentia",
@@ -430,9 +435,9 @@
     "ID": "51714"
   },
   {
-    "Title": "The Return of the Living Dead",
-    "Year": "1985",
-    "ID": "45768"
+    "Title": "The Collector",
+    "Year": "2009",
+    "ID": "38428"
   },
   {
     "Title": "No One Will Save You",
@@ -440,14 +445,9 @@
     "ID": "736821"
   },
   {
-    "Title": "The Collector",
-    "Year": "2009",
-    "ID": "38428"
-  },
-  {
-    "Title": "Wrong Turn",
-    "Year": "2003",
-    "ID": "46732"
+    "Title": "[REC]",
+    "Year": "2007",
+    "ID": "47803"
   },
   {
     "Title": "Black Sunday",
@@ -455,9 +455,24 @@
     "ID": "34346"
   },
   {
-    "Title": "[REC]",
-    "Year": "2007",
-    "ID": "47803"
+    "Title": "The Fly",
+    "Year": "1986",
+    "ID": "47171"
+  },
+  {
+    "Title": "The Return of the Living Dead",
+    "Year": "1985",
+    "ID": "45768"
+  },
+  {
+    "Title": "The Green Inferno",
+    "Year": "2013",
+    "ID": "125947"
+  },
+  {
+    "Title": "Saw",
+    "Year": "2004",
+    "ID": "51875"
   },
   {
     "Title": "Rabid",
@@ -475,24 +490,9 @@
     "ID": "341439"
   },
   {
-    "Title": "The Green Inferno",
-    "Year": "2013",
-    "ID": "125947"
-  },
-  {
-    "Title": "The Fly",
-    "Year": "1986",
-    "ID": "47171"
-  },
-  {
     "Title": "Vampires vs. the Bronx",
     "Year": "2020",
     "ID": "496321"
-  },
-  {
-    "Title": "Saw",
-    "Year": "2004",
-    "ID": "51875"
   },
   {
     "Title": "Creepshow",
@@ -505,9 +505,9 @@
     "ID": "50851"
   },
   {
-    "Title": "The Changeling",
-    "Year": "1980",
-    "ID": "43794"
+    "Title": "Mimic",
+    "Year": "1997",
+    "ID": "49038"
   },
   {
     "Title": "Grave Encounters",
@@ -515,14 +515,19 @@
     "ID": "15002"
   },
   {
+    "Title": "The Changeling",
+    "Year": "1980",
+    "ID": "43794"
+  },
+  {
     "Title": "The Amityville Horror",
     "Year": "2005",
     "ID": "46581"
   },
   {
-    "Title": "Mimic",
-    "Year": "1997",
-    "ID": "49038"
+    "Title": "It Follows",
+    "Year": "2014",
+    "ID": "193554"
   },
   {
     "Title": "mother!",
@@ -535,29 +540,9 @@
     "ID": "96768"
   },
   {
-    "Title": "Pet Sematary",
-    "Year": "1989",
-    "ID": "47514"
-  },
-  {
-    "Title": "It Follows",
-    "Year": "2014",
-    "ID": "193554"
-  },
-  {
     "Title": "Idle Hands",
     "Year": "1999",
     "ID": "48259"
-  },
-  {
-    "Title": "The Medium",
-    "Year": "2021",
-    "ID": "667469"
-  },
-  {
-    "Title": "The Wolf Man",
-    "Year": "1941",
-    "ID": "43698"
   },
   {
     "Title": "Rosemary's Baby",
@@ -565,29 +550,19 @@
     "ID": "51347"
   },
   {
-    "Title": "Thir13en Ghosts",
-    "Year": "2001",
-    "ID": "47218"
-  },
-  {
-    "Title": "Lake Mungo",
-    "Year": "2008",
-    "ID": "34576"
-  },
-  {
     "Title": "When Evil Lurks",
     "Year": "2023",
     "ID": "666396"
   },
   {
-    "Title": "Green Room",
-    "Year": "2015",
-    "ID": "241052"
+    "Title": "Thir13en Ghosts",
+    "Year": "2001",
+    "ID": "47218"
   },
   {
-    "Title": "Ginger Snaps",
-    "Year": "2000",
-    "ID": "46762"
+    "Title": "Pet Sematary",
+    "Year": "1989",
+    "ID": "47514"
   },
   {
     "Title": "Shutter Island",
@@ -595,24 +570,19 @@
     "ID": "45409"
   },
   {
-    "Title": "House of Wax",
-    "Year": "2005",
-    "ID": "46580"
+    "Title": "The Wolf Man",
+    "Year": "1941",
+    "ID": "43698"
   },
   {
-    "Title": "The Evil Next Door",
-    "Year": "2020",
-    "ID": "673526"
+    "Title": "The Medium",
+    "Year": "2021",
+    "ID": "667469"
   },
   {
-    "Title": "I Spit on Your Grave",
-    "Year": "1978",
-    "ID": "36190"
-  },
-  {
-    "Title": "The Void",
-    "Year": "2016",
-    "ID": "313310"
+    "Title": "Green Room",
+    "Year": "2015",
+    "ID": "241052"
   },
   {
     "Title": "Nosferatu",
@@ -620,9 +590,34 @@
     "ID": "51471"
   },
   {
-    "Title": "Midsommar",
-    "Year": "2019",
-    "ID": "459564"
+    "Title": "Lake Mungo",
+    "Year": "2008",
+    "ID": "34576"
+  },
+  {
+    "Title": "Ginger Snaps",
+    "Year": "2000",
+    "ID": "46762"
+  },
+  {
+    "Title": "I Spit on Your Grave",
+    "Year": "1978",
+    "ID": "36190"
+  },
+  {
+    "Title": "The Evil Next Door",
+    "Year": "2020",
+    "ID": "673526"
+  },
+  {
+    "Title": "House of Wax",
+    "Year": "2005",
+    "ID": "46580"
+  },
+  {
+    "Title": "The Void",
+    "Year": "2016",
+    "ID": "313310"
   },
   {
     "Title": "The Platform",
@@ -635,19 +630,9 @@
     "ID": "597052"
   },
   {
-    "Title": "A Tale of Two Sisters",
-    "Year": "2003",
-    "ID": "49255"
-  },
-  {
     "Title": "Raw",
     "Year": "2016",
     "ID": "327974"
-  },
-  {
-    "Title": "Braindead",
-    "Year": "1992",
-    "ID": "51389"
   },
   {
     "Title": "The Exorcism of Emily Rose",
@@ -655,14 +640,34 @@
     "ID": "47670"
   },
   {
-    "Title": "Zombieland",
-    "Year": "2009",
-    "ID": "39352"
+    "Title": "Midsommar",
+    "Year": "2019",
+    "ID": "459564"
+  },
+  {
+    "Title": "Braindead",
+    "Year": "1992",
+    "ID": "51389"
+  },
+  {
+    "Title": "A Tale of Two Sisters",
+    "Year": "2003",
+    "ID": "49255"
   },
   {
     "Title": "Fall",
     "Year": "2022",
     "ID": "887621"
+  },
+  {
+    "Title": "Jaws",
+    "Year": "1975",
+    "ID": "51542"
+  },
+  {
+    "Title": "Zombieland",
+    "Year": "2009",
+    "ID": "39352"
   },
   {
     "Title": "The Babadook",
@@ -680,19 +685,14 @@
     "ID": "51432"
   },
   {
+    "Title": "Coraline",
+    "Year": "2009",
+    "ID": "42779"
+  },
+  {
     "Title": "The Thing",
     "Year": "1982",
     "ID": "51155"
-  },
-  {
-    "Title": "Jaws",
-    "Year": "1975",
-    "ID": "51542"
-  },
-  {
-    "Title": "Videodrome",
-    "Year": "1983",
-    "ID": "51315"
   },
   {
     "Title": "Psycho II",
@@ -700,9 +700,24 @@
     "ID": "46096"
   },
   {
+    "Title": "Videodrome",
+    "Year": "1983",
+    "ID": "51315"
+  },
+  {
     "Title": "Dracula",
     "Year": "1931",
     "ID": "51913"
+  },
+  {
+    "Title": "Gremlins",
+    "Year": "1984",
+    "ID": "51226"
+  },
+  {
+    "Title": "Poltergeist",
+    "Year": "1982",
+    "ID": "51512"
   },
   {
     "Title": "Lord of Illusions",
@@ -720,19 +735,9 @@
     "ID": "451482"
   },
   {
-    "Title": "Coraline",
-    "Year": "2009",
-    "ID": "42779"
-  },
-  {
     "Title": "Creep",
     "Year": "2004",
     "ID": "47688"
-  },
-  {
-    "Title": "Poltergeist",
-    "Year": "1982",
-    "ID": "51512"
   },
   {
     "Title": "Sleepaway Camp",
@@ -740,9 +745,9 @@
     "ID": "43778"
   },
   {
-    "Title": "Gremlins",
-    "Year": "1984",
-    "ID": "51226"
+    "Title": "Event Horizon",
+    "Year": "1997",
+    "ID": "47747"
   },
   {
     "Title": "Nope",
@@ -755,9 +760,9 @@
     "ID": "45391"
   },
   {
-    "Title": "Event Horizon",
-    "Year": "1997",
-    "ID": "47747"
+    "Title": "The Wailing",
+    "Year": "2016",
+    "ID": "220556"
   },
   {
     "Title": "Hellraiser",
@@ -770,19 +775,14 @@
     "ID": "47380"
   },
   {
-    "Title": "The Wailing",
-    "Year": "2016",
-    "ID": "220556"
+    "Title": "Misery",
+    "Year": "1990",
+    "ID": "50846"
   },
   {
     "Title": "Cube",
     "Year": "1997",
     "ID": "51664"
-  },
-  {
-    "Title": "Misery",
-    "Year": "1990",
-    "ID": "50846"
   },
   {
     "Title": "An American Werewolf in London",
@@ -795,9 +795,9 @@
     "ID": "37180"
   },
   {
-    "Title": "Haunt",
-    "Year": "2019",
-    "ID": "446717"
+    "Title": "Perfect Blue",
+    "Year": "1997",
+    "ID": "46175"
   },
   {
     "Title": "High Tension",
@@ -805,29 +805,19 @@
     "ID": "46425"
   },
   {
-    "Title": "Halloween",
-    "Year": "1978",
-    "ID": "60298"
-  },
-  {
-    "Title": "Perfect Blue",
-    "Year": "1997",
-    "ID": "46175"
-  },
-  {
-    "Title": "The Haunting",
-    "Year": "1963",
-    "ID": "45023"
-  },
-  {
-    "Title": "Summer of 84",
-    "Year": "2018",
-    "ID": "401687"
-  },
-  {
     "Title": "The Invisible Man",
     "Year": "2020",
     "ID": "499085"
+  },
+  {
+    "Title": "Haunt",
+    "Year": "2019",
+    "ID": "446717"
+  },
+  {
+    "Title": "Halloween",
+    "Year": "1978",
+    "ID": "60298"
   },
   {
     "Title": "A Girl Walks Home Alone at Night",
@@ -835,14 +825,24 @@
     "ID": "176053"
   },
   {
-    "Title": "Graveyard Shift",
-    "Year": "1990",
-    "ID": "39816"
+    "Title": "Summer of 84",
+    "Year": "2018",
+    "ID": "401687"
+  },
+  {
+    "Title": "The Haunting",
+    "Year": "1963",
+    "ID": "45023"
   },
   {
     "Title": "Phenomena",
     "Year": "1985",
     "ID": "33086"
+  },
+  {
+    "Title": "Graveyard Shift",
+    "Year": "1990",
+    "ID": "39816"
   },
   {
     "Title": "The Wicker Man",
@@ -855,14 +855,19 @@
     "ID": "45163"
   },
   {
+    "Title": "The Keep",
+    "Year": "1983",
+    "ID": "35507"
+  },
+  {
     "Title": "The Invisible Man",
     "Year": "1933",
     "ID": "45897"
   },
   {
-    "Title": "The Keep",
-    "Year": "1983",
-    "ID": "35507"
+    "Title": "Knife+Heart",
+    "Year": "2018",
+    "ID": "407206"
   },
   {
     "Title": "Last Night in Soho",
@@ -870,9 +875,9 @@
     "ID": "505000"
   },
   {
-    "Title": "Knife+Heart",
-    "Year": "2018",
-    "ID": "407206"
+    "Title": "Twin Peaks: Fire Walk with Me",
+    "Year": "1992",
+    "ID": "50682"
   },
   {
     "Title": "Phantom of the Paradise",
@@ -890,24 +895,19 @@
     "ID": "47002"
   },
   {
-    "Title": "Twin Peaks: Fire Walk with Me",
-    "Year": "1992",
-    "ID": "50682"
-  },
-  {
-    "Title": "Carnival of Souls",
-    "Year": "1962",
-    "ID": "41838"
-  },
-  {
-    "Title": "The Rocky Horror Picture Show",
-    "Year": "1975",
-    "ID": "27698"
+    "Title": "Jennifer's Body",
+    "Year": "2009",
+    "ID": "39305"
   },
   {
     "Title": "Trouble Every Day",
     "Year": "2001",
     "ID": "24253"
+  },
+  {
+    "Title": "Carnival of Souls",
+    "Year": "1962",
+    "ID": "41838"
   },
   {
     "Title": "May",
@@ -920,9 +920,19 @@
     "ID": "41672"
   },
   {
-    "Title": "Jennifer's Body",
-    "Year": "2009",
-    "ID": "39305"
+    "Title": "The Rocky Horror Picture Show",
+    "Year": "1975",
+    "ID": "27698"
+  },
+  {
+    "Title": "Mandy",
+    "Year": "2018",
+    "ID": "392654"
+  },
+  {
+    "Title": "The Craft",
+    "Year": "1996",
+    "ID": "47345"
   },
   {
     "Title": "Willy's Wonderland",
@@ -940,19 +950,14 @@
     "ID": "41305"
   },
   {
-    "Title": "The Craft",
-    "Year": "1996",
-    "ID": "47345"
-  },
-  {
     "Title": "The Burrowers",
     "Year": "2008",
     "ID": "42051"
   },
   {
-    "Title": "Mandy",
-    "Year": "2018",
-    "ID": "392654"
+    "Title": "Case 39",
+    "Year": "2009",
+    "ID": "33743"
   },
   {
     "Title": "Invasion of the Body Snatchers",
@@ -960,14 +965,14 @@
     "ID": "44952"
   },
   {
+    "Title": "Cure",
+    "Year": "1997",
+    "ID": "28195"
+  },
+  {
     "Title": "Noroi: The Curse",
     "Year": "2005",
     "ID": "38360"
-  },
-  {
-    "Title": "Case 39",
-    "Year": "2009",
-    "ID": "33743"
   },
   {
     "Title": "Pulse",
@@ -980,9 +985,9 @@
     "ID": "45435"
   },
   {
-    "Title": "Cure",
-    "Year": "1997",
-    "ID": "28195"
+    "Title": "Contracted",
+    "Year": "2013",
+    "ID": "146225"
   },
   {
     "Title": "Pandorum",
@@ -990,19 +995,9 @@
     "ID": "39358"
   },
   {
-    "Title": "Contracted",
-    "Year": "2013",
-    "ID": "146225"
-  },
-  {
     "Title": "The Strangers",
     "Year": "2008",
     "ID": "46010"
-  },
-  {
-    "Title": "The Frighteners",
-    "Year": "1996",
-    "ID": "45905"
   },
   {
     "Title": "The House That Jack Built",
@@ -1015,9 +1010,9 @@
     "ID": "366722"
   },
   {
-    "Title": "Watcher",
-    "Year": "2022",
-    "ID": "724289"
+    "Title": "Happy Death Day",
+    "Year": "2017",
+    "ID": "372701"
   },
   {
     "Title": "Confessions",
@@ -1025,9 +1020,14 @@
     "ID": "11866"
   },
   {
-    "Title": "Happy Death Day",
-    "Year": "2017",
-    "ID": "372701"
+    "Title": "The Frighteners",
+    "Year": "1996",
+    "ID": "45905"
+  },
+  {
+    "Title": "Watcher",
+    "Year": "2022",
+    "ID": "724289"
   },
   {
     "Title": "Hostel",
@@ -1040,39 +1040,9 @@
     "ID": "34533"
   },
   {
-    "Title": "The Human Centipede 2 (Full Sequence)",
-    "Year": "2011",
-    "ID": "60898"
-  },
-  {
     "Title": "Last Shift",
     "Year": "2014",
     "ID": "223418"
-  },
-  {
-    "Title": "Dawn Breaks Behind the Eyes",
-    "Year": "2021",
-    "ID": "457939"
-  },
-  {
-    "Title": "Silent Hill",
-    "Year": "2006",
-    "ID": "51532"
-  },
-  {
-    "Title": "The Mist",
-    "Year": "2007",
-    "ID": "48602"
-  },
-  {
-    "Title": "Sinister",
-    "Year": "2012",
-    "ID": "68956"
-  },
-  {
-    "Title": "Would You Rather",
-    "Year": "2012",
-    "ID": "79961"
   },
   {
     "Title": "The Conjuring",
@@ -1080,19 +1050,39 @@
     "ID": "106262"
   },
   {
+    "Title": "The Human Centipede 2 (Full Sequence)",
+    "Year": "2011",
+    "ID": "60898"
+  },
+  {
+    "Title": "Dawn Breaks Behind the Eyes",
+    "Year": "2021",
+    "ID": "457939"
+  },
+  {
+    "Title": "The Mist",
+    "Year": "2007",
+    "ID": "48602"
+  },
+  {
+    "Title": "The Silence of the Lambs",
+    "Year": "1991",
+    "ID": "51782"
+  },
+  {
+    "Title": "Would You Rather",
+    "Year": "2012",
+    "ID": "79961"
+  },
+  {
     "Title": "The Belko Experiment",
     "Year": "2016",
     "ID": "270472"
   },
   {
-    "Title": "Teeth",
-    "Year": "2007",
-    "ID": "44124"
-  },
-  {
-    "Title": "Elvira: Mistress of the Dark",
-    "Year": "1988",
-    "ID": "48730"
+    "Title": "Silent Hill",
+    "Year": "2006",
+    "ID": "51532"
   },
   {
     "Title": "Let the Right One In",
@@ -1100,9 +1090,24 @@
     "ID": "43989"
   },
   {
+    "Title": "Teeth",
+    "Year": "2007",
+    "ID": "44124"
+  },
+  {
+    "Title": "Sinister",
+    "Year": "2012",
+    "ID": "68956"
+  },
+  {
     "Title": "Eden Lake",
     "Year": "2008",
     "ID": "43830"
+  },
+  {
+    "Title": "Elvira: Mistress of the Dark",
+    "Year": "1988",
+    "ID": "48730"
   },
   {
     "Title": "Dead Silence",
@@ -1115,14 +1120,9 @@
     "ID": "36440"
   },
   {
-    "Title": "The Silence of the Lambs",
-    "Year": "1991",
-    "ID": "51782"
-  },
-  {
-    "Title": "A Cure for Wellness",
-    "Year": "2016",
-    "ID": "270177"
+    "Title": "Get Out",
+    "Year": "2017",
+    "ID": "353117"
   },
   {
     "Title": "The Visit",
@@ -1130,9 +1130,9 @@
     "ID": "225437"
   },
   {
-    "Title": "Terrifier",
+    "Title": "A Cure for Wellness",
     "Year": "2016",
-    "ID": "354251"
+    "ID": "270177"
   },
   {
     "Title": "The Birds",
@@ -1140,19 +1140,14 @@
     "ID": "51549"
   },
   {
+    "Title": "Terrifier",
+    "Year": "2016",
+    "ID": "354251"
+  },
+  {
     "Title": "I Am Not a Serial Killer",
     "Year": "2016",
     "ID": "316018"
-  },
-  {
-    "Title": "The Texas Chain Saw Massacre",
-    "Year": "1974",
-    "ID": "31985"
-  },
-  {
-    "Title": "Fear, Inc.",
-    "Year": "2016",
-    "ID": "326603"
   },
   {
     "Title": "V/H/S/2",
@@ -1160,14 +1155,24 @@
     "ID": "118572"
   },
   {
-    "Title": "Get Out",
-    "Year": "2017",
-    "ID": "353117"
+    "Title": "Fear, Inc.",
+    "Year": "2016",
+    "ID": "326603"
+  },
+  {
+    "Title": "The Texas Chain Saw Massacre",
+    "Year": "1974",
+    "ID": "31985"
   },
   {
     "Title": "It",
     "Year": "2017",
     "ID": "276819"
+  },
+  {
+    "Title": "Begotten",
+    "Year": "1989",
+    "ID": "51015"
   },
   {
     "Title": "It",
@@ -1178,11 +1183,6 @@
     "Title": "The Last House on the Left",
     "Year": "1972",
     "ID": "42311"
-  },
-  {
-    "Title": "Begotten",
-    "Year": "1989",
-    "ID": "51015"
   },
   {
     "Title": "Brimstone",
@@ -1210,6 +1210,11 @@
     "ID": "36247"
   },
   {
+    "Title": "Salò, or the 120 Days of Sodom",
+    "Year": "1975",
+    "ID": "48865"
+  },
+  {
     "Title": "The Cavalier's Dream",
     "Year": "1898",
     "ID": "413392"
@@ -1218,11 +1223,6 @@
     "Title": "The Skeleton Key",
     "Year": "2005",
     "ID": "46721"
-  },
-  {
-    "Title": "Skinamarink",
-    "Year": "2022",
-    "ID": "895130"
   },
   {
     "Title": "Tigers Are Not Afraid",
@@ -1235,9 +1235,9 @@
     "ID": "331539"
   },
   {
-    "Title": "Salò, or the 120 Days of Sodom",
-    "Year": "1975",
-    "ID": "48865"
+    "Title": "Skinamarink",
+    "Year": "2022",
+    "ID": "895130"
   },
   {
     "Title": "Ready or Not",
@@ -1245,9 +1245,9 @@
     "ID": "495969"
   },
   {
-    "Title": "The Black Phone",
-    "Year": "2021",
-    "ID": "677571"
+    "Title": "Saw II",
+    "Year": "2005",
+    "ID": "51841"
   },
   {
     "Title": "Ouija",
@@ -1255,14 +1255,19 @@
     "ID": "169860"
   },
   {
+    "Title": "The Black Phone",
+    "Year": "2021",
+    "ID": "677571"
+  },
+  {
     "Title": "V/H/S",
     "Year": "2012",
     "ID": "70737"
   },
   {
-    "Title": "Saw II",
-    "Year": "2005",
-    "ID": "51841"
+    "Title": "Child's Play 2",
+    "Year": "1990",
+    "ID": "45523"
   },
   {
     "Title": "Boxing Helena",
@@ -1275,14 +1280,9 @@
     "ID": "248318"
   },
   {
-    "Title": "Child's Play 2",
-    "Year": "1990",
-    "ID": "45523"
-  },
-  {
-    "Title": "Bride of Chucky",
-    "Year": "1998",
-    "ID": "44875"
+    "Title": "The Blair Witch Project",
+    "Year": "1999",
+    "ID": "50159"
   },
   {
     "Title": "Toolbox Murders",
@@ -1295,39 +1295,14 @@
     "ID": "40003"
   },
   {
-    "Title": "The Descent",
-    "Year": "2005",
-    "ID": "47204"
-  },
-  {
     "Title": "American Mary",
     "Year": "2012",
     "ID": "98772"
   },
   {
-    "Title": "Dog Soldiers",
-    "Year": "2002",
-    "ID": "44923"
-  },
-  {
-    "Title": "The Exorcist",
-    "Year": "1973",
-    "ID": "47048"
-  },
-  {
-    "Title": "The Blair Witch Project",
-    "Year": "1999",
-    "ID": "50159"
-  },
-  {
-    "Title": "Insidious",
-    "Year": "2010",
-    "ID": "16556"
-  },
-  {
-    "Title": "Night of the Living Dead",
-    "Year": "1968",
-    "ID": "46330"
+    "Title": "Bride of Chucky",
+    "Year": "1998",
+    "ID": "44875"
   },
   {
     "Title": "Final Destination",
@@ -1335,14 +1310,24 @@
     "ID": "47068"
   },
   {
-    "Title": "Fright Night",
-    "Year": "1985",
-    "ID": "45001"
+    "Title": "The Exorcist",
+    "Year": "1973",
+    "ID": "47048"
   },
   {
-    "Title": "Phantasm",
-    "Year": "1979",
-    "ID": "46963"
+    "Title": "The Descent",
+    "Year": "2005",
+    "ID": "47204"
+  },
+  {
+    "Title": "Dog Soldiers",
+    "Year": "2002",
+    "ID": "44923"
+  },
+  {
+    "Title": "Insidious",
+    "Year": "2010",
+    "ID": "16556"
   },
   {
     "Title": "Final Destination 2",
@@ -1350,19 +1335,34 @@
     "ID": "47237"
   },
   {
+    "Title": "Fright Night",
+    "Year": "1985",
+    "ID": "45001"
+  },
+  {
+    "Title": "Night of the Living Dead",
+    "Year": "1968",
+    "ID": "46330"
+  },
+  {
+    "Title": "Hereditary",
+    "Year": "2018",
+    "ID": "424348"
+  },
+  {
     "Title": "The Conjuring 2",
     "Year": "2016",
     "ID": "183255"
   },
   {
-    "Title": "Talk to Me",
-    "Year": "2022",
-    "ID": "908144"
-  },
-  {
     "Title": "The Sadness",
     "Year": "2021",
     "ID": "696032"
+  },
+  {
+    "Title": "Phantasm",
+    "Year": "1979",
+    "ID": "46963"
   },
   {
     "Title": "The Sixth Sense",
@@ -1375,9 +1375,9 @@
     "ID": "45320"
   },
   {
-    "Title": "Hereditary",
-    "Year": "2018",
-    "ID": "424348"
+    "Title": "Talk to Me",
+    "Year": "2022",
+    "ID": "908144"
   },
   {
     "Title": "Possession",
@@ -1395,9 +1395,9 @@
     "ID": "50638"
   },
   {
-    "Title": "I Saw the TV Glow",
-    "Year": "2024",
-    "ID": "772230"
+    "Title": "Funny Games",
+    "Year": "1997",
+    "ID": "46418"
   },
   {
     "Title": "Onibaba",
@@ -1405,14 +1405,9 @@
     "ID": "49601"
   },
   {
-    "Title": "Funny Games",
-    "Year": "1997",
-    "ID": "46418"
-  },
-  {
-    "Title": "My Bloody Valentine",
-    "Year": "1981",
-    "ID": "24997"
+    "Title": "I Saw the TV Glow",
+    "Year": "2024",
+    "ID": "772230"
   },
   {
     "Title": "Bride of Frankenstein",
@@ -1420,9 +1415,9 @@
     "ID": "51827"
   },
   {
-    "Title": "Friday the 13th: The Final Chapter",
-    "Year": "1984",
-    "ID": "46877"
+    "Title": "My Bloody Valentine",
+    "Year": "1981",
+    "ID": "24997"
   },
   {
     "Title": "The Empty Man",
@@ -1430,39 +1425,9 @@
     "ID": "446269"
   },
   {
-    "Title": "Martyrs",
-    "Year": "2008",
-    "ID": "47061"
-  },
-  {
-    "Title": "Caveat",
-    "Year": "2020",
-    "ID": "666201"
-  },
-  {
-    "Title": "Scream 4",
-    "Year": "2011",
-    "ID": "23586"
-  },
-  {
-    "Title": "Suspiria",
-    "Year": "1977",
-    "ID": "44900"
-  },
-  {
     "Title": "The Witch",
     "Year": "2015",
     "ID": "237177"
-  },
-  {
-    "Title": "Jacob's Ladder",
-    "Year": "1990",
-    "ID": "50358"
-  },
-  {
-    "Title": "Malum",
-    "Year": "2023",
-    "ID": "986628"
   },
   {
     "Title": "Abigail",
@@ -1470,14 +1435,44 @@
     "ID": "1001285"
   },
   {
+    "Title": "Scream 4",
+    "Year": "2011",
+    "ID": "23586"
+  },
+  {
+    "Title": "Caveat",
+    "Year": "2020",
+    "ID": "666201"
+  },
+  {
+    "Title": "Jacob's Ladder",
+    "Year": "1990",
+    "ID": "50358"
+  },
+  {
+    "Title": "Friday the 13th: The Final Chapter",
+    "Year": "1984",
+    "ID": "46877"
+  },
+  {
+    "Title": "Suspiria",
+    "Year": "1977",
+    "ID": "44900"
+  },
+  {
+    "Title": "Martyrs",
+    "Year": "2008",
+    "ID": "47061"
+  },
+  {
+    "Title": "Malum",
+    "Year": "2023",
+    "ID": "986628"
+  },
+  {
     "Title": "The Lodge",
     "Year": "2019",
     "ID": "406001"
-  },
-  {
-    "Title": "The Dead Zone",
-    "Year": "1983",
-    "ID": "45398"
   },
   {
     "Title": "The Omen",
@@ -1490,13 +1485,18 @@
     "ID": "46411"
   },
   {
-    "Title": "Happy Birthday to Me",
-    "Year": "1981",
-    "ID": "26585"
-  },
-  {
     "Title": "Friday the 13th Part 2",
     "Year": "1981",
     "ID": "46882"
+  },
+  {
+    "Title": "The Dead Zone",
+    "Year": "1983",
+    "ID": "45398"
+  },
+  {
+    "Title": "Happy Birthday to Me",
+    "Year": "1981",
+    "ID": "26585"
   }
 ]
