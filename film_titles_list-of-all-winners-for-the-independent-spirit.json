@@ -1,197 +1,197 @@
 [
-    {
-        "Title": "After Hours",
-        "Year": "1985",
-        "ID": "45842"
-    },
-    {
-        "Title": "The Grifters",
-        "Year": "1990",
-        "ID": "40564"
-    },
-    {
-        "Title": "Rambling Rose",
-        "Year": "1991",
-        "ID": "30548"
-    },
-    {
-        "Title": "Stand and Deliver",
-        "Year": "1988",
-        "ID": "33091"
-    },
-    {
-        "Title": "Platoon",
-        "Year": "1986",
-        "ID": "51360"
-    },
-    {
-        "Title": "River's Edge",
-        "Year": "1986",
-        "ID": "38486"
-    },
-    {
-        "Title": "The Player",
-        "Year": "1992",
-        "ID": "46263"
-    },
-    {
-        "Title": "sex, lies, and videotape",
-        "Year": "1989",
-        "ID": "51052"
-    },
-    {
-        "Title": "Short Cuts",
-        "Year": "1993",
-        "ID": "51431"
-    },
-    {
-        "Title": "Pulp Fiction",
-        "Year": "1994",
-        "ID": "51444"
-    },
-    {
-        "Title": "Leaving Las Vegas",
-        "Year": "1995",
-        "ID": "51650"
-    },
-    {
-        "Title": "The Apostle",
-        "Year": "1997",
-        "ID": "50028"
-    },
-    {
-        "Title": "Gods and Monsters",
-        "Year": "1998",
-        "ID": "49932"
-    },
-    {
-        "Title": "Election",
-        "Year": "1999",
-        "ID": "47146"
-    },
-    {
-        "Title": "Fargo",
-        "Year": "1996",
-        "ID": "51781"
-    },
-    {
-        "Title": "Far from Heaven",
-        "Year": "2002",
-        "ID": "45966"
-    },
-    {
-        "Title": "Lost in Translation",
-        "Year": "2003",
-        "ID": "51898"
-    },
-    {
-        "Title": "Memento",
-        "Year": "2000",
-        "ID": "51973"
-    },
-    {
-        "Title": "Brokeback Mountain",
-        "Year": "2005",
-        "ID": "51909"
-    },
-    {
-        "Title": "Sideways",
-        "Year": "2004",
-        "ID": "46929"
-    },
-    {
-        "Title": "Crouching Tiger, Hidden Dragon",
-        "Year": "2000",
-        "ID": "51905"
-    },
-    {
-        "Title": "The Wrestler",
-        "Year": "2008",
-        "ID": "44740"
-    },
-    {
-        "Title": "Little Miss Sunshine",
-        "Year": "2006",
-        "ID": "51379"
-    },
-    {
-        "Title": "Juno",
-        "Year": "2007",
-        "ID": "48051"
-    },
-    {
-        "Title": "The Artist",
-        "Year": "2011",
-        "ID": "61707"
-    },
-    {
-        "Title": "Precious",
-        "Year": "2009",
-        "ID": "35791"
-    },
-    {
-        "Title": "Black Swan",
-        "Year": "2010",
-        "ID": "20956"
-    },
-    {
-        "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
-        "Year": "2014",
-        "ID": "139795"
-    },
-    {
-        "Title": "Silver Linings Playbook",
-        "Year": "2012",
-        "ID": "69151"
-    },
-    {
-        "Title": "Moonlight",
-        "Year": "2016",
-        "ID": "312205"
-    },
-    {
-        "Title": "Spotlight",
-        "Year": "2015",
-        "ID": "241430"
-    },
-    {
-        "Title": "12 Years a Slave",
-        "Year": "2013",
-        "ID": "62671"
-    },
-    {
-        "Title": "If Beale Street Could Talk",
-        "Year": "2018",
-        "ID": "397578"
-    },
-    {
-        "Title": "The Farewell",
-        "Year": "2019",
-        "ID": "493697"
-    },
-    {
-        "Title": "Get Out",
-        "Year": "2017",
-        "ID": "353117"
-    },
-    {
-        "Title": "The Lost Daughter",
-        "Year": "2021",
-        "ID": "483008"
-    },
-    {
-        "Title": "Past Lives",
-        "Year": "2023",
-        "ID": "591053"
-    },
-    {
-        "Title": "Nomadland",
-        "Year": "2020",
-        "ID": "509662"
-    },
-    {
-        "Title": "Everything Everywhere All at Once",
-        "Year": "2022",
-        "ID": "474474"
-    }
+  {
+    "Title": "Platoon",
+    "Year": "1986",
+    "ID": "51360"
+  },
+  {
+    "Title": "The Grifters",
+    "Year": "1990",
+    "ID": "40564"
+  },
+  {
+    "Title": "After Hours",
+    "Year": "1985",
+    "ID": "45842"
+  },
+  {
+    "Title": "River's Edge",
+    "Year": "1986",
+    "ID": "38486"
+  },
+  {
+    "Title": "Stand and Deliver",
+    "Year": "1988",
+    "ID": "33091"
+  },
+  {
+    "Title": "Short Cuts",
+    "Year": "1993",
+    "ID": "51431"
+  },
+  {
+    "Title": "Rambling Rose",
+    "Year": "1991",
+    "ID": "30548"
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "ID": "51444"
+  },
+  {
+    "Title": "sex, lies, and videotape",
+    "Year": "1989",
+    "ID": "51052"
+  },
+  {
+    "Title": "The Player",
+    "Year": "1992",
+    "ID": "46263"
+  },
+  {
+    "Title": "Leaving Las Vegas",
+    "Year": "1995",
+    "ID": "51650"
+  },
+  {
+    "Title": "Gods and Monsters",
+    "Year": "1998",
+    "ID": "49932"
+  },
+  {
+    "Title": "Fargo",
+    "Year": "1996",
+    "ID": "51781"
+  },
+  {
+    "Title": "Election",
+    "Year": "1999",
+    "ID": "47146"
+  },
+  {
+    "Title": "Memento",
+    "Year": "2000",
+    "ID": "51973"
+  },
+  {
+    "Title": "Far from Heaven",
+    "Year": "2002",
+    "ID": "45966"
+  },
+  {
+    "Title": "The Apostle",
+    "Year": "1997",
+    "ID": "50028"
+  },
+  {
+    "Title": "Sideways",
+    "Year": "2004",
+    "ID": "46929"
+  },
+  {
+    "Title": "Lost in Translation",
+    "Year": "2003",
+    "ID": "51898"
+  },
+  {
+    "Title": "Brokeback Mountain",
+    "Year": "2005",
+    "ID": "51909"
+  },
+  {
+    "Title": "Little Miss Sunshine",
+    "Year": "2006",
+    "ID": "51379"
+  },
+  {
+    "Title": "Crouching Tiger, Hidden Dragon",
+    "Year": "2000",
+    "ID": "51905"
+  },
+  {
+    "Title": "Juno",
+    "Year": "2007",
+    "ID": "48051"
+  },
+  {
+    "Title": "Precious",
+    "Year": "2009",
+    "ID": "35791"
+  },
+  {
+    "Title": "The Artist",
+    "Year": "2011",
+    "ID": "61707"
+  },
+  {
+    "Title": "Black Swan",
+    "Year": "2010",
+    "ID": "20956"
+  },
+  {
+    "Title": "The Wrestler",
+    "Year": "2008",
+    "ID": "44740"
+  },
+  {
+    "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "Year": "2014",
+    "ID": "139795"
+  },
+  {
+    "Title": "Spotlight",
+    "Year": "2015",
+    "ID": "241430"
+  },
+  {
+    "Title": "Get Out",
+    "Year": "2017",
+    "ID": "353117"
+  },
+  {
+    "Title": "If Beale Street Could Talk",
+    "Year": "2018",
+    "ID": "397578"
+  },
+  {
+    "Title": "12 Years a Slave",
+    "Year": "2013",
+    "ID": "62671"
+  },
+  {
+    "Title": "The Farewell",
+    "Year": "2019",
+    "ID": "493697"
+  },
+  {
+    "Title": "Silver Linings Playbook",
+    "Year": "2012",
+    "ID": "69151"
+  },
+  {
+    "Title": "Nomadland",
+    "Year": "2020",
+    "ID": "509662"
+  },
+  {
+    "Title": "The Lost Daughter",
+    "Year": "2021",
+    "ID": "483008"
+  },
+  {
+    "Title": "Moonlight",
+    "Year": "2016",
+    "ID": "312205"
+  },
+  {
+    "Title": "Everything Everywhere All at Once",
+    "Year": "2022",
+    "ID": "474474"
+  },
+  {
+    "Title": "Past Lives",
+    "Year": "2023",
+    "ID": "591053"
+  }
 ]
