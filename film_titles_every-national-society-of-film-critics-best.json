@@ -1,292 +1,292 @@
 [
-    {
-        "Title": "Blow-Up",
-        "Year": "1966",
-        "ID": "51163"
-    },
-    {
-        "Title": "Claire's Knee",
-        "Year": "1970",
-        "ID": "50039"
-    },
-    {
-        "Title": "The Discreet Charm of the Bourgeoisie",
-        "Year": "1972",
-        "ID": "49228"
-    },
-    {
-        "Title": "Persona",
-        "Year": "1966",
-        "ID": "51355"
-    },
-    {
-        "Title": "M*A*S*H",
-        "Year": "1970",
-        "ID": "51473"
-    },
-    {
-        "Title": "Z",
-        "Year": "1969",
-        "ID": "50133"
-    },
-    {
-        "Title": "Day for Night",
-        "Year": "1973",
-        "ID": "50869"
-    },
-    {
-        "Title": "Nashville",
-        "Year": "1975",
-        "ID": "49852"
-    },
-    {
-        "Title": "Shame",
-        "Year": "1968",
-        "ID": "35361"
-    },
-    {
-        "Title": "Annie Hall",
-        "Year": "1977",
-        "ID": "51423"
-    },
-    {
-        "Title": "Breaking Away",
-        "Year": "1979",
-        "ID": "39127"
-    },
-    {
-        "Title": "All the President's Men",
-        "Year": "1976",
-        "ID": "51261"
-    },
-    {
-        "Title": "Melvin and Howard",
-        "Year": "1980",
-        "ID": "25845"
-    },
-    {
-        "Title": "Atlantic City",
-        "Year": "1980",
-        "ID": "37139"
-    },
-    {
-        "Title": "Tootsie",
-        "Year": "1982",
-        "ID": "47025"
-    },
-    {
-        "Title": "Get Out Your Handkerchiefs",
-        "Year": "1978",
-        "ID": "49427"
-    },
-    {
-        "Title": "Ran",
-        "Year": "1985",
-        "ID": "45108"
-    },
-    {
-        "Title": "Stranger Than Paradise",
-        "Year": "1984",
-        "ID": "51633"
-    },
-    {
-        "Title": "The Night of the Shooting Stars",
-        "Year": "1982",
-        "ID": "22936"
-    },
-    {
-        "Title": "Blue Velvet",
-        "Year": "1986",
-        "ID": "51359"
-    },
-    {
-        "Title": "The Dead",
-        "Year": "1987",
-        "ID": "25182"
-    },
-    {
-        "Title": "The Unbearable Lightness of Being",
-        "Year": "1988",
-        "ID": "46030"
-    },
-    {
-        "Title": "Drugstore Cowboy",
-        "Year": "1989",
-        "ID": "51628"
-    },
-    {
-        "Title": "Unforgiven",
-        "Year": "1992",
-        "ID": "2685"
-    },
-    {
-        "Title": "Life Is Sweet",
-        "Year": "1990",
-        "ID": "27558"
-    },
-    {
-        "Title": "GoodFellas",
-        "Year": "1990",
-        "ID": "51383"
-    },
-    {
-        "Title": "Schindler's List",
-        "Year": "1993",
-        "ID": "51671"
-    },
-    {
-        "Title": "Breaking the Waves",
-        "Year": "1996",
-        "ID": "51906"
-    },
-    {
-        "Title": "Babe",
-        "Year": "1995",
-        "ID": "47003"
-    },
-    {
-        "Title": "Pulp Fiction",
-        "Year": "1994",
-        "ID": "51444"
-    },
-    {
-        "Title": "L.A. Confidential",
-        "Year": "1997",
-        "ID": "50509"
-    },
-    {
-        "Title": "Yi Yi",
-        "Year": "2000",
-        "ID": "35988"
-    },
-    {
-        "Title": "Topsy-Turvy",
-        "Year": "1999",
-        "ID": "18905"
-    },
-    {
-        "Title": "Being John Malkovich",
-        "Year": "1999",
-        "ID": "51618"
-    },
-    {
-        "Title": "Mulholland Drive",
-        "Year": "2001",
-        "ID": "51171"
-    },
-    {
-        "Title": "Million Dollar Baby",
-        "Year": "2004",
-        "ID": "51979"
-    },
-    {
-        "Title": "American Splendor",
-        "Year": "2003",
-        "ID": "50100"
-    },
-    {
-        "Title": "Out of Sight",
-        "Year": "1998",
-        "ID": "51070"
-    },
-    {
-        "Title": "Capote",
-        "Year": "2005",
-        "ID": "51692"
-    },
-    {
-        "Title": "Pan's Labyrinth",
-        "Year": "2006",
-        "ID": "51047"
-    },
-    {
-        "Title": "The Pianist",
-        "Year": "2002",
-        "ID": "51672"
-    },
-    {
-        "Title": "The Social Network",
-        "Year": "2010",
-        "ID": "26711"
-    },
-    {
-        "Title": "Waltz with Bashir",
-        "Year": "2008",
-        "ID": "47539"
-    },
-    {
-        "Title": "There Will Be Blood",
-        "Year": "2007",
-        "ID": "48044"
-    },
-    {
-        "Title": "Amour",
-        "Year": "2012",
-        "ID": "73359"
-    },
-    {
-        "Title": "Melancholia",
-        "Year": "2011",
-        "ID": "4549"
-    },
-    {
-        "Title": "Goodbye to Language",
-        "Year": "2014",
-        "ID": "91404"
-    },
-    {
-        "Title": "The Hurt Locker",
-        "Year": "2008",
-        "ID": "44741"
-    },
-    {
-        "Title": "Inside Llewyn Davis",
-        "Year": "2013",
-        "ID": "73367"
-    },
-    {
-        "Title": "Moonlight",
-        "Year": "2016",
-        "ID": "312205"
-    },
-    {
-        "Title": "Lady Bird",
-        "Year": "2017",
-        "ID": "326279"
-    },
-    {
-        "Title": "Nomadland",
-        "Year": "2020",
-        "ID": "509662"
-    },
-    {
-        "Title": "The Rider",
-        "Year": "2017",
-        "ID": "385389"
-    },
-    {
-        "Title": "Parasite",
-        "Year": "2019",
-        "ID": "426406"
-    },
-    {
-        "Title": "Spotlight",
-        "Year": "2015",
-        "ID": "241430"
-    },
-    {
-        "Title": "TÁR",
-        "Year": "2022",
-        "ID": "734096"
-    },
-    {
-        "Title": "Past Lives",
-        "Year": "2023",
-        "ID": "591053"
-    },
-    {
-        "Title": "Drive My Car",
-        "Year": "2021",
-        "ID": "679291"
-    }
+  {
+    "Title": "Persona",
+    "Year": "1966",
+    "ID": "51355"
+  },
+  {
+    "Title": "Claire's Knee",
+    "Year": "1970",
+    "ID": "50039"
+  },
+  {
+    "Title": "Z",
+    "Year": "1969",
+    "ID": "50133"
+  },
+  {
+    "Title": "Blow-Up",
+    "Year": "1966",
+    "ID": "51163"
+  },
+  {
+    "Title": "M*A*S*H",
+    "Year": "1970",
+    "ID": "51473"
+  },
+  {
+    "Title": "Nashville",
+    "Year": "1975",
+    "ID": "49852"
+  },
+  {
+    "Title": "Day for Night",
+    "Year": "1973",
+    "ID": "50869"
+  },
+  {
+    "Title": "Shame",
+    "Year": "1968",
+    "ID": "35361"
+  },
+  {
+    "Title": "All the President's Men",
+    "Year": "1976",
+    "ID": "51261"
+  },
+  {
+    "Title": "The Discreet Charm of the Bourgeoisie",
+    "Year": "1972",
+    "ID": "49228"
+  },
+  {
+    "Title": "Annie Hall",
+    "Year": "1977",
+    "ID": "51423"
+  },
+  {
+    "Title": "Get Out Your Handkerchiefs",
+    "Year": "1978",
+    "ID": "49427"
+  },
+  {
+    "Title": "Atlantic City",
+    "Year": "1980",
+    "ID": "37139"
+  },
+  {
+    "Title": "Breaking Away",
+    "Year": "1979",
+    "ID": "39127"
+  },
+  {
+    "Title": "Melvin and Howard",
+    "Year": "1980",
+    "ID": "25845"
+  },
+  {
+    "Title": "Tootsie",
+    "Year": "1982",
+    "ID": "47025"
+  },
+  {
+    "Title": "Stranger Than Paradise",
+    "Year": "1984",
+    "ID": "51633"
+  },
+  {
+    "Title": "The Night of the Shooting Stars",
+    "Year": "1982",
+    "ID": "22936"
+  },
+  {
+    "Title": "Ran",
+    "Year": "1985",
+    "ID": "45108"
+  },
+  {
+    "Title": "The Unbearable Lightness of Being",
+    "Year": "1988",
+    "ID": "46030"
+  },
+  {
+    "Title": "Blue Velvet",
+    "Year": "1986",
+    "ID": "51359"
+  },
+  {
+    "Title": "The Dead",
+    "Year": "1987",
+    "ID": "25182"
+  },
+  {
+    "Title": "GoodFellas",
+    "Year": "1990",
+    "ID": "51383"
+  },
+  {
+    "Title": "Schindler's List",
+    "Year": "1993",
+    "ID": "51671"
+  },
+  {
+    "Title": "Drugstore Cowboy",
+    "Year": "1989",
+    "ID": "51628"
+  },
+  {
+    "Title": "Life Is Sweet",
+    "Year": "1990",
+    "ID": "27558"
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "ID": "51444"
+  },
+  {
+    "Title": "Unforgiven",
+    "Year": "1992",
+    "ID": "2685"
+  },
+  {
+    "Title": "Babe",
+    "Year": "1995",
+    "ID": "47003"
+  },
+  {
+    "Title": "Breaking the Waves",
+    "Year": "1996",
+    "ID": "51906"
+  },
+  {
+    "Title": "Yi Yi",
+    "Year": "2000",
+    "ID": "35988"
+  },
+  {
+    "Title": "Being John Malkovich",
+    "Year": "1999",
+    "ID": "51618"
+  },
+  {
+    "Title": "Out of Sight",
+    "Year": "1998",
+    "ID": "51070"
+  },
+  {
+    "Title": "Topsy-Turvy",
+    "Year": "1999",
+    "ID": "18905"
+  },
+  {
+    "Title": "The Pianist",
+    "Year": "2002",
+    "ID": "51672"
+  },
+  {
+    "Title": "L.A. Confidential",
+    "Year": "1997",
+    "ID": "50509"
+  },
+  {
+    "Title": "Mulholland Drive",
+    "Year": "2001",
+    "ID": "51171"
+  },
+  {
+    "Title": "Pan's Labyrinth",
+    "Year": "2006",
+    "ID": "51047"
+  },
+  {
+    "Title": "Capote",
+    "Year": "2005",
+    "ID": "51692"
+  },
+  {
+    "Title": "American Splendor",
+    "Year": "2003",
+    "ID": "50100"
+  },
+  {
+    "Title": "There Will Be Blood",
+    "Year": "2007",
+    "ID": "48044"
+  },
+  {
+    "Title": "Million Dollar Baby",
+    "Year": "2004",
+    "ID": "51979"
+  },
+  {
+    "Title": "The Hurt Locker",
+    "Year": "2008",
+    "ID": "44741"
+  },
+  {
+    "Title": "The Social Network",
+    "Year": "2010",
+    "ID": "26711"
+  },
+  {
+    "Title": "Melancholia",
+    "Year": "2011",
+    "ID": "4549"
+  },
+  {
+    "Title": "Waltz with Bashir",
+    "Year": "2008",
+    "ID": "47539"
+  },
+  {
+    "Title": "Inside Llewyn Davis",
+    "Year": "2013",
+    "ID": "73367"
+  },
+  {
+    "Title": "Moonlight",
+    "Year": "2016",
+    "ID": "312205"
+  },
+  {
+    "Title": "Amour",
+    "Year": "2012",
+    "ID": "73359"
+  },
+  {
+    "Title": "Goodbye to Language",
+    "Year": "2014",
+    "ID": "91404"
+  },
+  {
+    "Title": "Lady Bird",
+    "Year": "2017",
+    "ID": "326279"
+  },
+  {
+    "Title": "Parasite",
+    "Year": "2019",
+    "ID": "426406"
+  },
+  {
+    "Title": "Nomadland",
+    "Year": "2020",
+    "ID": "509662"
+  },
+  {
+    "Title": "Drive My Car",
+    "Year": "2021",
+    "ID": "679291"
+  },
+  {
+    "Title": "TÁR",
+    "Year": "2022",
+    "ID": "734096"
+  },
+  {
+    "Title": "The Rider",
+    "Year": "2017",
+    "ID": "385389"
+  },
+  {
+    "Title": "Past Lives",
+    "Year": "2023",
+    "ID": "591053"
+  },
+  {
+    "Title": "Spotlight",
+    "Year": "2015",
+    "ID": "241430"
+  }
 ]
