@@ -139,75 +139,75 @@
   },
   {
     "ListNumber": 24,
+    "Title": "Coco",
+    "Year": "2017",
+    "ID": "285509"
+  },
+  {
+    "ListNumber": 25,
     "Title": "Shutter Island",
     "Year": "2010",
     "ID": "45409"
   },
   {
-    "ListNumber": 25,
+    "ListNumber": 26,
     "Title": "Elf",
     "Year": "2003",
     "ID": "45959"
   },
   {
-    "ListNumber": 26,
+    "ListNumber": 27,
     "Title": "Halloween",
     "Year": "2018",
     "ID": "357682"
   },
   {
-    "ListNumber": 27,
+    "ListNumber": 28,
     "Title": "The Wild Robot",
     "Year": "2024",
     "ID": "1071196"
   },
   {
-    "ListNumber": 28,
+    "ListNumber": 29,
     "Title": "A Quiet Place",
     "Year": "2018",
     "ID": "379687"
   },
   {
-    "ListNumber": 29,
+    "ListNumber": 30,
     "Title": "Barbarian",
     "Year": "2022",
     "ID": "819648"
   },
   {
-    "ListNumber": 30,
+    "ListNumber": 31,
     "Title": "The Princess Bride",
     "Year": "1987",
     "ID": "50226"
   },
   {
-    "ListNumber": 31,
+    "ListNumber": 32,
     "Title": "The Usual Suspects",
     "Year": "1995",
     "ID": "51495"
   },
   {
-    "ListNumber": 32,
+    "ListNumber": 33,
     "Title": "Late Night with the Devil",
     "Year": "2023",
     "ID": "843415"
   },
   {
-    "ListNumber": 33,
+    "ListNumber": 34,
     "Title": "Fight Club",
     "Year": "1999",
     "ID": "51568"
   },
   {
-    "ListNumber": 34,
+    "ListNumber": 35,
     "Title": "The Menu",
     "Year": "2022",
     "ID": "521323"
-  },
-  {
-    "ListNumber": 35,
-    "Title": "Hundreds of Beavers",
-    "Year": "2022",
-    "ID": "919068"
   },
   {
     "ListNumber": 36,
@@ -223,1272 +223,1290 @@
   },
   {
     "ListNumber": 38,
+    "Title": "Hundreds of Beavers",
+    "Year": "2022",
+    "ID": "919068"
+  },
+  {
+    "ListNumber": 39,
     "Title": "Batman Begins",
     "Year": "2005",
     "ID": "51784"
   },
   {
-    "ListNumber": 39,
+    "ListNumber": 40,
     "Title": "The Cat in the Hat",
     "Year": "2003",
     "ID": "46084"
   },
   {
-    "ListNumber": 40,
+    "ListNumber": 41,
     "Title": "Midsommar",
     "Year": "2019",
     "ID": "459564"
   },
   {
-    "ListNumber": 41,
+    "ListNumber": 42,
     "Title": "Ready or Not",
     "Year": "2019",
     "ID": "495969"
   },
   {
-    "ListNumber": 42,
-    "Title": "A Nightmare on Elm Street 3: Dream Warriors",
-    "Year": "1987",
-    "ID": "46574"
-  },
-  {
     "ListNumber": 43,
-    "Title": "Scream VI",
-    "Year": "2023",
-    "ID": "839244"
-  },
-  {
-    "ListNumber": 44,
     "Title": "Speak No Evil",
     "Year": "2022",
     "ID": "748943"
   },
   {
-    "ListNumber": 45,
-    "Title": "A Real Pain",
-    "Year": "2024",
-    "ID": "913258"
-  },
-  {
-    "ListNumber": 46,
-    "Title": "The Shining",
-    "Year": "1980",
-    "ID": "51432"
-  },
-  {
-    "ListNumber": 47,
-    "Title": "Freddy vs. Jason",
-    "Year": "2003",
-    "ID": "48308"
-  },
-  {
-    "ListNumber": 48,
-    "Title": "A Nightmare on Elm Street",
-    "Year": "1984",
-    "ID": "51708"
-  },
-  {
-    "ListNumber": 49,
-    "Title": "The Exorcist III",
-    "Year": "1990",
-    "ID": "45163"
-  },
-  {
-    "ListNumber": 50,
+    "ListNumber": 44,
     "Title": "Psycho",
     "Year": "1960",
     "ID": "51578"
   },
   {
+    "ListNumber": 45,
+    "Title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "Year": "1987",
+    "ID": "46574"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "Scream VI",
+    "Year": "2023",
+    "ID": "839244"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "A Real Pain",
+    "Year": "2024",
+    "ID": "913258"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "The Shining",
+    "Year": "1980",
+    "ID": "51432"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "Freddy vs. Jason",
+    "Year": "2003",
+    "ID": "48308"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "A Nightmare on Elm Street",
+    "Year": "1984",
+    "ID": "51708"
+  },
+  {
     "ListNumber": 51,
+    "Title": "The Exorcist III",
+    "Year": "1990",
+    "ID": "45163"
+  },
+  {
+    "ListNumber": 52,
     "Title": "The Cabin in the Woods",
     "Year": "2011",
     "ID": "37598"
   },
   {
-    "ListNumber": 52,
+    "ListNumber": 53,
     "Title": "National Lampoon's Christmas Vacation",
     "Year": "1989",
     "ID": "48638"
   },
   {
-    "ListNumber": 53,
+    "ListNumber": 54,
     "Title": "Challengers",
     "Year": "2024",
     "ID": "842301"
   },
   {
-    "ListNumber": 54,
+    "ListNumber": 55,
     "Title": "Perfect Blue",
     "Year": "1997",
     "ID": "46175"
   },
   {
-    "ListNumber": 55,
+    "ListNumber": 56,
     "Title": "Saw X",
     "Year": "2023",
     "ID": "856036"
   },
   {
-    "ListNumber": 56,
+    "ListNumber": 57,
     "Title": "Saw III",
     "Year": "2006",
     "ID": "51842"
   },
   {
-    "ListNumber": 57,
+    "ListNumber": 58,
     "Title": "The Substance",
     "Year": "2024",
     "ID": "838140"
   },
   {
-    "ListNumber": 58,
+    "ListNumber": 59,
     "Title": "Don't Breathe",
     "Year": "2016",
     "ID": "227785"
   },
   {
-    "ListNumber": 59,
+    "ListNumber": 60,
     "Title": "Conclave",
     "Year": "2024",
     "ID": "877253"
   },
   {
-    "ListNumber": 60,
+    "ListNumber": 61,
     "Title": "V/H/S/94",
     "Year": "2021",
     "ID": "673962"
   },
   {
-    "ListNumber": 61,
+    "ListNumber": 62,
     "Title": "Heretic",
     "Year": "2024",
     "ID": "1025331"
   },
   {
-    "ListNumber": 62,
+    "ListNumber": 63,
     "Title": "Dream Scenario",
     "Year": "2023",
     "ID": "739691"
   },
   {
-    "ListNumber": 63,
+    "ListNumber": 64,
     "Title": "Red Dragon",
     "Year": "2002",
     "ID": "47067"
   },
   {
-    "ListNumber": 64,
+    "ListNumber": 65,
     "Title": "Manhunter",
     "Year": "1986",
     "ID": "45288"
   },
   {
-    "ListNumber": 65,
+    "ListNumber": 66,
     "Title": "The Conjuring",
     "Year": "2013",
     "ID": "106262"
   },
   {
-    "ListNumber": 66,
+    "ListNumber": 67,
     "Title": "American Psycho",
     "Year": "2000",
     "ID": "51097"
   },
   {
-    "ListNumber": 67,
+    "ListNumber": 68,
     "Title": "V/H/S/2",
     "Year": "2013",
     "ID": "118572"
   },
   {
-    "ListNumber": 68,
+    "ListNumber": 69,
     "Title": "Infinity Pool",
     "Year": "2023",
     "ID": "591931"
   },
   {
-    "ListNumber": 69,
+    "ListNumber": 70,
     "Title": "The Descent",
     "Year": "2005",
     "ID": "47204"
   },
   {
-    "ListNumber": 70,
+    "ListNumber": 71,
+    "Title": "Tucker and Dale vs. Evil",
+    "Year": "2010",
+    "ID": "18527"
+  },
+  {
+    "ListNumber": 72,
     "Title": "The Fall Guy",
     "Year": "2024",
     "ID": "667550"
   },
   {
-    "ListNumber": 71,
+    "ListNumber": 73,
     "Title": "Totally Killer",
     "Year": "2023",
     "ID": "877360"
   },
   {
-    "ListNumber": 72,
+    "ListNumber": 74,
     "Title": "Sleepaway Camp",
     "Year": "1983",
     "ID": "43778"
   },
   {
-    "ListNumber": 73,
+    "ListNumber": 75,
     "Title": "Uncut Gems",
     "Year": "2019",
     "ID": "404266"
   },
   {
-    "ListNumber": 74,
+    "ListNumber": 76,
     "Title": "Final Destination",
     "Year": "2000",
     "ID": "47068"
   },
   {
-    "ListNumber": 75,
+    "ListNumber": 77,
     "Title": "Scream",
     "Year": "2022",
     "ID": "572119"
   },
   {
-    "ListNumber": 76,
+    "ListNumber": 78,
     "Title": "The Apprentice",
     "Year": "2024",
     "ID": "1068413"
   },
   {
-    "ListNumber": 77,
+    "ListNumber": 79,
     "Title": "Joker",
     "Year": "2019",
     "ID": "406775"
   },
   {
-    "ListNumber": 78,
+    "ListNumber": 80,
     "Title": "My Cousin Vinny",
     "Year": "1992",
     "ID": "46288"
   },
   {
-    "ListNumber": 79,
+    "ListNumber": 81,
     "Title": "Predator",
     "Year": "1987",
     "ID": "51944"
   },
   {
-    "ListNumber": 80,
+    "ListNumber": 82,
     "Title": "Infested",
     "Year": "2023",
     "ID": "959593"
   },
   {
-    "ListNumber": 81,
+    "ListNumber": 83,
     "Title": "Alien",
     "Year": "1979",
     "ID": "51714"
   },
   {
-    "ListNumber": 82,
+    "ListNumber": 84,
     "Title": "Malignant",
     "Year": "2021",
     "ID": "546348"
   },
   {
-    "ListNumber": 83,
+    "ListNumber": 85,
     "Title": "Halloween",
     "Year": "1978",
     "ID": "60298"
   },
   {
-    "ListNumber": 84,
+    "ListNumber": 86,
     "Title": "Meet the Parents",
     "Year": "2000",
     "ID": "50937"
   },
   {
-    "ListNumber": 85,
+    "ListNumber": 87,
     "Title": "Possessor",
     "Year": "2020",
     "ID": "368540"
   },
   {
-    "ListNumber": 86,
+    "ListNumber": 88,
     "Title": "Aliens",
     "Year": "1986",
     "ID": "51445"
   },
   {
-    "ListNumber": 87,
+    "ListNumber": 89,
     "Title": "Saw II",
     "Year": "2005",
     "ID": "51841"
   },
   {
-    "ListNumber": 88,
+    "ListNumber": 90,
     "Title": "Civil War",
     "Year": "2024",
     "ID": "834656"
   },
   {
-    "ListNumber": 89,
+    "ListNumber": 91,
     "Title": "The Texas Chain Saw Massacre",
     "Year": "1974",
     "ID": "31985"
   },
   {
-    "ListNumber": 90,
+    "ListNumber": 92,
     "Title": "Dune",
     "Year": "2021",
     "ID": "371378"
   },
   {
-    "ListNumber": 91,
+    "ListNumber": 93,
     "Title": "Jacob's Ladder",
     "Year": "1990",
     "ID": "50358"
   },
   {
-    "ListNumber": 92,
+    "ListNumber": 94,
     "Title": "Abigail",
     "Year": "2024",
     "ID": "1001285"
   },
   {
-    "ListNumber": 93,
+    "ListNumber": 95,
     "Title": "The Witch",
     "Year": "2015",
     "ID": "237177"
   },
   {
-    "ListNumber": 94,
+    "ListNumber": 96,
     "Title": "Saw IV",
     "Year": "2007",
     "ID": "51461"
   },
   {
-    "ListNumber": 95,
+    "ListNumber": 97,
     "Title": "Saw VI",
     "Year": "2009",
     "ID": "37687"
   },
   {
-    "ListNumber": 96,
+    "ListNumber": 98,
     "Title": "Scream 4",
     "Year": "2011",
     "ID": "23586"
   },
   {
-    "ListNumber": 97,
+    "ListNumber": 99,
     "Title": "Jaws",
     "Year": "1975",
     "ID": "51542"
   },
   {
-    "ListNumber": 98,
+    "ListNumber": 100,
     "Title": "We Live in Time",
     "Year": "2024",
     "ID": "991786"
   },
   {
-    "ListNumber": 99,
+    "ListNumber": 101,
     "Title": "Us",
     "Year": "2019",
     "ID": "390520"
   },
   {
-    "ListNumber": 100,
+    "ListNumber": 102,
     "Title": "Speak No Evil",
     "Year": "2024",
     "ID": "1004531"
   },
   {
-    "ListNumber": 101,
+    "ListNumber": 103,
     "Title": "A Different Man",
     "Year": "2024",
     "ID": "891291"
   },
   {
-    "ListNumber": 102,
+    "ListNumber": 104,
     "Title": "V/H/S/85",
     "Year": "2023",
     "ID": "931252"
   },
   {
-    "ListNumber": 103,
+    "ListNumber": 105,
     "Title": "Saturday Night",
     "Year": "2024",
     "ID": "1010683"
   },
   {
-    "ListNumber": 104,
+    "ListNumber": 106,
     "Title": "The Exorcist",
     "Year": "1973",
     "ID": "47048"
   },
   {
-    "ListNumber": 105,
+    "ListNumber": 107,
     "Title": "Friday the 13th Part VI: Jason Lives",
     "Year": "1986",
     "ID": "46426"
   },
   {
-    "ListNumber": 106,
+    "ListNumber": 108,
     "Title": "Friday the 13th",
     "Year": "2009",
     "ID": "44048"
   },
   {
-    "ListNumber": 107,
+    "ListNumber": 109,
     "Title": "Never Let Go",
     "Year": "2024",
     "ID": "731272"
   },
   {
-    "ListNumber": 108,
+    "ListNumber": 110,
     "Title": "Raw",
     "Year": "2016",
     "ID": "327974"
   },
   {
-    "ListNumber": 109,
+    "ListNumber": 111,
     "Title": "V/H/S",
     "Year": "2012",
     "ID": "70737"
   },
   {
-    "ListNumber": 110,
+    "ListNumber": 112,
     "Title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
     "Year": "1985",
     "ID": "46628"
   },
   {
-    "ListNumber": 111,
+    "ListNumber": 113,
     "Title": "My Old Ass",
     "Year": "2024",
     "ID": "852531"
   },
   {
-    "ListNumber": 112,
+    "ListNumber": 114,
     "Title": "Everything Everywhere All at Once",
     "Year": "2022",
     "ID": "474474"
   },
   {
-    "ListNumber": 113,
+    "ListNumber": 115,
     "Title": "Hannibal",
     "Year": "2001",
     "ID": "46867"
   },
   {
-    "ListNumber": 114,
+    "ListNumber": 116,
     "Title": "Zombieland",
     "Year": "2009",
     "ID": "39352"
   },
   {
-    "ListNumber": 115,
+    "ListNumber": 117,
     "Title": "Halloween 4: The Return of Michael Myers",
     "Year": "1988",
     "ID": "45377"
   },
   {
-    "ListNumber": 116,
+    "ListNumber": 118,
     "Title": "Ricky Stanicky",
     "Year": "2024",
     "ID": "921527"
   },
   {
-    "ListNumber": 117,
+    "ListNumber": 119,
     "Title": "Scream 2",
     "Year": "1997",
     "ID": "49454"
   },
   {
-    "ListNumber": 118,
+    "ListNumber": 120,
     "Title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
     "Year": "2006",
     "ID": "51614"
   },
   {
-    "ListNumber": 119,
+    "ListNumber": 121,
     "Title": "The Beekeeper",
     "Year": "2024",
     "ID": "780170"
   },
   {
-    "ListNumber": 120,
+    "ListNumber": 122,
     "Title": "Halloween H20: 20 Years Later",
     "Year": "1998",
     "ID": "45078"
   },
   {
-    "ListNumber": 121,
+    "ListNumber": 123,
     "Title": "It Follows",
     "Year": "2014",
     "ID": "193554"
   },
   {
-    "ListNumber": 122,
+    "ListNumber": 124,
     "Title": "Anora",
     "Year": "2024",
     "ID": "959540"
   },
   {
-    "ListNumber": 123,
+    "ListNumber": 125,
     "Title": "Saw 3D",
     "Year": "2010",
     "ID": "23593"
   },
   {
-    "ListNumber": 124,
+    "ListNumber": 126,
     "Title": "Terrifier 3",
     "Year": "2024",
     "ID": "932739"
   },
   {
-    "ListNumber": 125,
+    "ListNumber": 127,
     "Title": "Hit Man",
     "Year": "2023",
     "ID": "877046"
   },
   {
-    "ListNumber": 126,
+    "ListNumber": 128,
     "Title": "Megalopolis",
     "Year": "2024",
     "ID": "520328"
   },
   {
-    "ListNumber": 127,
+    "ListNumber": 129,
     "Title": "The Super Mario Bros. Movie",
     "Year": "2023",
     "ID": "432302"
   },
   {
-    "ListNumber": 128,
+    "ListNumber": 130,
     "Title": "Blade",
     "Year": "1998",
     "ID": "27730"
   },
   {
-    "ListNumber": 129,
+    "ListNumber": 131,
     "Title": "Last Night in Soho",
     "Year": "2021",
     "ID": "505000"
   },
   {
-    "ListNumber": 130,
+    "ListNumber": 132,
     "Title": "The Hunger Games: The Ballad of Songbirds & Snakes",
     "Year": "2023",
     "ID": "619510"
   },
   {
-    "ListNumber": 131,
+    "ListNumber": 133,
     "Title": "Here",
     "Year": "2024",
     "ID": "844991"
   },
   {
-    "ListNumber": 132,
+    "ListNumber": 134,
     "Title": "The Wedding Singer",
     "Year": "1998",
     "ID": "45699"
   },
   {
-    "ListNumber": 133,
+    "ListNumber": 135,
     "Title": "Anchorman: The Legend of Ron Burgundy",
     "Year": "2004",
     "ID": "47637"
   },
   {
-    "ListNumber": 134,
+    "ListNumber": 136,
     "Title": "The Outrun",
     "Year": "2024",
     "ID": "704155"
   },
   {
-    "ListNumber": 135,
+    "ListNumber": 137,
     "Title": "Halloween II",
     "Year": "1981",
     "ID": "45450"
   },
   {
-    "ListNumber": 136,
+    "ListNumber": 138,
     "Title": "Nope",
     "Year": "2022",
     "ID": "682547"
   },
   {
-    "ListNumber": 137,
+    "ListNumber": 139,
     "Title": "A Nightmare on Elm Street 4: The Dream Master",
     "Year": "1988",
     "ID": "46518"
   },
   {
-    "ListNumber": 138,
+    "ListNumber": 140,
     "Title": "Halloween Kills",
     "Year": "2021",
     "ID": "537228"
   },
   {
-    "ListNumber": 139,
+    "ListNumber": 141,
     "Title": "Dìdi (弟弟)",
     "Year": "2024",
     "ID": "1045115"
   },
   {
-    "ListNumber": 140,
+    "ListNumber": 142,
     "Title": "Barbie",
     "Year": "2023",
     "ID": "277064"
   },
   {
-    "ListNumber": 141,
+    "ListNumber": 143,
     "Title": "Sinister",
     "Year": "2012",
     "ID": "68956"
   },
   {
-    "ListNumber": 142,
+    "ListNumber": 144,
     "Title": "Beetlejuice Beetlejuice",
     "Year": "2024",
     "ID": "823648"
   },
   {
-    "ListNumber": 143,
+    "ListNumber": 145,
     "Title": "Joker: Folie à Deux",
     "Year": "2024",
     "ID": "800858"
   },
   {
-    "ListNumber": 144,
+    "ListNumber": 146,
     "Title": "No Country for Old Men",
     "Year": "2007",
     "ID": "48140"
   },
   {
-    "ListNumber": 145,
+    "ListNumber": 147,
     "Title": "A Quiet Place: Day One",
     "Year": "2024",
     "ID": "682535"
   },
   {
-    "ListNumber": 146,
+    "ListNumber": 148,
     "Title": "Pineapple Express",
     "Year": "2008",
     "ID": "46462"
   },
   {
-    "ListNumber": 147,
+    "ListNumber": 149,
     "Title": "The Game",
     "Year": "1997",
     "ID": "50168"
   },
   {
-    "ListNumber": 148,
+    "ListNumber": 150,
     "Title": "American Fiction",
     "Year": "2023",
     "ID": "952812"
   },
   {
-    "ListNumber": 149,
+    "ListNumber": 151,
     "Title": "A Quiet Place Part II",
     "Year": "2020",
     "ID": "450337"
   },
   {
-    "ListNumber": 150,
+    "ListNumber": 152,
     "Title": "ThanksKilling",
     "Year": "2008",
     "ID": "6229"
   },
   {
-    "ListNumber": 151,
+    "ListNumber": 153,
     "Title": "Halloween",
     "Year": "2007",
     "ID": "50543"
   },
   {
-    "ListNumber": 152,
+    "ListNumber": 154,
     "Title": "American Psycho II: All American Girl",
     "Year": "2002",
     "ID": "45952"
   },
   {
-    "ListNumber": 153,
+    "ListNumber": 155,
     "Title": "Saw",
     "Year": "2004",
     "ID": "51875"
   },
   {
-    "ListNumber": 154,
+    "ListNumber": 156,
     "Title": "Beetlejuice",
     "Year": "1988",
     "ID": "49530"
   },
   {
-    "ListNumber": 155,
+    "ListNumber": 157,
     "Title": "Lisa Frankenstein",
     "Year": "2024",
     "ID": "895007"
   },
   {
-    "ListNumber": 156,
+    "ListNumber": 158,
     "Title": "Land of Bad",
     "Year": "2024",
     "ID": "872755"
   },
   {
-    "ListNumber": 157,
+    "ListNumber": 159,
     "Title": "Kinds of Kindness",
     "Year": "2024",
     "ID": "928261"
   },
   {
-    "ListNumber": 158,
+    "ListNumber": 160,
     "Title": "Wicked Little Letters",
     "Year": "2023",
     "ID": "878341"
   },
   {
-    "ListNumber": 159,
+    "ListNumber": 161,
     "Title": "Your Lucky Day",
     "Year": "2023",
     "ID": "829740"
   },
   {
-    "ListNumber": 160,
+    "ListNumber": 162,
     "Title": "Beau Is Afraid",
     "Year": "2023",
     "ID": "715856"
   },
   {
-    "ListNumber": 161,
+    "ListNumber": 163,
     "Title": "Pearl",
     "Year": "2022",
     "ID": "853822"
   },
   {
-    "ListNumber": 162,
+    "ListNumber": 164,
     "Title": "Old",
     "Year": "2021",
     "ID": "558054"
   },
   {
-    "ListNumber": 163,
+    "ListNumber": 165,
     "Title": "Blink Twice",
     "Year": "2024",
     "ID": "756042"
   },
   {
-    "ListNumber": 164,
+    "ListNumber": 166,
     "Title": "The Descent: Part 2",
     "Year": "2009",
     "ID": "29145"
   },
   {
-    "ListNumber": 165,
+    "ListNumber": 167,
+    "Title": "Bonhoeffer: Pastor. Spy. Assassin.",
+    "Year": "2024",
+    "ID": "972999"
+  },
+  {
+    "ListNumber": 168,
     "Title": "I Saw the TV Glow",
     "Year": "2024",
     "ID": "772230"
   },
   {
-    "ListNumber": 166,
+    "ListNumber": 169,
     "Title": "Scary Movie",
     "Year": "2000",
     "ID": "49443"
   },
   {
-    "ListNumber": 167,
+    "ListNumber": 170,
     "Title": "V/H/S: Viral",
     "Year": "2014",
     "ID": "191003"
   },
   {
-    "ListNumber": 168,
+    "ListNumber": 171,
     "Title": "The 40 Year Old Virgin",
     "Year": "2005",
     "ID": "48160"
   },
   {
-    "ListNumber": 169,
+    "ListNumber": 172,
     "Title": "Halloween: Resurrection",
     "Year": "2002",
     "ID": "45300"
   },
   {
-    "ListNumber": 170,
+    "ListNumber": 173,
     "Title": "Saw V",
     "Year": "2008",
     "ID": "44889"
   },
   {
-    "ListNumber": 171,
+    "ListNumber": 174,
     "Title": "Bodies Bodies Bodies",
     "Year": "2022",
     "ID": "449442"
   },
   {
-    "ListNumber": 172,
+    "ListNumber": 175,
     "Title": "Stopmotion",
     "Year": "2023",
     "ID": "755719"
   },
   {
-    "ListNumber": 173,
+    "ListNumber": 176,
     "Title": "Candyman: Farewell to the Flesh",
     "Year": "1995",
     "ID": "45860"
   },
   {
-    "ListNumber": 174,
+    "ListNumber": 177,
     "Title": "Terrifier 2",
     "Year": "2022",
     "ID": "588907"
   },
   {
-    "ListNumber": 175,
+    "ListNumber": 178,
     "Title": "Longlegs",
     "Year": "2024",
     "ID": "1110059"
   },
   {
-    "ListNumber": 176,
+    "ListNumber": 179,
     "Title": "Lake Michigan Monster",
     "Year": "2018",
     "ID": "472917"
   },
   {
-    "ListNumber": 177,
+    "ListNumber": 180,
     "Title": "The Bikeriders",
     "Year": "2023",
     "ID": "908327"
   },
   {
-    "ListNumber": 178,
+    "ListNumber": 181,
     "Title": "Despicable Me 4",
     "Year": "2024",
     "ID": "448506"
   },
   {
-    "ListNumber": 179,
+    "ListNumber": 182,
     "Title": "Tarot",
     "Year": "2024",
     "ID": "642249"
   },
   {
-    "ListNumber": 180,
+    "ListNumber": 183,
     "Title": "Mad God",
     "Year": "2021",
     "ID": "761046"
   },
   {
-    "ListNumber": 181,
+    "ListNumber": 184,
     "Title": "The Holdovers",
     "Year": "2023",
     "ID": "755564"
   },
   {
-    "ListNumber": 182,
+    "ListNumber": 185,
     "Title": "Immaculate",
     "Year": "2024",
     "ID": "938894"
   },
   {
-    "ListNumber": 183,
+    "ListNumber": 186,
     "Title": "Jackpot!",
     "Year": "2024",
     "ID": "986288"
   },
   {
-    "ListNumber": 184,
+    "ListNumber": 187,
     "Title": "Hannibal Rising",
     "Year": "2007",
     "ID": "51132"
   },
   {
-    "ListNumber": 185,
+    "ListNumber": 188,
     "Title": "Argylle",
     "Year": "2024",
     "ID": "763160"
   },
   {
-    "ListNumber": 186,
+    "ListNumber": 189,
     "Title": "Split",
     "Year": "2016",
     "ID": "316315"
   },
   {
-    "ListNumber": 187,
+    "ListNumber": 190,
     "Title": "Sleepaway Camp II: Unhappy Campers",
     "Year": "1988",
     "ID": "29228"
   },
   {
-    "ListNumber": 188,
+    "ListNumber": 191,
     "Title": "IF",
     "Year": "2024",
     "ID": "565655"
   },
   {
-    "ListNumber": 189,
+    "ListNumber": 192,
     "Title": "Howard the Duck",
     "Year": "1986",
     "ID": "46016"
   },
   {
-    "ListNumber": 190,
+    "ListNumber": 193,
     "Title": "Self Reliance",
     "Year": "2023",
     "ID": "967012"
   },
   {
-    "ListNumber": 191,
+    "ListNumber": 194,
     "Title": "Scream 3",
     "Year": "2000",
     "ID": "49453"
   },
   {
-    "ListNumber": 192,
+    "ListNumber": 195,
     "Title": "MaXXXine",
     "Year": "2024",
     "ID": "922858"
   },
   {
-    "ListNumber": 193,
+    "ListNumber": 196,
     "Title": "The Watchers",
     "Year": "2024",
     "ID": "979783"
   },
   {
-    "ListNumber": 194,
+    "ListNumber": 197,
     "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "Year": "1964",
     "ID": "51218"
   },
   {
-    "ListNumber": 195,
+    "ListNumber": 198,
     "Title": "The Wicker Man",
     "Year": "1973",
     "ID": "41662"
   },
   {
-    "ListNumber": 196,
+    "ListNumber": 199,
     "Title": "Love Lies Bleeding",
     "Year": "2024",
     "ID": "853011"
   },
   {
-    "ListNumber": 197,
+    "ListNumber": 200,
     "Title": "New Nightmare",
     "Year": "1994",
     "ID": "45154"
   },
   {
-    "ListNumber": 198,
+    "ListNumber": 201,
     "Title": "The Black Phone",
     "Year": "2021",
     "ID": "677571"
   },
   {
-    "ListNumber": 199,
+    "ListNumber": 202,
     "Title": "The Babadook",
     "Year": "2014",
     "ID": "169728"
   },
   {
-    "ListNumber": 200,
+    "ListNumber": 203,
     "Title": "The Coffee Table",
     "Year": "2022",
     "ID": "952557"
   },
   {
-    "ListNumber": 201,
+    "ListNumber": 204,
     "Title": "V/H/S/99",
     "Year": "2022",
     "ID": "905639"
   },
   {
-    "ListNumber": 202,
+    "ListNumber": 205,
     "Title": "In a Violent Nature",
     "Year": "2024",
     "ID": "1098322"
   },
   {
-    "ListNumber": 203,
+    "ListNumber": 206,
     "Title": "Cabrini",
     "Year": "2024",
     "ID": "877392"
   },
   {
-    "ListNumber": 204,
+    "ListNumber": 207,
     "Title": "Friday the 13th Part VII: The New Blood",
     "Year": "1988",
     "ID": "46374"
   },
   {
-    "ListNumber": 205,
+    "ListNumber": 208,
     "Title": "Annabelle",
     "Year": "2014",
     "ID": "174952"
   },
   {
-    "ListNumber": 206,
+    "ListNumber": 209,
     "Title": "Halloween Ends",
     "Year": "2022",
     "ID": "543596"
   },
   {
-    "ListNumber": 207,
+    "ListNumber": 210,
     "Title": "Unbreakable",
     "Year": "2000",
     "ID": "46866"
   },
   {
-    "ListNumber": 208,
+    "ListNumber": 211,
     "Title": "Night Swim",
     "Year": "2024",
     "ID": "966611"
   },
   {
-    "ListNumber": 209,
+    "ListNumber": 212,
     "Title": "Unfrosted",
     "Year": "2024",
     "ID": "758794"
   },
   {
-    "ListNumber": 210,
+    "ListNumber": 213,
     "Title": "Jason X",
     "Year": "2001",
     "ID": "45273"
   },
   {
-    "ListNumber": 211,
+    "ListNumber": 214,
     "Title": "Jason Goes to Hell: The Final Friday",
     "Year": "1993",
     "ID": "46371"
   },
   {
-    "ListNumber": 212,
+    "ListNumber": 215,
     "Title": "The Thing",
     "Year": "1982",
     "ID": "51155"
   },
   {
-    "ListNumber": 213,
+    "ListNumber": 216,
     "Title": "Terrifier",
     "Year": "2016",
     "ID": "354251"
   },
   {
-    "ListNumber": 214,
+    "ListNumber": 217,
     "Title": "Halloween III: Season of the Witch",
     "Year": "1982",
     "ID": "45999"
   },
   {
-    "ListNumber": 215,
+    "ListNumber": 218,
     "Title": "Freddy's Dead: The Final Nightmare",
     "Year": "1991",
     "ID": "45447"
   },
   {
-    "ListNumber": 216,
+    "ListNumber": 219,
     "Title": "Titane",
     "Year": "2021",
     "ID": "556553"
   },
   {
-    "ListNumber": 217,
+    "ListNumber": 220,
     "Title": "Prom Night",
     "Year": "1980",
     "ID": "27769"
   },
   {
-    "ListNumber": 218,
+    "ListNumber": 221,
     "Title": "Dead Silence",
     "Year": "2007",
     "ID": "43417"
   },
   {
-    "ListNumber": 219,
+    "ListNumber": 222,
     "Title": "Taxi Driver",
     "Year": "1976",
     "ID": "51947"
   },
   {
-    "ListNumber": 220,
+    "ListNumber": 223,
     "Title": "A Nightmare on Elm Street",
     "Year": "2010",
     "ID": "37369"
   },
   {
-    "ListNumber": 221,
+    "ListNumber": 224,
     "Title": "Spiral: From the Book of Saw",
     "Year": "2021",
     "ID": "530071"
   },
   {
-    "ListNumber": 222,
+    "ListNumber": 225,
     "Title": "Jigsaw",
     "Year": "2017",
     "ID": "225503"
   },
   {
-    "ListNumber": 223,
+    "ListNumber": 226,
     "Title": "Hatchet",
     "Year": "2006",
     "ID": "44898"
   },
   {
-    "ListNumber": 224,
+    "ListNumber": 227,
     "Title": "X",
     "Year": "2022",
     "ID": "680358"
   },
   {
-    "ListNumber": 225,
+    "ListNumber": 228,
     "Title": "The Inheritance",
     "Year": "2024",
     "ID": "737608"
   },
   {
-    "ListNumber": 226,
+    "ListNumber": 229,
     "Title": "The Dark Tower",
     "Year": "2017",
     "ID": "283725"
   },
   {
-    "ListNumber": 227,
+    "ListNumber": 230,
     "Title": "Imaginary",
     "Year": "2024",
     "ID": "1014332"
   },
   {
-    "ListNumber": 228,
+    "ListNumber": 231,
     "Title": "Drive-Away Dolls",
     "Year": "2024",
     "ID": "861250"
   },
   {
-    "ListNumber": 229,
+    "ListNumber": 232,
     "Title": "Friday the 13th: The Final Chapter",
     "Year": "1984",
     "ID": "46877"
   },
   {
-    "ListNumber": 230,
+    "ListNumber": 233,
     "Title": "A Nightmare on Elm Street: The Dream Child",
     "Year": "1989",
     "ID": "46489"
   },
   {
-    "ListNumber": 231,
+    "ListNumber": 234,
     "Title": "Funny Games",
     "Year": "1997",
     "ID": "46418"
   },
   {
-    "ListNumber": 232,
+    "ListNumber": 235,
     "Title": "Friday the 13th: A New Beginning",
     "Year": "1985",
     "ID": "46876"
   },
   {
-    "ListNumber": 233,
+    "ListNumber": 236,
     "Title": "No Way Up",
     "Year": "2024",
     "ID": "988316"
   },
   {
-    "ListNumber": 234,
+    "ListNumber": 237,
     "Title": "Friday the 13th Part III",
     "Year": "1982",
     "ID": "46879"
   },
   {
-    "ListNumber": 235,
+    "ListNumber": 238,
     "Title": "Sleepaway Camp III: Teenage Wasteland",
     "Year": "1989",
     "ID": "29227"
   },
   {
-    "ListNumber": 236,
+    "ListNumber": 239,
     "Title": "Friday the 13th Part 2",
     "Year": "1981",
     "ID": "46882"
   },
   {
-    "ListNumber": 237,
+    "ListNumber": 240,
     "Title": "Halloween 5: The Revenge of Michael Myers",
     "Year": "1989",
     "ID": "45373"
   },
   {
-    "ListNumber": 238,
+    "ListNumber": 241,
     "Title": "The Blair Witch Project",
     "Year": "1999",
     "ID": "50159"
   },
   {
-    "ListNumber": 239,
+    "ListNumber": 242,
     "Title": "Ouija",
     "Year": "2014",
     "ID": "169860"
   },
   {
-    "ListNumber": 240,
+    "ListNumber": 243,
     "Title": "Superman and the Mole-Men",
     "Year": "1951",
     "ID": "23256"
   },
   {
-    "ListNumber": 241,
+    "ListNumber": 244,
     "Title": "Halloween: The Curse of Michael Myers",
     "Year": "1995",
     "ID": "45714"
   },
   {
-    "ListNumber": 242,
+    "ListNumber": 245,
     "Title": "Return to Sleepaway Camp",
     "Year": "2008",
     "ID": "28532"
   },
   {
-    "ListNumber": 243,
+    "ListNumber": 246,
     "Title": "Friday the 13th Part VIII: Jason Takes Manhattan",
     "Year": "1989",
     "ID": "46372"
   },
   {
-    "ListNumber": 244,
+    "ListNumber": 247,
     "Title": "Friday the 13th",
     "Year": "1980",
     "ID": "49299"
   },
   {
-    "ListNumber": 245,
+    "ListNumber": 248,
     "Title": "Halloween II",
     "Year": "2009",
     "ID": "36984"
   },
   {
-    "ListNumber": 246,
+    "ListNumber": 249,
     "Title": "The Toll of the Sea",
     "Year": "1922",
     "ID": "62270"
   },
   {
-    "ListNumber": 247,
+    "ListNumber": 250,
     "Title": "The Mouse Trap",
     "Year": "2024",
     "ID": "1108615"
   },
   {
-    "ListNumber": 248,
+    "ListNumber": 251,
     "Title": "Exorcist II: The Heretic",
     "Year": "1977",
     "ID": "45164"
   },
   {
-    "ListNumber": 249,
+    "ListNumber": 252,
     "Title": "Sleepaway Camp IV: The Survivor",
     "Year": "2012",
     "ID": "58907"
