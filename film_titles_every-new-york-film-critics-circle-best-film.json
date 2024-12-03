@@ -1,0 +1,542 @@
+[
+  {
+    "ListNumber": 1,
+    "Title": "The Informer",
+    "Year": "1935",
+    "ID": "21261"
+  },
+  {
+    "ListNumber": 2,
+    "Title": "Mr. Deeds Goes to Town",
+    "Year": "1936",
+    "ID": "36498"
+  },
+  {
+    "ListNumber": 3,
+    "Title": "The Life of Emile Zola",
+    "Year": "1937",
+    "ID": "21868"
+  },
+  {
+    "ListNumber": 4,
+    "Title": "The Citadel",
+    "Year": "1938",
+    "ID": "70556"
+  },
+  {
+    "ListNumber": 5,
+    "Title": "Wuthering Heights",
+    "Year": "1939",
+    "ID": "49887"
+  },
+  {
+    "ListNumber": 6,
+    "Title": "The Grapes of Wrath",
+    "Year": "1940",
+    "ID": "51525"
+  },
+  {
+    "ListNumber": 7,
+    "Title": "Citizen Kane",
+    "Year": "1941",
+    "ID": "2702"
+  },
+  {
+    "ListNumber": 8,
+    "Title": "In Which We Serve",
+    "Year": "1942",
+    "ID": "33931"
+  },
+  {
+    "ListNumber": 9,
+    "Title": "Watch on the Rhine",
+    "Year": "1943",
+    "ID": "52777"
+  },
+  {
+    "ListNumber": 10,
+    "Title": "Going My Way",
+    "Year": "1944",
+    "ID": "40855"
+  },
+  {
+    "ListNumber": 11,
+    "Title": "The Lost Weekend",
+    "Year": "1945",
+    "ID": "33546"
+  },
+  {
+    "ListNumber": 12,
+    "Title": "The Best Years of Our Lives",
+    "Year": "1946",
+    "ID": "51265"
+  },
+  {
+    "ListNumber": 13,
+    "Title": "Gentleman's Agreement",
+    "Year": "1947",
+    "ID": "29623"
+  },
+  {
+    "ListNumber": 14,
+    "Title": "The Treasure of the Sierra Madre",
+    "Year": "1948",
+    "ID": "49881"
+  },
+  {
+    "ListNumber": 15,
+    "Title": "All the King's Men",
+    "Year": "1949",
+    "ID": "36076"
+  },
+  {
+    "ListNumber": 16,
+    "Title": "All About Eve",
+    "Year": "1950",
+    "ID": "51421"
+  },
+  {
+    "ListNumber": 17,
+    "Title": "A Streetcar Named Desire",
+    "Year": "1951",
+    "ID": "51424"
+  },
+  {
+    "ListNumber": 18,
+    "Title": "High Noon",
+    "Year": "1952",
+    "ID": "51771"
+  },
+  {
+    "ListNumber": 19,
+    "Title": "From Here to Eternity",
+    "Year": "1953",
+    "ID": "45309"
+  },
+  {
+    "ListNumber": 20,
+    "Title": "On the Waterfront",
+    "Year": "1954",
+    "ID": "51470"
+  },
+  {
+    "ListNumber": 21,
+    "Title": "Marty",
+    "Year": "1955",
+    "ID": "41988"
+  },
+  {
+    "ListNumber": 22,
+    "Title": "Around the World in Eighty Days",
+    "Year": "1956",
+    "ID": "50026"
+  },
+  {
+    "ListNumber": 23,
+    "Title": "The Bridge on the River Kwai",
+    "Year": "1957",
+    "ID": "51326"
+  },
+  {
+    "ListNumber": 24,
+    "Title": "The Defiant Ones",
+    "Year": "1958",
+    "ID": "45321"
+  },
+  {
+    "ListNumber": 25,
+    "Title": "Ben-Hur",
+    "Year": "1959",
+    "ID": "51459"
+  },
+  {
+    "ListNumber": 26,
+    "Title": "The Apartment",
+    "Year": "1960",
+    "ID": "51774"
+  },
+  {
+    "ListNumber": 27,
+    "Title": "Sons and Lovers",
+    "Year": "1960",
+    "ID": "12071"
+  },
+  {
+    "ListNumber": 28,
+    "Title": "West Side Story",
+    "Year": "1961",
+    "ID": "50826"
+  },
+  {
+    "ListNumber": 29,
+    "Title": "Tom Jones",
+    "Year": "1963",
+    "ID": "48660"
+  },
+  {
+    "ListNumber": 30,
+    "Title": "My Fair Lady",
+    "Year": "1964",
+    "ID": "45593"
+  },
+  {
+    "ListNumber": 31,
+    "Title": "Darling",
+    "Year": "1965",
+    "ID": "36998"
+  },
+  {
+    "ListNumber": 32,
+    "Title": "A Man for All Seasons",
+    "Year": "1966",
+    "ID": "51278"
+  },
+  {
+    "ListNumber": 33,
+    "Title": "In the Heat of the Night",
+    "Year": "1967",
+    "ID": "46041"
+  },
+  {
+    "ListNumber": 34,
+    "Title": "The Lion in Winter",
+    "Year": "1968",
+    "ID": "39948"
+  },
+  {
+    "ListNumber": 35,
+    "Title": "Z",
+    "Year": "1969",
+    "ID": "50133"
+  },
+  {
+    "ListNumber": 36,
+    "Title": "Five Easy Pieces",
+    "Year": "1970",
+    "ID": "35182"
+  },
+  {
+    "ListNumber": 37,
+    "Title": "A Clockwork Orange",
+    "Year": "1971",
+    "ID": "51867"
+  },
+  {
+    "ListNumber": 38,
+    "Title": "Cries and Whispers",
+    "Year": "1972",
+    "ID": "46414"
+  },
+  {
+    "ListNumber": 39,
+    "Title": "Day for Night",
+    "Year": "1973",
+    "ID": "50869"
+  },
+  {
+    "ListNumber": 40,
+    "Title": "Amarcord",
+    "Year": "1973",
+    "ID": "47973"
+  },
+  {
+    "ListNumber": 41,
+    "Title": "Nashville",
+    "Year": "1975",
+    "ID": "49852"
+  },
+  {
+    "ListNumber": 42,
+    "Title": "All the President's Men",
+    "Year": "1976",
+    "ID": "51261"
+  },
+  {
+    "ListNumber": 43,
+    "Title": "Annie Hall",
+    "Year": "1977",
+    "ID": "51423"
+  },
+  {
+    "ListNumber": 44,
+    "Title": "The Deer Hunter",
+    "Year": "1978",
+    "ID": "45017"
+  },
+  {
+    "ListNumber": 45,
+    "Title": "Kramer vs. Kramer",
+    "Year": "1979",
+    "ID": "6538"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "Ordinary People",
+    "Year": "1980",
+    "ID": "41474"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "Reds",
+    "Year": "1981",
+    "ID": "40470"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "Gandhi",
+    "Year": "1982",
+    "ID": "51369"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "Terms of Endearment",
+    "Year": "1983",
+    "ID": "45653"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "A Passage to India",
+    "Year": "1984",
+    "ID": "41981"
+  },
+  {
+    "ListNumber": 51,
+    "Title": "Prizzi's Honor",
+    "Year": "1985",
+    "ID": "50549"
+  },
+  {
+    "ListNumber": 52,
+    "Title": "Hannah and Her Sisters",
+    "Year": "1986",
+    "ID": "48940"
+  },
+  {
+    "ListNumber": 53,
+    "Title": "Broadcast News",
+    "Year": "1987",
+    "ID": "44416"
+  },
+  {
+    "ListNumber": 54,
+    "Title": "The Accidental Tourist",
+    "Year": "1988",
+    "ID": "31510"
+  },
+  {
+    "ListNumber": 55,
+    "Title": "My Left Foot: The Story of Christy Brown",
+    "Year": "1989",
+    "ID": "46488"
+  },
+  {
+    "ListNumber": 56,
+    "Title": "GoodFellas",
+    "Year": "1990",
+    "ID": "51383"
+  },
+  {
+    "ListNumber": 57,
+    "Title": "The Silence of the Lambs",
+    "Year": "1991",
+    "ID": "51782"
+  },
+  {
+    "ListNumber": 58,
+    "Title": "The Player",
+    "Year": "1992",
+    "ID": "46263"
+  },
+  {
+    "ListNumber": 59,
+    "Title": "Schindler's List",
+    "Year": "1993",
+    "ID": "51671"
+  },
+  {
+    "ListNumber": 60,
+    "Title": "Quiz Show",
+    "Year": "1994",
+    "ID": "45292"
+  },
+  {
+    "ListNumber": 61,
+    "Title": "Leaving Las Vegas",
+    "Year": "1995",
+    "ID": "51650"
+  },
+  {
+    "ListNumber": 62,
+    "Title": "Fargo",
+    "Year": "1996",
+    "ID": "51781"
+  },
+  {
+    "ListNumber": 63,
+    "Title": "L.A. Confidential",
+    "Year": "1997",
+    "ID": "50509"
+  },
+  {
+    "ListNumber": 64,
+    "Title": "Saving Private Ryan",
+    "Year": "1998",
+    "ID": "51295"
+  },
+  {
+    "ListNumber": 65,
+    "Title": "Topsy-Turvy",
+    "Year": "1999",
+    "ID": "18905"
+  },
+  {
+    "ListNumber": 66,
+    "Title": "Traffic",
+    "Year": "2000",
+    "ID": "50705"
+  },
+  {
+    "ListNumber": 67,
+    "Title": "Mulholland Drive",
+    "Year": "2001",
+    "ID": "51171"
+  },
+  {
+    "ListNumber": 68,
+    "Title": "Far from Heaven",
+    "Year": "2002",
+    "ID": "45966"
+  },
+  {
+    "ListNumber": 69,
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": "2003",
+    "ID": "51928"
+  },
+  {
+    "ListNumber": 70,
+    "Title": "Sideways",
+    "Year": "2004",
+    "ID": "46929"
+  },
+  {
+    "ListNumber": 71,
+    "Title": "Brokeback Mountain",
+    "Year": "2005",
+    "ID": "51909"
+  },
+  {
+    "ListNumber": 72,
+    "Title": "United 93",
+    "Year": "2006",
+    "ID": "46785"
+  },
+  {
+    "ListNumber": 73,
+    "Title": "No Country for Old Men",
+    "Year": "2007",
+    "ID": "48140"
+  },
+  {
+    "ListNumber": 74,
+    "Title": "Milk",
+    "Year": "2008",
+    "ID": "46510"
+  },
+  {
+    "ListNumber": 75,
+    "Title": "The Hurt Locker",
+    "Year": "2008",
+    "ID": "44741"
+  },
+  {
+    "ListNumber": 76,
+    "Title": "The Social Network",
+    "Year": "2010",
+    "ID": "26711"
+  },
+  {
+    "ListNumber": 77,
+    "Title": "The Artist",
+    "Year": "2011",
+    "ID": "61707"
+  },
+  {
+    "ListNumber": 78,
+    "Title": "Zero Dark Thirty",
+    "Year": "2012",
+    "ID": "80349"
+  },
+  {
+    "ListNumber": 79,
+    "Title": "American Hustle",
+    "Year": "2013",
+    "ID": "124379"
+  },
+  {
+    "ListNumber": 80,
+    "Title": "Boyhood",
+    "Year": "2014",
+    "ID": "71927"
+  },
+  {
+    "ListNumber": 81,
+    "Title": "Carol",
+    "Year": "2015",
+    "ID": "182142"
+  },
+  {
+    "ListNumber": 82,
+    "Title": "La La Land",
+    "Year": "2016",
+    "ID": "240344"
+  },
+  {
+    "ListNumber": 83,
+    "Title": "Lady Bird",
+    "Year": "2017",
+    "ID": "326279"
+  },
+  {
+    "ListNumber": 84,
+    "Title": "Roma",
+    "Year": "2018",
+    "ID": "359859"
+  },
+  {
+    "ListNumber": 85,
+    "Title": "The Irishman",
+    "Year": "2019",
+    "ID": "333203"
+  },
+  {
+    "ListNumber": 86,
+    "Title": "First Cow",
+    "Year": "2019",
+    "ID": "487135"
+  },
+  {
+    "ListNumber": 87,
+    "Title": "Drive My Car",
+    "Year": "2021",
+    "ID": "679291"
+  },
+  {
+    "ListNumber": 88,
+    "Title": "TÁR",
+    "Year": "2022",
+    "ID": "734096"
+  },
+  {
+    "ListNumber": 89,
+    "Title": "Killers of the Flower Moon",
+    "Year": "2023",
+    "ID": "398009"
+  },
+  {
+    "ListNumber": 90,
+    "Title": "The Brutalist",
+    "Year": "2024",
+    "ID": "478428"
+  }
+]
