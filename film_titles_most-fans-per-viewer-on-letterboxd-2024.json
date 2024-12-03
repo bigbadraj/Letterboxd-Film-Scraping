@@ -1,0 +1,602 @@
+[
+  {
+    "ListNumber": 1,
+    "Title": "Revue Starlight: The Movie",
+    "Year": "2021",
+    "ID": "571433"
+  },
+  {
+    "ListNumber": 2,
+    "Title": "All About Lily Chou-Chou",
+    "Year": "2001",
+    "ID": "41447"
+  },
+  {
+    "ListNumber": 3,
+    "Title": "Ritual",
+    "Year": "2000",
+    "ID": "25588"
+  },
+  {
+    "ListNumber": 4,
+    "Title": "Moral",
+    "Year": "1982",
+    "ID": "177613"
+  },
+  {
+    "ListNumber": 5,
+    "Title": "As I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty",
+    "Year": "2000",
+    "ID": "101559"
+  },
+  {
+    "ListNumber": 6,
+    "Title": "Love Exposure",
+    "Year": "2008",
+    "ID": "33686"
+  },
+  {
+    "ListNumber": 7,
+    "Title": "Kamikaze Girls",
+    "Year": "2004",
+    "ID": "35443"
+  },
+  {
+    "ListNumber": 8,
+    "Title": "One Million Yen Girl",
+    "Year": "2008",
+    "ID": "54236"
+  },
+  {
+    "ListNumber": 9,
+    "Title": "Kattradhu Thamizh",
+    "Year": "2007",
+    "ID": "54564"
+  },
+  {
+    "ListNumber": 10,
+    "Title": "La Haine",
+    "Year": "1995",
+    "ID": "51684"
+  },
+  {
+    "ListNumber": 11,
+    "Title": "Gintama: The Very Final",
+    "Year": "2021",
+    "ID": "654580"
+  },
+  {
+    "ListNumber": 12,
+    "Title": "Güeros",
+    "Year": "2014",
+    "ID": "179888"
+  },
+  {
+    "ListNumber": 13,
+    "Title": "Zero Day",
+    "Year": "2002",
+    "ID": "34813"
+  },
+  {
+    "ListNumber": 14,
+    "Title": "La La Land",
+    "Year": "2016",
+    "ID": "240344"
+  },
+  {
+    "ListNumber": 15,
+    "Title": "Yi Yi",
+    "Year": "2000",
+    "ID": "35988"
+  },
+  {
+    "ListNumber": 16,
+    "Title": "Nowhere",
+    "Year": "1997",
+    "ID": "50782"
+  },
+  {
+    "ListNumber": 17,
+    "Title": "Cleaners",
+    "Year": "2019",
+    "ID": "550733"
+  },
+  {
+    "ListNumber": 18,
+    "Title": "Blue Spring",
+    "Year": "2001",
+    "ID": "29874"
+  },
+  {
+    "ListNumber": 19,
+    "Title": "Paris, Texas",
+    "Year": "1984",
+    "ID": "51469"
+  },
+  {
+    "ListNumber": 20,
+    "Title": "The Man Who Sleeps",
+    "Year": "1974",
+    "ID": "84386"
+  },
+  {
+    "ListNumber": 21,
+    "Title": "Helter Skelter",
+    "Year": "2012",
+    "ID": "84642"
+  },
+  {
+    "ListNumber": 22,
+    "Title": "Portrait of a Lady on Fire",
+    "Year": "2019",
+    "ID": "460830"
+  },
+  {
+    "ListNumber": 23,
+    "Title": "Pride & Prejudice",
+    "Year": "2005",
+    "ID": "49390"
+  },
+  {
+    "ListNumber": 24,
+    "Title": "Swing Girls",
+    "Year": "2004",
+    "ID": "27776"
+  },
+  {
+    "ListNumber": 25,
+    "Title": "Vada Chennai",
+    "Year": "2018",
+    "ID": "344520"
+  },
+  {
+    "ListNumber": 26,
+    "Title": "Better Days",
+    "Year": "2019",
+    "ID": "504235"
+  },
+  {
+    "ListNumber": 27,
+    "Title": "Aftersun",
+    "Year": "2022",
+    "ID": "868558"
+  },
+  {
+    "ListNumber": 28,
+    "Title": "Central Station",
+    "Year": "1998",
+    "ID": "51458"
+  },
+  {
+    "ListNumber": 29,
+    "Title": "Neon Genesis Evangelion: The End of Evangelion",
+    "Year": "1997",
+    "ID": "40311"
+  },
+  {
+    "ListNumber": 30,
+    "Title": "The Company of Strangers",
+    "Year": "1990",
+    "ID": "97190"
+  },
+  {
+    "ListNumber": 31,
+    "Title": "Eternity and a Day",
+    "Year": "1998",
+    "ID": "36471"
+  },
+  {
+    "ListNumber": 32,
+    "Title": "Cinema Paradiso",
+    "Year": "1988",
+    "ID": "45493"
+  },
+  {
+    "ListNumber": 33,
+    "Title": "Haru",
+    "Year": "1996",
+    "ID": "185046"
+  },
+  {
+    "ListNumber": 34,
+    "Title": "In the Mood for Love",
+    "Year": "2000",
+    "ID": "51309"
+  },
+  {
+    "ListNumber": 35,
+    "Title": "Hey Ram",
+    "Year": "2000",
+    "ID": "6028"
+  },
+  {
+    "ListNumber": 36,
+    "Title": "My Sweet Orange Tree",
+    "Year": "2013",
+    "ID": "137650"
+  },
+  {
+    "ListNumber": 37,
+    "Title": "The Best of Youth",
+    "Year": "2003",
+    "ID": "45094"
+  },
+  {
+    "ListNumber": 38,
+    "Title": "Interstellar",
+    "Year": "2014",
+    "ID": "117621"
+  },
+  {
+    "ListNumber": 39,
+    "Title": "Fallen Angels",
+    "Year": "1995",
+    "ID": "45489"
+  },
+  {
+    "ListNumber": 40,
+    "Title": "Before Sunrise",
+    "Year": "1995",
+    "ID": "51974"
+  },
+  {
+    "ListNumber": 41,
+    "Title": "The Taste of Tea",
+    "Year": "2004",
+    "ID": "42459"
+  },
+  {
+    "ListNumber": 42,
+    "Title": "Athadu",
+    "Year": "2005",
+    "ID": "27249"
+  },
+  {
+    "ListNumber": 43,
+    "Title": "Virumaandi",
+    "Year": "2004",
+    "ID": "3257"
+  },
+  {
+    "ListNumber": 44,
+    "Title": "Chungking Express",
+    "Year": "1994",
+    "ID": "45602"
+  },
+  {
+    "ListNumber": 45,
+    "Title": "Sidewalls",
+    "Year": "2011",
+    "ID": "63158"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "Foreign Land",
+    "Year": "1995",
+    "ID": "8384"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "Pyaasa",
+    "Year": "1957",
+    "ID": "23947"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "A Brighter Summer Day",
+    "Year": "1991",
+    "ID": "42089"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "I Dream in Another Language",
+    "Year": "2017",
+    "ID": "285645"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "What the Day Owes the Night",
+    "Year": "2012",
+    "ID": "94258"
+  },
+  {
+    "ListNumber": 51,
+    "Title": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+    "Year": "2013",
+    "ID": "150890"
+  },
+  {
+    "ListNumber": 52,
+    "Title": "Blue",
+    "Year": "2002",
+    "ID": "81501"
+  },
+  {
+    "ListNumber": 53,
+    "Title": "Vaaranam Aayiram",
+    "Year": "2008",
+    "ID": "25968"
+  },
+  {
+    "ListNumber": 54,
+    "Title": "Talentime",
+    "Year": "2009",
+    "ID": "14647"
+  },
+  {
+    "ListNumber": 55,
+    "Title": "The Handmaiden",
+    "Year": "2016",
+    "ID": "216086"
+  },
+  {
+    "ListNumber": 56,
+    "Title": "Love Me Forever or Never",
+    "Year": "1986",
+    "ID": "61701"
+  },
+  {
+    "ListNumber": 57,
+    "Title": "Jersey",
+    "Year": "2019",
+    "ID": "520601"
+  },
+  {
+    "ListNumber": 58,
+    "Title": "It's Such a Beautiful Day",
+    "Year": "2012",
+    "ID": "420137"
+  },
+  {
+    "ListNumber": 59,
+    "Title": "Elena",
+    "Year": "2012",
+    "ID": "119670"
+  },
+  {
+    "ListNumber": 60,
+    "Title": "Dead Poets Society",
+    "Year": "1989",
+    "ID": "51846"
+  },
+  {
+    "ListNumber": 61,
+    "Title": "Stalker",
+    "Year": "1979",
+    "ID": "51062"
+  },
+  {
+    "ListNumber": 62,
+    "Title": "The Young Girls of Rochefort",
+    "Year": "1967",
+    "ID": "50258"
+  },
+  {
+    "ListNumber": 63,
+    "Title": "Barber's Tales",
+    "Year": "2013",
+    "ID": "158038"
+  },
+  {
+    "ListNumber": 64,
+    "Title": "An Elephant Sitting Still",
+    "Year": "2018",
+    "ID": "429628"
+  },
+  {
+    "ListNumber": 65,
+    "Title": "Nayakan",
+    "Year": "1987",
+    "ID": "32380"
+  },
+  {
+    "ListNumber": 66,
+    "Title": "Soulmate",
+    "Year": "2023",
+    "ID": "544638"
+  },
+  {
+    "ListNumber": 67,
+    "Title": "Your Name Engraved Herein",
+    "Year": "2020",
+    "ID": "642150"
+  },
+  {
+    "ListNumber": 68,
+    "Title": "Little Women",
+    "Year": "2019",
+    "ID": "259441"
+  },
+  {
+    "ListNumber": 69,
+    "Title": "A Bride for Rip Van Winkle",
+    "Year": "2016",
+    "ID": "317187"
+  },
+  {
+    "ListNumber": 70,
+    "Title": "Mirrored Mind",
+    "Year": "2005",
+    "ID": "66326"
+  },
+  {
+    "ListNumber": 71,
+    "Title": "Us and Them",
+    "Year": "2018",
+    "ID": "438620"
+  },
+  {
+    "ListNumber": 72,
+    "Title": "Satantango",
+    "Year": "1994",
+    "ID": "31197"
+  },
+  {
+    "ListNumber": 73,
+    "Title": "The Metamorphosis of Birds",
+    "Year": "2020",
+    "ID": "589462"
+  },
+  {
+    "ListNumber": 74,
+    "Title": "Mary Is Happy, Mary Is Happy.",
+    "Year": "2013",
+    "ID": "174762"
+  },
+  {
+    "ListNumber": 75,
+    "Title": "Sagara Sangamam",
+    "Year": "1983",
+    "ID": "32232"
+  },
+  {
+    "ListNumber": 76,
+    "Title": "The Untamed",
+    "Year": "2016",
+    "ID": "322355"
+  },
+  {
+    "ListNumber": 77,
+    "Title": "The Fall",
+    "Year": "2006",
+    "ID": "42822"
+  },
+  {
+    "ListNumber": 78,
+    "Title": "Hyphen",
+    "Year": "2023",
+    "ID": "1034400"
+  },
+  {
+    "ListNumber": 79,
+    "Title": "The Phantom of the Opera",
+    "Year": "2004",
+    "ID": "46782"
+  },
+  {
+    "ListNumber": 80,
+    "Title": "A Dog's Will",
+    "Year": "2000",
+    "ID": "24788"
+  },
+  {
+    "ListNumber": 81,
+    "Title": "Barber Westchester",
+    "Year": "2021",
+    "ID": "905841"
+  },
+  {
+    "ListNumber": 82,
+    "Title": "Monster",
+    "Year": "2023",
+    "ID": "947030"
+  },
+  {
+    "ListNumber": 83,
+    "Title": "My Suicide",
+    "Year": "2009",
+    "ID": "67887"
+  },
+  {
+    "ListNumber": 84,
+    "Title": "Funeral Parade of Roses",
+    "Year": "1969",
+    "ID": "50978"
+  },
+  {
+    "ListNumber": 85,
+    "Title": "Khaleja",
+    "Year": "2010",
+    "ID": "9131"
+  },
+  {
+    "ListNumber": 86,
+    "Title": "Everything Everywhere All at Once",
+    "Year": "2022",
+    "ID": "474474"
+  },
+  {
+    "ListNumber": 87,
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Year": "2004",
+    "ID": "2683"
+  },
+  {
+    "ListNumber": 88,
+    "Title": "We All Loved Each Other So Much",
+    "Year": "1974",
+    "ID": "22802"
+  },
+  {
+    "ListNumber": 89,
+    "Title": "Love Letter",
+    "Year": "1995",
+    "ID": "18368"
+  },
+  {
+    "ListNumber": 90,
+    "Title": "The Dream Songs",
+    "Year": "2022",
+    "ID": "875372"
+  },
+  {
+    "ListNumber": 91,
+    "Title": "Eureka",
+    "Year": "2000",
+    "ID": "26484"
+  },
+  {
+    "ListNumber": 92,
+    "Title": "Mysterious Skin",
+    "Year": "2004",
+    "ID": "45537"
+  },
+  {
+    "ListNumber": 93,
+    "Title": "Possession",
+    "Year": "1981",
+    "ID": "38374"
+  },
+  {
+    "ListNumber": 94,
+    "Title": "Kadhalum Kadanthu Pogum",
+    "Year": "2016",
+    "ID": "321901"
+  },
+  {
+    "ListNumber": 95,
+    "Title": "Gusto Kita with All My Hypothalamus",
+    "Year": "2018",
+    "ID": "453002"
+  },
+  {
+    "ListNumber": 96,
+    "Title": "Anbe Sivam",
+    "Year": "2003",
+    "ID": "34944"
+  },
+  {
+    "ListNumber": 97,
+    "Title": "August in the Water",
+    "Year": "1995",
+    "ID": "84510"
+  },
+  {
+    "ListNumber": 98,
+    "Title": "Mommy",
+    "Year": "2014",
+    "ID": "188421"
+  },
+  {
+    "ListNumber": 99,
+    "Title": "Withnail & I",
+    "Year": "1987",
+    "ID": "43884"
+  },
+  {
+    "ListNumber": 100,
+    "Title": "Mirror",
+    "Year": "1975",
+    "ID": "51064"
+  }
+]
