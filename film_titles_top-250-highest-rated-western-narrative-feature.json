@@ -1,0 +1,1502 @@
+[
+  {
+    "ListNumber": 1,
+    "Title": "The Good, the Bad and the Ugly",
+    "Year": "1966",
+    "ID": "51666"
+  },
+  {
+    "ListNumber": 2,
+    "Title": "Once Upon a Time in the West",
+    "Year": "1968",
+    "ID": "51727"
+  },
+  {
+    "ListNumber": 3,
+    "Title": "Django Unchained",
+    "Year": "2012",
+    "ID": "52516"
+  },
+  {
+    "ListNumber": 4,
+    "Title": "The Treasure of the Sierra Madre",
+    "Year": "1948",
+    "ID": "49881"
+  },
+  {
+    "ListNumber": 5,
+    "Title": "The Man Who Shot Liberty Valance",
+    "Year": "1962",
+    "ID": "45057"
+  },
+  {
+    "ListNumber": 6,
+    "Title": "The New Land",
+    "Year": "1972",
+    "ID": "22595"
+  },
+  {
+    "ListNumber": 7,
+    "Title": "For a Few Dollars More",
+    "Year": "1965",
+    "ID": "51215"
+  },
+  {
+    "ListNumber": 8,
+    "Title": "Unforgiven",
+    "Year": "1992",
+    "ID": "2685"
+  },
+  {
+    "ListNumber": 9,
+    "Title": "Rio Bravo",
+    "Year": "1959",
+    "ID": "51758"
+  },
+  {
+    "ListNumber": 10,
+    "Title": "Butch Cassidy and the Sundance Kid",
+    "Year": "1969",
+    "ID": "51482"
+  },
+  {
+    "ListNumber": 11,
+    "Title": "McCabe & Mrs. Miller",
+    "Year": "1971",
+    "ID": "33211"
+  },
+  {
+    "ListNumber": 12,
+    "Title": "The Great Silence",
+    "Year": "1968",
+    "ID": "47415"
+  },
+  {
+    "ListNumber": 13,
+    "Title": "The Ox-Bow Incident",
+    "Year": "1943",
+    "ID": "51189"
+  },
+  {
+    "ListNumber": 14,
+    "Title": "Johnny Guitar",
+    "Year": "1954",
+    "ID": "35197"
+  },
+  {
+    "ListNumber": 15,
+    "Title": "The Wild Bunch",
+    "Year": "1969",
+    "ID": "51544"
+  },
+  {
+    "ListNumber": 16,
+    "Title": "My Darling Clementine",
+    "Year": "1946",
+    "ID": "49883"
+  },
+  {
+    "ListNumber": 17,
+    "Title": "The Wind",
+    "Year": "1928",
+    "ID": "31195"
+  },
+  {
+    "ListNumber": 18,
+    "Title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "Year": "2007",
+    "ID": "49288"
+  },
+  {
+    "ListNumber": 19,
+    "Title": "Hud",
+    "Year": "1963",
+    "ID": "36548"
+  },
+  {
+    "ListNumber": 20,
+    "Title": "Red River",
+    "Year": "1948",
+    "ID": "49882"
+  },
+  {
+    "ListNumber": 21,
+    "Title": "High Noon",
+    "Year": "1952",
+    "ID": "51771"
+  },
+  {
+    "ListNumber": 22,
+    "Title": "The Big Country",
+    "Year": "1958",
+    "ID": "44534"
+  },
+  {
+    "ListNumber": 23,
+    "Title": "The Rider",
+    "Year": "2017",
+    "ID": "385389"
+  },
+  {
+    "ListNumber": 24,
+    "Title": "Stagecoach",
+    "Year": "1939",
+    "ID": "51174"
+  },
+  {
+    "ListNumber": 25,
+    "Title": "The Hateful Eight",
+    "Year": "2015",
+    "ID": "197012"
+  },
+  {
+    "ListNumber": 26,
+    "Title": "The Gunfighter",
+    "Year": "1950",
+    "ID": "41022"
+  },
+  {
+    "ListNumber": 27,
+    "Title": "A Fistful of Dollars",
+    "Year": "1964",
+    "ID": "51698"
+  },
+  {
+    "ListNumber": 28,
+    "Title": "El Infierno",
+    "Year": "2010",
+    "ID": "13264"
+  },
+  {
+    "ListNumber": 29,
+    "Title": "The Searchers",
+    "Year": "1956",
+    "ID": "49858"
+  },
+  {
+    "ListNumber": 30,
+    "Title": "By the Law",
+    "Year": "1926",
+    "ID": "98951"
+  },
+  {
+    "ListNumber": 31,
+    "Title": "The Lusty Men",
+    "Year": "1952",
+    "ID": "21778"
+  },
+  {
+    "ListNumber": 32,
+    "Title": "Hell or High Water",
+    "Year": "2016",
+    "ID": "268192"
+  },
+  {
+    "ListNumber": 33,
+    "Title": "Bad Day at Black Rock",
+    "Year": "1955",
+    "ID": "42999"
+  },
+  {
+    "ListNumber": 34,
+    "Title": "Duck, You Sucker",
+    "Year": "1971",
+    "ID": "51726"
+  },
+  {
+    "ListNumber": 35,
+    "Title": "Bacurau",
+    "Year": "2019",
+    "ID": "378601"
+  },
+  {
+    "ListNumber": 36,
+    "Title": "Stars in My Crown",
+    "Year": "1950",
+    "ID": "89139"
+  },
+  {
+    "ListNumber": 37,
+    "Title": "Dead Man",
+    "Year": "1995",
+    "ID": "51231"
+  },
+  {
+    "ListNumber": 38,
+    "Title": "3:10 to Yuma",
+    "Year": "1957",
+    "ID": "43294"
+  },
+  {
+    "ListNumber": 39,
+    "Title": "Wagon Master",
+    "Year": "1950",
+    "ID": "27112"
+  },
+  {
+    "ListNumber": 40,
+    "Title": "First Cow",
+    "Year": "2019",
+    "ID": "487135"
+  },
+  {
+    "ListNumber": 41,
+    "Title": "The Big Gundown",
+    "Year": "1967",
+    "ID": "41448"
+  },
+  {
+    "ListNumber": 42,
+    "Title": "The Revenant",
+    "Year": "2015",
+    "ID": "207224"
+  },
+  {
+    "ListNumber": 43,
+    "Title": "Giant",
+    "Year": "1956",
+    "ID": "50839"
+  },
+  {
+    "ListNumber": 44,
+    "Title": "Dances with Wolves",
+    "Year": "1990",
+    "ID": "51539"
+  },
+  {
+    "ListNumber": 45,
+    "Title": "Lonely are the Brave",
+    "Year": "1962",
+    "ID": "22120"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "Pat Garrett & Billy the Kid",
+    "Year": "1973",
+    "ID": "45171"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "Tombstone",
+    "Year": "1993",
+    "ID": "44839"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "The Outlaw Josey Wales",
+    "Year": "1976",
+    "ID": "45935"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "My Son, the Hero",
+    "Year": "1961",
+    "ID": "92746"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "Westward the Women",
+    "Year": "1951",
+    "ID": "82708"
+  },
+  {
+    "ListNumber": 51,
+    "Title": "Canyon Passage",
+    "Year": "1946",
+    "ID": "27128"
+  },
+  {
+    "ListNumber": 52,
+    "Title": "3 Bad Men",
+    "Year": "1926",
+    "ID": "30228"
+  },
+  {
+    "ListNumber": 53,
+    "Title": "Winchester '73",
+    "Year": "1950",
+    "ID": "43002"
+  },
+  {
+    "ListNumber": 54,
+    "Title": "Sertânia",
+    "Year": "2019",
+    "ID": "522126"
+  },
+  {
+    "ListNumber": 55,
+    "Title": "Wind River",
+    "Year": "2017",
+    "ID": "330220"
+  },
+  {
+    "ListNumber": 56,
+    "Title": "Day of the Outlaw",
+    "Year": "1959",
+    "ID": "27002"
+  },
+  {
+    "ListNumber": 57,
+    "Title": "Fort Apache",
+    "Year": "1948",
+    "ID": "27094"
+  },
+  {
+    "ListNumber": 58,
+    "Title": "Blazing Saddles",
+    "Year": "1974",
+    "ID": "45631"
+  },
+  {
+    "ListNumber": 59,
+    "Title": "Antonio das Mortes",
+    "Year": "1969",
+    "ID": "61965"
+  },
+  {
+    "ListNumber": 60,
+    "Title": "True Grit",
+    "Year": "2010",
+    "ID": "20908"
+  },
+  {
+    "ListNumber": 61,
+    "Title": "Jeremiah Johnson",
+    "Year": "1972",
+    "ID": "44865"
+  },
+  {
+    "ListNumber": 62,
+    "Title": "The Magnificent Seven",
+    "Year": "1960",
+    "ID": "51197"
+  },
+  {
+    "ListNumber": 63,
+    "Title": "Dry Summer",
+    "Year": "1963",
+    "ID": "7432"
+  },
+  {
+    "ListNumber": 64,
+    "Title": "Time to Die",
+    "Year": "1966",
+    "ID": "172570"
+  },
+  {
+    "ListNumber": 65,
+    "Title": "Spirit: Stallion of the Cimarron",
+    "Year": "2002",
+    "ID": "47420"
+  },
+  {
+    "ListNumber": 66,
+    "Title": "Destry Rides Again",
+    "Year": "1939",
+    "ID": "21329"
+  },
+  {
+    "ListNumber": 67,
+    "Title": "Django",
+    "Year": "1966",
+    "ID": "45911"
+  },
+  {
+    "ListNumber": 68,
+    "Title": "The Tall T",
+    "Year": "1957",
+    "ID": "21893"
+  },
+  {
+    "ListNumber": 69,
+    "Title": "7 Men from Now",
+    "Year": "1956",
+    "ID": "35273"
+  },
+  {
+    "ListNumber": 70,
+    "Title": "Deadwood: The Movie",
+    "Year": "2019",
+    "ID": "467422"
+  },
+  {
+    "ListNumber": 71,
+    "Title": "Black God, White Devil",
+    "Year": "1964",
+    "ID": "53574"
+  },
+  {
+    "ListNumber": 72,
+    "Title": "The Man from Laramie",
+    "Year": "1955",
+    "ID": "40465"
+  },
+  {
+    "ListNumber": 73,
+    "Title": "The Proposition",
+    "Year": "2005",
+    "ID": "41482"
+  },
+  {
+    "ListNumber": 74,
+    "Title": "El Topo",
+    "Year": "1970",
+    "ID": "44199"
+  },
+  {
+    "ListNumber": 75,
+    "Title": "Walker",
+    "Year": "1987",
+    "ID": "33661"
+  },
+  {
+    "ListNumber": 76,
+    "Title": "Colorado Territory",
+    "Year": "1949",
+    "ID": "33631"
+  },
+  {
+    "ListNumber": 77,
+    "Title": "Man of the West",
+    "Year": "1958",
+    "ID": "42900"
+  },
+  {
+    "ListNumber": 78,
+    "Title": "The Naked Spur",
+    "Year": "1953",
+    "ID": "39007"
+  },
+  {
+    "ListNumber": 79,
+    "Title": "Sergeant Rutledge",
+    "Year": "1960",
+    "ID": "22082"
+  },
+  {
+    "ListNumber": 80,
+    "Title": "3:10 to Yuma",
+    "Year": "2007",
+    "ID": "48918"
+  },
+  {
+    "ListNumber": 81,
+    "Title": "The Trail to Oregon!",
+    "Year": "2015",
+    "ID": "258716"
+  },
+  {
+    "ListNumber": 82,
+    "Title": "Heaven's Gate",
+    "Year": "1980",
+    "ID": "45758"
+  },
+  {
+    "ListNumber": 83,
+    "Title": "El Dorado",
+    "Year": "1966",
+    "ID": "48216"
+  },
+  {
+    "ListNumber": 84,
+    "Title": "The Ballad of Gregorio Cortez",
+    "Year": "1982",
+    "ID": "154724"
+  },
+  {
+    "ListNumber": 85,
+    "Title": "Way Out West",
+    "Year": "1937",
+    "ID": "35938"
+  },
+  {
+    "ListNumber": 86,
+    "Title": "Yellow Sky",
+    "Year": "1948",
+    "ID": "38882"
+  },
+  {
+    "ListNumber": 87,
+    "Title": "Lemonade Joe",
+    "Year": "1964",
+    "ID": "38887"
+  },
+  {
+    "ListNumber": 88,
+    "Title": "A Bullet for the General",
+    "Year": "1967",
+    "ID": "27121"
+  },
+  {
+    "ListNumber": 89,
+    "Title": "Clearcut",
+    "Year": "1991",
+    "ID": "92419"
+  },
+  {
+    "ListNumber": 90,
+    "Title": "Ride the High Country",
+    "Year": "1962",
+    "ID": "28096"
+  },
+  {
+    "ListNumber": 91,
+    "Title": "Shane",
+    "Year": "1953",
+    "ID": "49862"
+  },
+  {
+    "ListNumber": 92,
+    "Title": "High Plains Drifter",
+    "Year": "1973",
+    "ID": "44905"
+  },
+  {
+    "ListNumber": 93,
+    "Title": "Face to Face",
+    "Year": "1967",
+    "ID": "20019"
+  },
+  {
+    "ListNumber": 94,
+    "Title": "No Name on the Bullet",
+    "Year": "1959",
+    "ID": "13864"
+  },
+  {
+    "ListNumber": 95,
+    "Title": "The Nightingale",
+    "Year": "2018",
+    "ID": "334305"
+  },
+  {
+    "ListNumber": 96,
+    "Title": "Pursued",
+    "Year": "1947",
+    "ID": "35073"
+  },
+  {
+    "ListNumber": 97,
+    "Title": "Ride Lonesome",
+    "Year": "1959",
+    "ID": "34334"
+  },
+  {
+    "ListNumber": 98,
+    "Title": "The Good, the Bad, the Weird",
+    "Year": "2008",
+    "ID": "42623"
+  },
+  {
+    "ListNumber": 99,
+    "Title": "The Hired Hand",
+    "Year": "1971",
+    "ID": "22561"
+  },
+  {
+    "ListNumber": 100,
+    "Title": "The Three Burials of Melquiades Estrada",
+    "Year": "2005",
+    "ID": "47912"
+  },
+  {
+    "ListNumber": 101,
+    "Title": "The Furies",
+    "Year": "1950",
+    "ID": "55838"
+  },
+  {
+    "ListNumber": 102,
+    "Title": "The Ballad of Cable Hogue",
+    "Year": "1970",
+    "ID": "37428"
+  },
+  {
+    "ListNumber": 103,
+    "Title": "Meek's Cutoff",
+    "Year": "2010",
+    "ID": "9019"
+  },
+  {
+    "ListNumber": 104,
+    "Title": "Calamity",
+    "Year": "2020",
+    "ID": "515040"
+  },
+  {
+    "ListNumber": 105,
+    "Title": "Last Train from Gun Hill",
+    "Year": "1959",
+    "ID": "42897"
+  },
+  {
+    "ListNumber": 106,
+    "Title": "The Misfits",
+    "Year": "1961",
+    "ID": "45212"
+  },
+  {
+    "ListNumber": 107,
+    "Title": "Marlina the Murderer in Four Acts",
+    "Year": "2017",
+    "ID": "385391"
+  },
+  {
+    "ListNumber": 108,
+    "Title": "The Hanging Tree",
+    "Year": "1959",
+    "ID": "22114"
+  },
+  {
+    "ListNumber": 109,
+    "Title": "The Grey Fox",
+    "Year": "1982",
+    "ID": "22930"
+  },
+  {
+    "ListNumber": 110,
+    "Title": "Compañeros",
+    "Year": "1970",
+    "ID": "5622"
+  },
+  {
+    "ListNumber": 111,
+    "Title": "Open Range",
+    "Year": "2003",
+    "ID": "50565"
+  },
+  {
+    "ListNumber": 112,
+    "Title": "The Tin Star",
+    "Year": "1957",
+    "ID": "32315"
+  },
+  {
+    "ListNumber": 113,
+    "Title": "Forty Guns",
+    "Year": "1957",
+    "ID": "42778"
+  },
+  {
+    "ListNumber": 114,
+    "Title": "The Shootist",
+    "Year": "1976",
+    "ID": "44455"
+  },
+  {
+    "ListNumber": 115,
+    "Title": "The Mercenary",
+    "Year": "1968",
+    "ID": "17346"
+  },
+  {
+    "ListNumber": 116,
+    "Title": "Rango",
+    "Year": "2011",
+    "ID": "20307"
+  },
+  {
+    "ListNumber": 117,
+    "Title": "Keoma",
+    "Year": "1976",
+    "ID": "48237"
+  },
+  {
+    "ListNumber": 118,
+    "Title": "Hatfields & McCoys",
+    "Year": "2012",
+    "ID": "349902"
+  },
+  {
+    "ListNumber": 119,
+    "Title": "One-Eyed Jacks",
+    "Year": "1961",
+    "ID": "40191"
+  },
+  {
+    "ListNumber": 120,
+    "Title": "The Professionals",
+    "Year": "1966",
+    "ID": "37926"
+  },
+  {
+    "ListNumber": 121,
+    "Title": "The Power of the Dog",
+    "Year": "2021",
+    "ID": "527841"
+  },
+  {
+    "ListNumber": 122,
+    "Title": "Bend of the River",
+    "Year": "1952",
+    "ID": "25882"
+  },
+  {
+    "ListNumber": 123,
+    "Title": "Unforgiven",
+    "Year": "2013",
+    "ID": "108101"
+  },
+  {
+    "ListNumber": 124,
+    "Title": "Hombre",
+    "Year": "1967",
+    "ID": "34061"
+  },
+  {
+    "ListNumber": 125,
+    "Title": "Little Big Man",
+    "Year": "1970",
+    "ID": "45663"
+  },
+  {
+    "ListNumber": 126,
+    "Title": "The Iron Horse",
+    "Year": "1924",
+    "ID": "58400"
+  },
+  {
+    "ListNumber": 127,
+    "Title": "Ulzana's Raid",
+    "Year": "1972",
+    "ID": "22592"
+  },
+  {
+    "ListNumber": 128,
+    "Title": "Bone Tomahawk",
+    "Year": "2015",
+    "ID": "222298"
+  },
+  {
+    "ListNumber": 129,
+    "Title": "The Ballad of Buster Scruggs",
+    "Year": "2018",
+    "ID": "467061"
+  },
+  {
+    "ListNumber": 130,
+    "Title": "Silver Lode",
+    "Year": "1954",
+    "ID": "34518"
+  },
+  {
+    "ListNumber": 131,
+    "Title": "Way of a Gaucho",
+    "Year": "1952",
+    "ID": "101934"
+  },
+  {
+    "ListNumber": 132,
+    "Title": "True Grit",
+    "Year": "1969",
+    "ID": "40951"
+  },
+  {
+    "ListNumber": 133,
+    "Title": "Comanche Station",
+    "Year": "1960",
+    "ID": "50870"
+  },
+  {
+    "ListNumber": 134,
+    "Title": "My Name Is Nobody",
+    "Year": "1973",
+    "ID": "47124"
+  },
+  {
+    "ListNumber": 135,
+    "Title": "Death Rides a Horse",
+    "Year": "1967",
+    "ID": "16205"
+  },
+  {
+    "ListNumber": 136,
+    "Title": "Wichita",
+    "Year": "1955",
+    "ID": "91406"
+  },
+  {
+    "ListNumber": 137,
+    "Title": "Ravenous",
+    "Year": "1999",
+    "ID": "46439"
+  },
+  {
+    "ListNumber": 138,
+    "Title": "Gunman's Walk",
+    "Year": "1958",
+    "ID": "22227"
+  },
+  {
+    "ListNumber": 139,
+    "Title": "Jubal",
+    "Year": "1956",
+    "ID": "21886"
+  },
+  {
+    "ListNumber": 140,
+    "Title": "Devil's Doorway",
+    "Year": "1950",
+    "ID": "29037"
+  },
+  {
+    "ListNumber": 141,
+    "Title": "Old Henry",
+    "Year": "2021",
+    "ID": "704230"
+  },
+  {
+    "ListNumber": 142,
+    "Title": "The Big Trail",
+    "Year": "1930",
+    "ID": "22446"
+  },
+  {
+    "ListNumber": 143,
+    "Title": "Jauja",
+    "Year": "2014",
+    "ID": "189268"
+  },
+  {
+    "ListNumber": 144,
+    "Title": "Go West",
+    "Year": "1925",
+    "ID": "30086"
+  },
+  {
+    "ListNumber": 145,
+    "Title": "The Settlers",
+    "Year": "2023",
+    "ID": "891253"
+  },
+  {
+    "ListNumber": 146,
+    "Title": "Rawhide",
+    "Year": "1951",
+    "ID": "21768"
+  },
+  {
+    "ListNumber": 147,
+    "Title": "Day of Anger",
+    "Year": "1967",
+    "ID": "9710"
+  },
+  {
+    "ListNumber": 148,
+    "Title": "The Far Country",
+    "Year": "1954",
+    "ID": "40141"
+  },
+  {
+    "ListNumber": 149,
+    "Title": "The Bravados",
+    "Year": "1958",
+    "ID": "5138"
+  },
+  {
+    "ListNumber": 150,
+    "Title": "Juan Moreira",
+    "Year": "1973",
+    "ID": "99485"
+  },
+  {
+    "ListNumber": 151,
+    "Title": "Sweet Country",
+    "Year": "2017",
+    "ID": "399740"
+  },
+  {
+    "ListNumber": 152,
+    "Title": "The Cowboys",
+    "Year": "1972",
+    "ID": "42270"
+  },
+  {
+    "ListNumber": 153,
+    "Title": "Bad Company",
+    "Year": "1972",
+    "ID": "31045"
+  },
+  {
+    "ListNumber": 154,
+    "Title": "Buck and the Preacher",
+    "Year": "1972",
+    "ID": "34929"
+  },
+  {
+    "ListNumber": 155,
+    "Title": "Pale Rider",
+    "Year": "1985",
+    "ID": "47545"
+  },
+  {
+    "ListNumber": 156,
+    "Title": "Revenge of the Snakes",
+    "Year": "1962",
+    "ID": "193648"
+  },
+  {
+    "ListNumber": 157,
+    "Title": "Tears of the Black Tiger",
+    "Year": "2000",
+    "ID": "50074"
+  },
+  {
+    "ListNumber": 158,
+    "Title": "Great Day in the Morning",
+    "Year": "1956",
+    "ID": "78206"
+  },
+  {
+    "ListNumber": 159,
+    "Title": "Vera Cruz",
+    "Year": "1954",
+    "ID": "44315"
+  },
+  {
+    "ListNumber": 160,
+    "Title": "She Wore a Yellow Ribbon",
+    "Year": "1949",
+    "ID": "43500"
+  },
+  {
+    "ListNumber": 161,
+    "Title": "China 9, Liberty 37",
+    "Year": "1978",
+    "ID": "37919"
+  },
+  {
+    "ListNumber": 162,
+    "Title": "Slow West",
+    "Year": "2015",
+    "ID": "157807"
+  },
+  {
+    "ListNumber": 163,
+    "Title": "Warlock",
+    "Year": "1959",
+    "ID": "27059"
+  },
+  {
+    "ListNumber": 164,
+    "Title": "A Man from the Boulevard des Capucines",
+    "Year": "1987",
+    "ID": "20003"
+  },
+  {
+    "ListNumber": 165,
+    "Title": "Terror in a Texas Town",
+    "Year": "1958",
+    "ID": "18683"
+  },
+  {
+    "ListNumber": 166,
+    "Title": "The Westerner",
+    "Year": "1940",
+    "ID": "42875"
+  },
+  {
+    "ListNumber": 167,
+    "Title": "They Call Me Trinity",
+    "Year": "1970",
+    "ID": "47202"
+  },
+  {
+    "ListNumber": 168,
+    "Title": "Broken Trail",
+    "Year": "2006",
+    "ID": "336748"
+  },
+  {
+    "ListNumber": 169,
+    "Title": "Cemetery Without Crosses",
+    "Year": "1969",
+    "ID": "39060"
+  },
+  {
+    "ListNumber": 170,
+    "Title": "They Died with Their Boots On",
+    "Year": "1941",
+    "ID": "41034"
+  },
+  {
+    "ListNumber": 171,
+    "Title": "Rancho Notorious",
+    "Year": "1952",
+    "ID": "33288"
+  },
+  {
+    "ListNumber": 172,
+    "Title": "3 Godfathers",
+    "Year": "1948",
+    "ID": "33020"
+  },
+  {
+    "ListNumber": 173,
+    "Title": "The Sisters Brothers",
+    "Year": "2018",
+    "ID": "372740"
+  },
+  {
+    "ListNumber": 174,
+    "Title": "The Last Wagon",
+    "Year": "1956",
+    "ID": "20285"
+  },
+  {
+    "ListNumber": 175,
+    "Title": "The Bandit",
+    "Year": "1953",
+    "ID": "53571"
+  },
+  {
+    "ListNumber": 176,
+    "Title": "Yahşi Batı",
+    "Year": "2009",
+    "ID": "31823"
+  },
+  {
+    "ListNumber": 177,
+    "Title": "Run for Cover",
+    "Year": "1955",
+    "ID": "72338"
+  },
+  {
+    "ListNumber": 178,
+    "Title": "The Shooting",
+    "Year": "1966",
+    "ID": "22389"
+  },
+  {
+    "ListNumber": 179,
+    "Title": "Cremaster 2",
+    "Year": "1999",
+    "ID": "37120"
+  },
+  {
+    "ListNumber": 180,
+    "Title": "Hostiles",
+    "Year": "2017",
+    "ID": "319553"
+  },
+  {
+    "ListNumber": 181,
+    "Title": "Jesse James",
+    "Year": "1939",
+    "ID": "21328"
+  },
+  {
+    "ListNumber": 182,
+    "Title": "A Big Hand for the Little Lady",
+    "Year": "1966",
+    "ID": "27136"
+  },
+  {
+    "ListNumber": 183,
+    "Title": "Run of the Arrow",
+    "Year": "1957",
+    "ID": "28825"
+  },
+  {
+    "ListNumber": 184,
+    "Title": "Two Rode Together",
+    "Year": "1961",
+    "ID": "30284"
+  },
+  {
+    "ListNumber": 185,
+    "Title": "The Big Sky",
+    "Year": "1952",
+    "ID": "21781"
+  },
+  {
+    "ListNumber": 186,
+    "Title": "The Harder They Fall",
+    "Year": "2021",
+    "ID": "544936"
+  },
+  {
+    "ListNumber": 187,
+    "Title": "Monte Walsh",
+    "Year": "1970",
+    "ID": "58227"
+  },
+  {
+    "ListNumber": 188,
+    "Title": "Buchanan Rides Alone",
+    "Year": "1958",
+    "ID": "22009"
+  },
+  {
+    "ListNumber": 189,
+    "Title": "The Pilgrim",
+    "Year": "1923",
+    "ID": "12525"
+  },
+  {
+    "ListNumber": 190,
+    "Title": "Oklahoma!",
+    "Year": "1999",
+    "ID": "34822"
+  },
+  {
+    "ListNumber": 191,
+    "Title": "And God Said to Cain",
+    "Year": "1970",
+    "ID": "63589"
+  },
+  {
+    "ListNumber": 192,
+    "Title": "Two Mules for Sister Sara",
+    "Year": "1970",
+    "ID": "44890"
+  },
+  {
+    "ListNumber": 193,
+    "Title": "Gunfight at the O.K. Corral",
+    "Year": "1957",
+    "ID": "38015"
+  },
+  {
+    "ListNumber": 194,
+    "Title": "Shenandoah",
+    "Year": "1965",
+    "ID": "38645"
+  },
+  {
+    "ListNumber": 195,
+    "Title": "Lucky Luke: The Ballad of the Daltons",
+    "Year": "1978",
+    "ID": "15481"
+  },
+  {
+    "ListNumber": 196,
+    "Title": "Support Your Local Sheriff!",
+    "Year": "1969",
+    "ID": "45174"
+  },
+  {
+    "ListNumber": 197,
+    "Title": "Decision at Sundown",
+    "Year": "1957",
+    "ID": "25144"
+  },
+  {
+    "ListNumber": 198,
+    "Title": "Let the Corpses Tan",
+    "Year": "2017",
+    "ID": "356292"
+  },
+  {
+    "ListNumber": 199,
+    "Title": "Legends of the Fall",
+    "Year": "1994",
+    "ID": "49311"
+  },
+  {
+    "ListNumber": 200,
+    "Title": "Trinity Is Still My Name",
+    "Year": "1971",
+    "ID": "44971"
+  },
+  {
+    "ListNumber": 201,
+    "Title": "Silverado",
+    "Year": "1985",
+    "ID": "45239"
+  },
+  {
+    "ListNumber": 202,
+    "Title": "The Sons of Katie Elder",
+    "Year": "1965",
+    "ID": "41741"
+  },
+  {
+    "ListNumber": 203,
+    "Title": "Viva Zapata!",
+    "Year": "1952",
+    "ID": "50783"
+  },
+  {
+    "ListNumber": 204,
+    "Title": "Junior Bonner",
+    "Year": "1972",
+    "ID": "48560"
+  },
+  {
+    "ListNumber": 205,
+    "Title": "Man Without a Star",
+    "Year": "1955",
+    "ID": "21829"
+  },
+  {
+    "ListNumber": 206,
+    "Title": "Dodge City",
+    "Year": "1939",
+    "ID": "40856"
+  },
+  {
+    "ListNumber": 207,
+    "Title": "Run, Man, Run",
+    "Year": "1968",
+    "ID": "39990"
+  },
+  {
+    "ListNumber": 208,
+    "Title": "The Hellbenders",
+    "Year": "1967",
+    "ID": "76037"
+  },
+  {
+    "ListNumber": 209,
+    "Title": "The Life and Times of Judge Roy Bean",
+    "Year": "1972",
+    "ID": "29640"
+  },
+  {
+    "ListNumber": 210,
+    "Title": "I Shot Jesse James",
+    "Year": "1949",
+    "ID": "23943"
+  },
+  {
+    "ListNumber": 211,
+    "Title": "Treasure of Silver Lake",
+    "Year": "1962",
+    "ID": "48758"
+  },
+  {
+    "ListNumber": 212,
+    "Title": "Blood on the Moon",
+    "Year": "1948",
+    "ID": "32384"
+  },
+  {
+    "ListNumber": 213,
+    "Title": "Bandidos",
+    "Year": "1967",
+    "ID": "75765"
+  },
+  {
+    "ListNumber": 214,
+    "Title": "The Horse Soldiers",
+    "Year": "1959",
+    "ID": "40853"
+  },
+  {
+    "ListNumber": 215,
+    "Title": "The Long Riders",
+    "Year": "1980",
+    "ID": "42860"
+  },
+  {
+    "ListNumber": 216,
+    "Title": "Rio Grande",
+    "Year": "1950",
+    "ID": "45134"
+  },
+  {
+    "ListNumber": 217,
+    "Title": "Westworld",
+    "Year": "1973",
+    "ID": "50306"
+  },
+  {
+    "ListNumber": 218,
+    "Title": "The Man from Snowy River",
+    "Year": "1982",
+    "ID": "36897"
+  },
+  {
+    "ListNumber": 219,
+    "Title": "How the West Was Won",
+    "Year": "1962",
+    "ID": "44909"
+  },
+  {
+    "ListNumber": 220,
+    "Title": "The Return of Ringo",
+    "Year": "1965",
+    "ID": "3568"
+  },
+  {
+    "ListNumber": 221,
+    "Title": "The Mark of Zorro",
+    "Year": "1920",
+    "ID": "22431"
+  },
+  {
+    "ListNumber": 222,
+    "Title": "The Electric Horseman",
+    "Year": "1979",
+    "ID": "45561"
+  },
+  {
+    "ListNumber": 223,
+    "Title": "Soldier Blue",
+    "Year": "1970",
+    "ID": "43136"
+  },
+  {
+    "ListNumber": 224,
+    "Title": "Ride in the Whirlwind",
+    "Year": "1966",
+    "ID": "6048"
+  },
+  {
+    "ListNumber": 225,
+    "Title": "The Legend of Kaspar Hauser",
+    "Year": "2012",
+    "ID": "97370"
+  },
+  {
+    "ListNumber": 226,
+    "Title": "Calamity Jane",
+    "Year": "1953",
+    "ID": "43335"
+  },
+  {
+    "ListNumber": 227,
+    "Title": "Will Penny",
+    "Year": "1967",
+    "ID": "50868"
+  },
+  {
+    "ListNumber": 228,
+    "Title": "Avane Srimannarayana",
+    "Year": "2019",
+    "ID": "560099"
+  },
+  {
+    "ListNumber": 229,
+    "Title": "There Was a Crooked Man...",
+    "Year": "1970",
+    "ID": "34752"
+  },
+  {
+    "ListNumber": 230,
+    "Title": "The Last Sunset",
+    "Year": "1961",
+    "ID": "18608"
+  },
+  {
+    "ListNumber": 231,
+    "Title": "Cut-Throats Nine",
+    "Year": "1972",
+    "ID": "32810"
+  },
+  {
+    "ListNumber": 232,
+    "Title": "Deadlock",
+    "Year": "1970",
+    "ID": "66279"
+  },
+  {
+    "ListNumber": 233,
+    "Title": "Broken Arrow",
+    "Year": "1950",
+    "ID": "27145"
+  },
+  {
+    "ListNumber": 234,
+    "Title": "Seven Brides for Seven Brothers",
+    "Year": "1954",
+    "ID": "41494"
+  },
+  {
+    "ListNumber": 235,
+    "Title": "Into the West",
+    "Year": "1992",
+    "ID": "29944"
+  },
+  {
+    "ListNumber": 236,
+    "Title": "Hell's Hinges",
+    "Year": "1916",
+    "ID": "71179"
+  },
+  {
+    "ListNumber": 237,
+    "Title": "Sabata",
+    "Year": "1969",
+    "ID": "13002"
+  },
+  {
+    "ListNumber": 238,
+    "Title": "The Quick and the Dead",
+    "Year": "1995",
+    "ID": "44795"
+  },
+  {
+    "ListNumber": 239,
+    "Title": "Ramrod",
+    "Year": "1947",
+    "ID": "6061"
+  },
+  {
+    "ListNumber": 240,
+    "Title": "Forced to Kill",
+    "Year": "2004",
+    "ID": "321863"
+  },
+  {
+    "ListNumber": 241,
+    "Title": "Texas - Doc Snyder hält die Welt in Atem",
+    "Year": "1993",
+    "ID": "50883"
+  },
+  {
+    "ListNumber": 242,
+    "Title": "Kill and Pray",
+    "Year": "1967",
+    "ID": "96455"
+  },
+  {
+    "ListNumber": 243,
+    "Title": "Union Pacific",
+    "Year": "1939",
+    "ID": "21320"
+  },
+  {
+    "ListNumber": 244,
+    "Title": "The Baron of Arizona",
+    "Year": "1950",
+    "ID": "27110"
+  },
+  {
+    "ListNumber": 245,
+    "Title": "The Violent Men",
+    "Year": "1955",
+    "ID": "5972"
+  },
+  {
+    "ListNumber": 246,
+    "Title": "The World to Come",
+    "Year": "2020",
+    "ID": "436100"
+  },
+  {
+    "ListNumber": 247,
+    "Title": "Four of the Apocalypse",
+    "Year": "1975",
+    "ID": "16706"
+  },
+  {
+    "ListNumber": 248,
+    "Title": "The Specialists",
+    "Year": "1969",
+    "ID": "48005"
+  },
+  {
+    "ListNumber": 249,
+    "Title": "Cheyenne Autumn",
+    "Year": "1964",
+    "ID": "24336"
+  },
+  {
+    "ListNumber": 250,
+    "Title": "Frontier Marshal",
+    "Year": "1939",
+    "ID": "115578"
+  }
+]
