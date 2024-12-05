@@ -1,0 +1,1502 @@
+[
+  {
+    "ListNumber": 1,
+    "Title": "Harakiri",
+    "Year": "1962",
+    "ID": "43015"
+  },
+  {
+    "ListNumber": 2,
+    "Title": "The Human Condition III: A Soldier's Prayer",
+    "Year": "1961",
+    "ID": "29108"
+  },
+  {
+    "ListNumber": 3,
+    "Title": "Schindler's List",
+    "Year": "1993",
+    "ID": "51671"
+  },
+  {
+    "ListNumber": 4,
+    "Title": "The Human Condition I: No Greater Love",
+    "Year": "1959",
+    "ID": "31363"
+  },
+  {
+    "ListNumber": 5,
+    "Title": "Ran",
+    "Year": "1985",
+    "ID": "45108"
+  },
+  {
+    "ListNumber": 6,
+    "Title": "Paths of Glory",
+    "Year": "1957",
+    "ID": "51194"
+  },
+  {
+    "ListNumber": 7,
+    "Title": "Andrei Rublev",
+    "Year": "1966",
+    "ID": "51257"
+  },
+  {
+    "ListNumber": 8,
+    "Title": "The Passion of Joan of Arc",
+    "Year": "1928",
+    "ID": "51372"
+  },
+  {
+    "ListNumber": 9,
+    "Title": "Portrait of a Lady on Fire",
+    "Year": "2019",
+    "ID": "460830"
+  },
+  {
+    "ListNumber": 10,
+    "Title": "The Human Condition II: Road to Eternity",
+    "Year": "1959",
+    "ID": "29110"
+  },
+  {
+    "ListNumber": 11,
+    "Title": "The Battle of Algiers",
+    "Year": "1966",
+    "ID": "41081"
+  },
+  {
+    "ListNumber": 12,
+    "Title": "Barry Lyndon",
+    "Year": "1975",
+    "ID": "49811"
+  },
+  {
+    "ListNumber": 13,
+    "Title": "Lawrence of Arabia",
+    "Year": "1962",
+    "ID": "60299"
+  },
+  {
+    "ListNumber": 14,
+    "Title": "I’m Still Here",
+    "Year": "2024",
+    "ID": "901671"
+  },
+  {
+    "ListNumber": 15,
+    "Title": "Army of Shadows",
+    "Year": "1969",
+    "ID": "42416"
+  },
+  {
+    "ListNumber": 16,
+    "Title": "Mirror",
+    "Year": "1975",
+    "ID": "51064"
+  },
+  {
+    "ListNumber": 17,
+    "Title": "Amadeus",
+    "Year": "1984",
+    "ID": "51777"
+  },
+  {
+    "ListNumber": 18,
+    "Title": "War and Peace",
+    "Year": "1967",
+    "ID": "33006"
+  },
+  {
+    "ListNumber": 19,
+    "Title": "Death of Yazdgerd",
+    "Year": "1982",
+    "ID": "189483"
+  },
+  {
+    "ListNumber": 20,
+    "Title": "Das Boot",
+    "Year": "1981",
+    "ID": "51702"
+  },
+  {
+    "ListNumber": 21,
+    "Title": "The Best of Youth",
+    "Year": "2003",
+    "ID": "45094"
+  },
+  {
+    "ListNumber": 22,
+    "Title": "La Commune (Paris, 1871)",
+    "Year": "2000",
+    "ID": "3632"
+  },
+  {
+    "ListNumber": 23,
+    "Title": "The Weeping Meadow",
+    "Year": "2004",
+    "ID": "26569"
+  },
+  {
+    "ListNumber": 24,
+    "Title": "Judgment at Nuremberg",
+    "Year": "1961",
+    "ID": "51331"
+  },
+  {
+    "ListNumber": 25,
+    "Title": "Edvard Munch",
+    "Year": "1974",
+    "ID": "15398"
+  },
+  {
+    "ListNumber": 26,
+    "Title": "Throne of Blood",
+    "Year": "1957",
+    "ID": "49597"
+  },
+  {
+    "ListNumber": 27,
+    "Title": "War and Peace, Part III: The Year 1812",
+    "Year": "1967",
+    "ID": "112709"
+  },
+  {
+    "ListNumber": 28,
+    "Title": "Samurai Rebellion",
+    "Year": "1967",
+    "ID": "55888"
+  },
+  {
+    "ListNumber": 29,
+    "Title": "The Elephant Man",
+    "Year": "1980",
+    "ID": "50653"
+  },
+  {
+    "ListNumber": 30,
+    "Title": "Saving Private Ryan",
+    "Year": "1998",
+    "ID": "51295"
+  },
+  {
+    "ListNumber": 31,
+    "Title": "Napoleon",
+    "Year": "1927",
+    "ID": "22547"
+  },
+  {
+    "ListNumber": 32,
+    "Title": "The Bridge on the River Kwai",
+    "Year": "1957",
+    "ID": "51326"
+  },
+  {
+    "ListNumber": 33,
+    "Title": "The New Land",
+    "Year": "1972",
+    "ID": "22595"
+  },
+  {
+    "ListNumber": 34,
+    "Title": "Malcolm X",
+    "Year": "1992",
+    "ID": "50720"
+  },
+  {
+    "ListNumber": 35,
+    "Title": "Quo Vadis, Aida?",
+    "Year": "2020",
+    "ID": "650606"
+  },
+  {
+    "ListNumber": 36,
+    "Title": "Oppenheimer",
+    "Year": "2023",
+    "ID": "784328"
+  },
+  {
+    "ListNumber": 37,
+    "Title": "The Devils",
+    "Year": "1971",
+    "ID": "30899"
+  },
+  {
+    "ListNumber": 38,
+    "Title": "Grand Illusion",
+    "Year": "1937",
+    "ID": "51375"
+  },
+  {
+    "ListNumber": 39,
+    "Title": "Kagemusha",
+    "Year": "1980",
+    "ID": "44855"
+  },
+  {
+    "ListNumber": 40,
+    "Title": "The Emigrants",
+    "Year": "1971",
+    "ID": "24245"
+  },
+  {
+    "ListNumber": 41,
+    "Title": "War and Peace, Part IV: Pierre Bezukhov",
+    "Year": "1967",
+    "ID": "112708"
+  },
+  {
+    "ListNumber": 42,
+    "Title": "Marketa Lazarová",
+    "Year": "1967",
+    "ID": "35705"
+  },
+  {
+    "ListNumber": 43,
+    "Title": "Hiroshima Mon Amour",
+    "Year": "1959",
+    "ID": "48800"
+  },
+  {
+    "ListNumber": 44,
+    "Title": "Day of Wrath",
+    "Year": "1943",
+    "ID": "23633"
+  },
+  {
+    "ListNumber": 45,
+    "Title": "A Taxi Driver",
+    "Year": "2017",
+    "ID": "369856"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "The Message",
+    "Year": "1976",
+    "ID": "792674"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "War and Peace, Part I: Andrei Bolkonsky",
+    "Year": "1965",
+    "ID": "111421"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "All the President's Men",
+    "Year": "1976",
+    "ID": "51261"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "Ulysses' Gaze",
+    "Year": "1995",
+    "ID": "37830"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "Little Women",
+    "Year": "2019",
+    "ID": "259441"
+  },
+  {
+    "ListNumber": 51,
+    "Title": "12 Years a Slave",
+    "Year": "2013",
+    "ID": "62671"
+  },
+  {
+    "ListNumber": 52,
+    "Title": "The Virgin Spring",
+    "Year": "1960",
+    "ID": "45097"
+  },
+  {
+    "ListNumber": 53,
+    "Title": "Society of the Snow",
+    "Year": "2023",
+    "ID": "813840"
+  },
+  {
+    "ListNumber": 54,
+    "Title": "The Travelling Players",
+    "Year": "1975",
+    "ID": "51437"
+  },
+  {
+    "ListNumber": 55,
+    "Title": "The Color of Pomegranates",
+    "Year": "1969",
+    "ID": "35421"
+  },
+  {
+    "ListNumber": 56,
+    "Title": "A City of Sadness",
+    "Year": "1989",
+    "ID": "15651"
+  },
+  {
+    "ListNumber": 57,
+    "Title": "The Heiress",
+    "Year": "1949",
+    "ID": "33555"
+  },
+  {
+    "ListNumber": 58,
+    "Title": "The Count of Monte-Cristo",
+    "Year": "2024",
+    "ID": "977835"
+  },
+  {
+    "ListNumber": 59,
+    "Title": "Aguirre, the Wrath of God",
+    "Year": "1972",
+    "ID": "50612"
+  },
+  {
+    "ListNumber": 60,
+    "Title": "The Tragedy of Man",
+    "Year": "2011",
+    "ID": "92348"
+  },
+  {
+    "ListNumber": 61,
+    "Title": "The Diving Bell and the Butterfly",
+    "Year": "2007",
+    "ID": "50600"
+  },
+  {
+    "ListNumber": 62,
+    "Title": "Downfall",
+    "Year": "2004",
+    "ID": "51510"
+  },
+  {
+    "ListNumber": 63,
+    "Title": "1917",
+    "Year": "2019",
+    "ID": "460155"
+  },
+  {
+    "ListNumber": 64,
+    "Title": "Canoa: A Shameful Memory",
+    "Year": "1976",
+    "ID": "92749"
+  },
+  {
+    "ListNumber": 65,
+    "Title": "Iruvar",
+    "Year": "1997",
+    "ID": "16544"
+  },
+  {
+    "ListNumber": 66,
+    "Title": "The Iron Claw",
+    "Year": "2023",
+    "ID": "764890"
+  },
+  {
+    "ListNumber": 67,
+    "Title": "Matewan",
+    "Year": "1987",
+    "ID": "36889"
+  },
+  {
+    "ListNumber": 68,
+    "Title": "Spotlight",
+    "Year": "2015",
+    "ID": "241430"
+  },
+  {
+    "ListNumber": 69,
+    "Title": "The Wind Rises",
+    "Year": "2013",
+    "ID": "112957"
+  },
+  {
+    "ListNumber": 70,
+    "Title": "The Thin Red Line",
+    "Year": "1998",
+    "ID": "47627"
+  },
+  {
+    "ListNumber": 71,
+    "Title": "Killers of the Flower Moon",
+    "Year": "2023",
+    "ID": "398009"
+  },
+  {
+    "ListNumber": 72,
+    "Title": "The Valley of the Bees",
+    "Year": "1968",
+    "ID": "35701"
+  },
+  {
+    "ListNumber": 73,
+    "Title": "In This Corner of the World",
+    "Year": "2016",
+    "ID": "313416"
+  },
+  {
+    "ListNumber": 74,
+    "Title": "Hey Ram",
+    "Year": "2000",
+    "ID": "6028"
+  },
+  {
+    "ListNumber": 75,
+    "Title": "The Saragossa Manuscript",
+    "Year": "1965",
+    "ID": "47601"
+  },
+  {
+    "ListNumber": 76,
+    "Title": "Ed Wood",
+    "Year": "1994",
+    "ID": "51595"
+  },
+  {
+    "ListNumber": 77,
+    "Title": "Platform",
+    "Year": "2000",
+    "ID": "66891"
+  },
+  {
+    "ListNumber": 78,
+    "Title": "Siberiade",
+    "Year": "1979",
+    "ID": "52664"
+  },
+  {
+    "ListNumber": 79,
+    "Title": "West Indies",
+    "Year": "1979",
+    "ID": "195159"
+  },
+  {
+    "ListNumber": 80,
+    "Title": "Ben-Hur",
+    "Year": "1959",
+    "ID": "51459"
+  },
+  {
+    "ListNumber": 81,
+    "Title": "JFK",
+    "Year": "1991",
+    "ID": "51332"
+  },
+  {
+    "ListNumber": 82,
+    "Title": "Judas and the Black Messiah",
+    "Year": "2021",
+    "ID": "511342"
+  },
+  {
+    "ListNumber": 83,
+    "Title": "A Hidden Life",
+    "Year": "2019",
+    "ID": "337899"
+  },
+  {
+    "ListNumber": 84,
+    "Title": "Les Misérables",
+    "Year": "1934",
+    "ID": "53654"
+  },
+  {
+    "ListNumber": 85,
+    "Title": "The Night of Counting the Years",
+    "Year": "1969",
+    "ID": "18658"
+  },
+  {
+    "ListNumber": 86,
+    "Title": "The Favourite",
+    "Year": "2018",
+    "ID": "310705"
+  },
+  {
+    "ListNumber": 87,
+    "Title": "Nickel Boys",
+    "Year": "2024",
+    "ID": "926589"
+  },
+  {
+    "ListNumber": 88,
+    "Title": "The Bridge",
+    "Year": "1959",
+    "ID": "50968"
+  },
+  {
+    "ListNumber": 89,
+    "Title": "The Time That Remains",
+    "Year": "2009",
+    "ID": "20305"
+  },
+  {
+    "ListNumber": 90,
+    "Title": "Hunger",
+    "Year": "2008",
+    "ID": "46304"
+  },
+  {
+    "ListNumber": 91,
+    "Title": "Farha",
+    "Year": "2021",
+    "ID": "770722"
+  },
+  {
+    "ListNumber": 92,
+    "Title": "Black Rain",
+    "Year": "1989",
+    "ID": "134456"
+  },
+  {
+    "ListNumber": 93,
+    "Title": "Land of Mine",
+    "Year": "2015",
+    "ID": "264171"
+  },
+  {
+    "ListNumber": 94,
+    "Title": "Ivan the Terrible, Part II: The Boyars' Plot",
+    "Year": "1958",
+    "ID": "22005"
+  },
+  {
+    "ListNumber": 95,
+    "Title": "The Right Stuff",
+    "Year": "1983",
+    "ID": "47051"
+  },
+  {
+    "ListNumber": 96,
+    "Title": "The Lion in Winter",
+    "Year": "1968",
+    "ID": "39948"
+  },
+  {
+    "ListNumber": 97,
+    "Title": "Battleship Potemkin",
+    "Year": "1925",
+    "ID": "51481"
+  },
+  {
+    "ListNumber": 98,
+    "Title": "War and Peace, Part II: Natasha Rostova",
+    "Year": "1965",
+    "ID": "112710"
+  },
+  {
+    "ListNumber": 99,
+    "Title": "City of Life and Death",
+    "Year": "2009",
+    "ID": "38463"
+  },
+  {
+    "ListNumber": 100,
+    "Title": "Waves",
+    "Year": "2024",
+    "ID": "1135879"
+  },
+  {
+    "ListNumber": 101,
+    "Title": "Mr. Klein",
+    "Year": "1976",
+    "ID": "7406"
+  },
+  {
+    "ListNumber": 102,
+    "Title": "The Promised Land",
+    "Year": "1975",
+    "ID": "51599"
+  },
+  {
+    "ListNumber": 103,
+    "Title": "Chimes at Midnight",
+    "Year": "1965",
+    "ID": "51183"
+  },
+  {
+    "ListNumber": 104,
+    "Title": "Dallas Buyers Club",
+    "Year": "2013",
+    "ID": "114605"
+  },
+  {
+    "ListNumber": 105,
+    "Title": "The Last Command",
+    "Year": "1928",
+    "ID": "13217"
+  },
+  {
+    "ListNumber": 106,
+    "Title": "Loving Vincent",
+    "Year": "2017",
+    "ID": "269358"
+  },
+  {
+    "ListNumber": 107,
+    "Title": "The Case of the Naves Brothers",
+    "Year": "1967",
+    "ID": "93087"
+  },
+  {
+    "ListNumber": 108,
+    "Title": "Silence",
+    "Year": "2016",
+    "ID": "52504"
+  },
+  {
+    "ListNumber": 109,
+    "Title": "Ford v Ferrari",
+    "Year": "2019",
+    "ID": "291419"
+  },
+  {
+    "ListNumber": 110,
+    "Title": "Hero",
+    "Year": "2002",
+    "ID": "51971"
+  },
+  {
+    "ListNumber": 111,
+    "Title": "Sardar Udham",
+    "Year": "2021",
+    "ID": "526373"
+  },
+  {
+    "ListNumber": 112,
+    "Title": "Argentina, 1985",
+    "Year": "2022",
+    "ID": "637929"
+  },
+  {
+    "ListNumber": 113,
+    "Title": "Red Dawn",
+    "Year": "1990",
+    "ID": "17518"
+  },
+  {
+    "ListNumber": 114,
+    "Title": "Breaker Morant",
+    "Year": "1980",
+    "ID": "43603"
+  },
+  {
+    "ListNumber": 115,
+    "Title": "The Official Story",
+    "Year": "1985",
+    "ID": "33009"
+  },
+  {
+    "ListNumber": 116,
+    "Title": "Barefoot Gen",
+    "Year": "1983",
+    "ID": "43355"
+  },
+  {
+    "ListNumber": 117,
+    "Title": "Alexander the Great",
+    "Year": "1980",
+    "ID": "89553"
+  },
+  {
+    "ListNumber": 118,
+    "Title": "The Dawns Here Are Quiet",
+    "Year": "1972",
+    "ID": "16475"
+  },
+  {
+    "ListNumber": 119,
+    "Title": "The Round-Up",
+    "Year": "1966",
+    "ID": "78502"
+  },
+  {
+    "ListNumber": 120,
+    "Title": "Humanity and Paper Balloons",
+    "Year": "1937",
+    "ID": "70672"
+  },
+  {
+    "ListNumber": 121,
+    "Title": "The Promised Land",
+    "Year": "2023",
+    "ID": "882307"
+  },
+  {
+    "ListNumber": 122,
+    "Title": "Lola Montès",
+    "Year": "1955",
+    "ID": "28280"
+  },
+  {
+    "ListNumber": 123,
+    "Title": "Hacksaw Ridge",
+    "Year": "2016",
+    "ID": "251872"
+  },
+  {
+    "ListNumber": 124,
+    "Title": "The Enigma of Kaspar Hauser",
+    "Year": "1974",
+    "ID": "45044"
+  },
+  {
+    "ListNumber": 125,
+    "Title": "The Desert of the Tartars",
+    "Year": "1976",
+    "ID": "17315"
+  },
+  {
+    "ListNumber": 126,
+    "Title": "Sacco & Vanzetti",
+    "Year": "1971",
+    "ID": "17307"
+  },
+  {
+    "ListNumber": 127,
+    "Title": "The Devil's Trap",
+    "Year": "1962",
+    "ID": "92827"
+  },
+  {
+    "ListNumber": 128,
+    "Title": "Ip Man",
+    "Year": "2008",
+    "ID": "42841"
+  },
+  {
+    "ListNumber": 129,
+    "Title": "The Killing Fields",
+    "Year": "1984",
+    "ID": "51499"
+  },
+  {
+    "ListNumber": 130,
+    "Title": "Ludwig",
+    "Year": "1973",
+    "ID": "49724"
+  },
+  {
+    "ListNumber": 131,
+    "Title": "Ivan the Terrible, Part I",
+    "Year": "1944",
+    "ID": "46815"
+  },
+  {
+    "ListNumber": 132,
+    "Title": "Merry Christmas, Mr. Lawrence",
+    "Year": "1983",
+    "ID": "44860"
+  },
+  {
+    "ListNumber": 133,
+    "Title": "A New Old Play",
+    "Year": "2021",
+    "ID": "442932"
+  },
+  {
+    "ListNumber": 134,
+    "Title": "The Irishman",
+    "Year": "2019",
+    "ID": "333203"
+  },
+  {
+    "ListNumber": 135,
+    "Title": "Never Look Away",
+    "Year": "2018",
+    "ID": "357253"
+  },
+  {
+    "ListNumber": 136,
+    "Title": "A Night to Remember",
+    "Year": "1958",
+    "ID": "45729"
+  },
+  {
+    "ListNumber": 137,
+    "Title": "Joan the Maid II: The Prisons",
+    "Year": "1994",
+    "ID": "108394"
+  },
+  {
+    "ListNumber": 138,
+    "Title": "The Last Emperor",
+    "Year": "1987",
+    "ID": "51406"
+  },
+  {
+    "ListNumber": 139,
+    "Title": "Viduthalai: Part I",
+    "Year": "2023",
+    "ID": "704827"
+  },
+  {
+    "ListNumber": 140,
+    "Title": "Labyrinth of Cinema",
+    "Year": "2019",
+    "ID": "543380"
+  },
+  {
+    "ListNumber": 141,
+    "Title": "The Color Purple",
+    "Year": "1985",
+    "ID": "51279"
+  },
+  {
+    "ListNumber": 142,
+    "Title": "I Do Not Care If We Go Down in History as Barbarians",
+    "Year": "2018",
+    "ID": "430877"
+  },
+  {
+    "ListNumber": 143,
+    "Title": "Truth and Justice",
+    "Year": "2019",
+    "ID": "511770"
+  },
+  {
+    "ListNumber": 144,
+    "Title": "Lion of the Desert",
+    "Year": "1980",
+    "ID": "35002"
+  },
+  {
+    "ListNumber": 145,
+    "Title": "The Scarlet Empress",
+    "Year": "1934",
+    "ID": "31098"
+  },
+  {
+    "ListNumber": 146,
+    "Title": "Nainsukh",
+    "Year": "2010",
+    "ID": "68082"
+  },
+  {
+    "ListNumber": 147,
+    "Title": "Reds",
+    "Year": "1981",
+    "ID": "40470"
+  },
+  {
+    "ListNumber": 148,
+    "Title": "Patton",
+    "Year": "1970",
+    "ID": "45507"
+  },
+  {
+    "ListNumber": 149,
+    "Title": "Fabian: Going to the Dogs",
+    "Year": "2021",
+    "ID": "547214"
+  },
+  {
+    "ListNumber": 150,
+    "Title": "Braveheart",
+    "Year": "1995",
+    "ID": "51855"
+  },
+  {
+    "ListNumber": 151,
+    "Title": "Sword of the Stranger",
+    "Year": "2007",
+    "ID": "43435"
+  },
+  {
+    "ListNumber": 152,
+    "Title": "Himiko",
+    "Year": "1974",
+    "ID": "73117"
+  },
+  {
+    "ListNumber": 153,
+    "Title": "1987: When the Day Comes",
+    "Year": "2017",
+    "ID": "369876"
+  },
+  {
+    "ListNumber": 154,
+    "Title": "Lagaan: Once Upon a Time in India",
+    "Year": "2001",
+    "ID": "39486"
+  },
+  {
+    "ListNumber": 155,
+    "Title": "Inu-Oh",
+    "Year": "2021",
+    "ID": "568389"
+  },
+  {
+    "ListNumber": 156,
+    "Title": "No Man's Land",
+    "Year": "2001",
+    "ID": "47794"
+  },
+  {
+    "ListNumber": 157,
+    "Title": "Bloody Sunday",
+    "Year": "2002",
+    "ID": "49511"
+  },
+  {
+    "ListNumber": 158,
+    "Title": "The Flowers of St. Francis",
+    "Year": "1950",
+    "ID": "9572"
+  },
+  {
+    "ListNumber": 159,
+    "Title": "The Zone of Interest",
+    "Year": "2023",
+    "ID": "398800"
+  },
+  {
+    "ListNumber": 160,
+    "Title": "No Dogs or Italians Allowed",
+    "Year": "2022",
+    "ID": "638324"
+  },
+  {
+    "ListNumber": 161,
+    "Title": "The Devil",
+    "Year": "1972",
+    "ID": "78750"
+  },
+  {
+    "ListNumber": 162,
+    "Title": "Hidden Figures",
+    "Year": "2016",
+    "ID": "316312"
+  },
+  {
+    "ListNumber": 163,
+    "Title": "Young Mr. Lincoln",
+    "Year": "1939",
+    "ID": "21319"
+  },
+  {
+    "ListNumber": 164,
+    "Title": "The Peasants",
+    "Year": "2023",
+    "ID": "656147"
+  },
+  {
+    "ListNumber": 165,
+    "Title": "Josep",
+    "Year": "2020",
+    "ID": "605350"
+  },
+  {
+    "ListNumber": 166,
+    "Title": "The Adventures of Robin Hood",
+    "Year": "1938",
+    "ID": "45785"
+  },
+  {
+    "ListNumber": 167,
+    "Title": "Topsy-Turvy",
+    "Year": "1999",
+    "ID": "18905"
+  },
+  {
+    "ListNumber": 168,
+    "Title": "Waterloo",
+    "Year": "1970",
+    "ID": "29983"
+  },
+  {
+    "ListNumber": 169,
+    "Title": "Spartacus",
+    "Year": "1960",
+    "ID": "51196"
+  },
+  {
+    "ListNumber": 170,
+    "Title": "Russian Ark",
+    "Year": "2002",
+    "ID": "41458"
+  },
+  {
+    "ListNumber": 171,
+    "Title": "King and Country",
+    "Year": "1964",
+    "ID": "79587"
+  },
+  {
+    "ListNumber": 172,
+    "Title": "1900",
+    "Year": "1976",
+    "ID": "49583"
+  },
+  {
+    "ListNumber": 173,
+    "Title": "The Captain",
+    "Year": "2017",
+    "ID": "406078"
+  },
+  {
+    "ListNumber": 174,
+    "Title": "Joan the Maid I: The Battles",
+    "Year": "1994",
+    "ID": "108393"
+  },
+  {
+    "ListNumber": 175,
+    "Title": "The Age of the Earth",
+    "Year": "1980",
+    "ID": "63269"
+  },
+  {
+    "ListNumber": 176,
+    "Title": "Orders",
+    "Year": "1974",
+    "ID": "59646"
+  },
+  {
+    "ListNumber": 177,
+    "Title": "Identity Card",
+    "Year": "2010",
+    "ID": "10519"
+  },
+  {
+    "ListNumber": 178,
+    "Title": "Sertânia",
+    "Year": "2019",
+    "ID": "522126"
+  },
+  {
+    "ListNumber": 179,
+    "Title": "Land and Freedom",
+    "Year": "1995",
+    "ID": "25738"
+  },
+  {
+    "ListNumber": 180,
+    "Title": "Blame It on Fidel!",
+    "Year": "2006",
+    "ID": "40995"
+  },
+  {
+    "ListNumber": 181,
+    "Title": "Queen Margot",
+    "Year": "1994",
+    "ID": "46216"
+  },
+  {
+    "ListNumber": 182,
+    "Title": "The Untouchables",
+    "Year": "1987",
+    "ID": "51933"
+  },
+  {
+    "ListNumber": 183,
+    "Title": "Empire of the Sun",
+    "Year": "1987",
+    "ID": "46539"
+  },
+  {
+    "ListNumber": 184,
+    "Title": "The Day of the White Lotus",
+    "Year": "2022",
+    "ID": "879451"
+  },
+  {
+    "ListNumber": 185,
+    "Title": "The Book of Fish",
+    "Year": "2021",
+    "ID": "509517"
+  },
+  {
+    "ListNumber": 186,
+    "Title": "No, or the Vain Glory of Command",
+    "Year": "1990",
+    "ID": "83877"
+  },
+  {
+    "ListNumber": 187,
+    "Title": "The Teacher Who Promised the Sea",
+    "Year": "2023",
+    "ID": "923448"
+  },
+  {
+    "ListNumber": 188,
+    "Title": "Hotel Rwanda",
+    "Year": "2004",
+    "ID": "51848"
+  },
+  {
+    "ListNumber": 189,
+    "Title": "A Lullaby to the Sorrowful Mystery",
+    "Year": "2016",
+    "ID": "312479"
+  },
+  {
+    "ListNumber": 190,
+    "Title": "Love & Mercy",
+    "Year": "2014",
+    "ID": "194972"
+  },
+  {
+    "ListNumber": 191,
+    "Title": "Salt of the Earth",
+    "Year": "1954",
+    "ID": "37282"
+  },
+  {
+    "ListNumber": 192,
+    "Title": "A Man There Was",
+    "Year": "1917",
+    "ID": "86968"
+  },
+  {
+    "ListNumber": 193,
+    "Title": "Madame Satã",
+    "Year": "2002",
+    "ID": "18377"
+  },
+  {
+    "ListNumber": 194,
+    "Title": "Antonio das Mortes",
+    "Year": "1969",
+    "ID": "61965"
+  },
+  {
+    "ListNumber": 195,
+    "Title": "The Hollow Crown: Henry V",
+    "Year": "2012",
+    "ID": "102955"
+  },
+  {
+    "ListNumber": 196,
+    "Title": "A Man for All Seasons",
+    "Year": "1966",
+    "ID": "51278"
+  },
+  {
+    "ListNumber": 197,
+    "Title": "In the Crosswind",
+    "Year": "2014",
+    "ID": "185466"
+  },
+  {
+    "ListNumber": 198,
+    "Title": "The Draughtsman's Contract",
+    "Year": "1982",
+    "ID": "45854"
+  },
+  {
+    "ListNumber": 199,
+    "Title": "Sometimes in April",
+    "Year": "2005",
+    "ID": "41606"
+  },
+  {
+    "ListNumber": 200,
+    "Title": "The Last Family",
+    "Year": "2016",
+    "ID": "342514"
+  },
+  {
+    "ListNumber": 201,
+    "Title": "God on Trial",
+    "Year": "2008",
+    "ID": "30823"
+  },
+  {
+    "ListNumber": 202,
+    "Title": "Hiroshima",
+    "Year": "1953",
+    "ID": "197586"
+  },
+  {
+    "ListNumber": 203,
+    "Title": "One Hundred Steps",
+    "Year": "2000",
+    "ID": "32844"
+  },
+  {
+    "ListNumber": 204,
+    "Title": "The Baby of Mâcon",
+    "Year": "1993",
+    "ID": "48983"
+  },
+  {
+    "ListNumber": 205,
+    "Title": "Apocalypto",
+    "Year": "2006",
+    "ID": "50955"
+  },
+  {
+    "ListNumber": 206,
+    "Title": "The Imitation Game",
+    "Year": "2014",
+    "ID": "146954"
+  },
+  {
+    "ListNumber": 207,
+    "Title": "Samurai Assassin",
+    "Year": "1965",
+    "ID": "65852"
+  },
+  {
+    "ListNumber": 208,
+    "Title": "The Magdalene Sisters",
+    "Year": "2002",
+    "ID": "47876"
+  },
+  {
+    "ListNumber": 209,
+    "Title": "The Ten Commandments",
+    "Year": "1956",
+    "ID": "48188"
+  },
+  {
+    "ListNumber": 210,
+    "Title": "Just Mercy",
+    "Year": "2019",
+    "ID": "451788"
+  },
+  {
+    "ListNumber": 211,
+    "Title": "America America",
+    "Year": "1963",
+    "ID": "18139"
+  },
+  {
+    "ListNumber": 212,
+    "Title": "Munich",
+    "Year": "2005",
+    "ID": "51511"
+  },
+  {
+    "ListNumber": 213,
+    "Title": "All the Mornings of the World",
+    "Year": "1991",
+    "ID": "23253"
+  },
+  {
+    "ListNumber": 214,
+    "Title": "Special Section",
+    "Year": "1975",
+    "ID": "66379"
+  },
+  {
+    "ListNumber": 215,
+    "Title": "Quiz Show",
+    "Year": "1994",
+    "ID": "45292"
+  },
+  {
+    "ListNumber": 216,
+    "Title": "The Little Foxes",
+    "Year": "1941",
+    "ID": "21355"
+  },
+  {
+    "ListNumber": 217,
+    "Title": "Les Sièges de l'Alcazar",
+    "Year": "1989",
+    "ID": "131606"
+  },
+  {
+    "ListNumber": 218,
+    "Title": "Apollo 13",
+    "Year": "1995",
+    "ID": "51551"
+  },
+  {
+    "ListNumber": 219,
+    "Title": "7 Women",
+    "Year": "1965",
+    "ID": "52540"
+  },
+  {
+    "ListNumber": 220,
+    "Title": "Blaise Pascal",
+    "Year": "1972",
+    "ID": "15986"
+  },
+  {
+    "ListNumber": 221,
+    "Title": "Ashik Kerib",
+    "Year": "1988",
+    "ID": "77314"
+  },
+  {
+    "ListNumber": 222,
+    "Title": "The New World",
+    "Year": "2005",
+    "ID": "45334"
+  },
+  {
+    "ListNumber": 223,
+    "Title": "Europa Europa",
+    "Year": "1990",
+    "ID": "47442"
+  },
+  {
+    "ListNumber": 224,
+    "Title": "The 47 Ronin",
+    "Year": "1941",
+    "ID": "19316"
+  },
+  {
+    "ListNumber": 225,
+    "Title": "A Twelve-Year Night",
+    "Year": "2018",
+    "ID": "444346"
+  },
+  {
+    "ListNumber": 226,
+    "Title": "Tae Guk Gi: The Brotherhood of War",
+    "Year": "2004",
+    "ID": "45095"
+  },
+  {
+    "ListNumber": 227,
+    "Title": "Onoda: 10,000 Nights in the Jungle",
+    "Year": "2021",
+    "ID": "619001"
+  },
+  {
+    "ListNumber": 228,
+    "Title": "Selma",
+    "Year": "2014",
+    "ID": "198030"
+  },
+  {
+    "ListNumber": 229,
+    "Title": "Red Cliff II",
+    "Year": "2009",
+    "ID": "42415"
+  },
+  {
+    "ListNumber": 230,
+    "Title": "Straight Outta Compton",
+    "Year": "2015",
+    "ID": "201340"
+  },
+  {
+    "ListNumber": 231,
+    "Title": "The King's Speech",
+    "Year": "2010",
+    "ID": "5363"
+  },
+  {
+    "ListNumber": 232,
+    "Title": "Stalingrad",
+    "Year": "1993",
+    "ID": "45604"
+  },
+  {
+    "ListNumber": 233,
+    "Title": "Gangubai Kathiawadi",
+    "Year": "2022",
+    "ID": "589374"
+  },
+  {
+    "ListNumber": 234,
+    "Title": "No",
+    "Year": "2012",
+    "ID": "88499"
+  },
+  {
+    "ListNumber": 235,
+    "Title": "Brooklyn",
+    "Year": "2015",
+    "ID": "123475"
+  },
+  {
+    "ListNumber": 236,
+    "Title": "The Decameron",
+    "Year": "1971",
+    "ID": "29682"
+  },
+  {
+    "ListNumber": 237,
+    "Title": "Frantz",
+    "Year": "2016",
+    "ID": "312507"
+  },
+  {
+    "ListNumber": 238,
+    "Title": "Lancelot of the Lake",
+    "Year": "1974",
+    "ID": "10323"
+  },
+  {
+    "ListNumber": 239,
+    "Title": "Giovanni's Island",
+    "Year": "2014",
+    "ID": "167922"
+  },
+  {
+    "ListNumber": 240,
+    "Title": "The Dark Horse",
+    "Year": "2014",
+    "ID": "200619"
+  },
+  {
+    "ListNumber": 241,
+    "Title": "Lost Illusions",
+    "Year": "2021",
+    "ID": "585013"
+  },
+  {
+    "ListNumber": 242,
+    "Title": "The Death of Stalin",
+    "Year": "2017",
+    "ID": "337565"
+  },
+  {
+    "ListNumber": 243,
+    "Title": "Becket",
+    "Year": "1964",
+    "ID": "42389"
+  },
+  {
+    "ListNumber": 244,
+    "Title": "Everlasting Moments",
+    "Year": "2008",
+    "ID": "41229"
+  },
+  {
+    "ListNumber": 245,
+    "Title": "Guardians of the Formula",
+    "Year": "2023",
+    "ID": "1034010"
+  },
+  {
+    "ListNumber": 246,
+    "Title": "Cinderella Man",
+    "Year": "2005",
+    "ID": "51232"
+  },
+  {
+    "ListNumber": 247,
+    "Title": "Delusions of Grandeur",
+    "Year": "1971",
+    "ID": "43223"
+  },
+  {
+    "ListNumber": 248,
+    "Title": "The Civil War on Drugs",
+    "Year": "2011",
+    "ID": "131512"
+  },
+  {
+    "ListNumber": 249,
+    "Title": "Aimée & Jaguar",
+    "Year": "1999",
+    "ID": "50428"
+  },
+  {
+    "ListNumber": 250,
+    "Title": "The Trial of Joan of Arc",
+    "Year": "1962",
+    "ID": "16791"
+  }
+]
