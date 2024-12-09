@@ -1,8 +1,8 @@
 [
   {
-    "Title": "Network",
-    "Year": "1976",
-    "ID": "45909"
+    "Title": "One Flew Over the Cuckoo's Nest",
+    "Year": "1975",
+    "ID": "51600"
   },
   {
     "Title": "Star Wars",
@@ -15,14 +15,9 @@
     "ID": "30985"
   },
   {
-    "Title": "One Flew Over the Cuckoo's Nest",
-    "Year": "1975",
-    "ID": "51600"
-  },
-  {
-    "Title": "Kramer vs. Kramer",
-    "Year": "1979",
-    "ID": "6538"
+    "Title": "Network",
+    "Year": "1976",
+    "ID": "45909"
   },
   {
     "Title": "Dog Day Afternoon",
@@ -35,14 +30,14 @@
     "ID": "50956"
   },
   {
-    "Title": "Rocky",
-    "Year": "1976",
-    "ID": "51090"
+    "Title": "Terms of Endearment",
+    "Year": "1983",
+    "ID": "45653"
   },
   {
-    "Title": "Atlantic City",
-    "Year": "1980",
-    "ID": "37139"
+    "Title": "Kramer vs. Kramer",
+    "Year": "1979",
+    "ID": "6538"
   },
   {
     "Title": "Brazil",
@@ -50,14 +45,9 @@
     "ID": "51981"
   },
   {
-    "Title": "Amadeus",
-    "Year": "1984",
-    "ID": "51777"
-  },
-  {
-    "Title": "Terms of Endearment",
-    "Year": "1983",
-    "ID": "45653"
+    "Title": "Rocky",
+    "Year": "1976",
+    "ID": "51090"
   },
   {
     "Title": "Hannah and Her Sisters",
@@ -65,14 +55,19 @@
     "ID": "48940"
   },
   {
-    "Title": "E.T. the Extra-Terrestrial",
-    "Year": "1982",
-    "ID": "51520"
+    "Title": "Amadeus",
+    "Year": "1984",
+    "ID": "51777"
   },
   {
     "Title": "Little Dorrit",
     "Year": "1987",
     "ID": "18108"
+  },
+  {
+    "Title": "E.T. the Extra-Terrestrial",
+    "Year": "1982",
+    "ID": "51520"
   },
   {
     "Title": "Hope and Glory",
@@ -85,9 +80,9 @@
     "ID": "46324"
   },
   {
-    "Title": "Do the Right Thing",
-    "Year": "1989",
-    "ID": "51228"
+    "Title": "Atlantic City",
+    "Year": "1980",
+    "ID": "37139"
   },
   {
     "Title": "Schindler's List",
@@ -95,9 +90,9 @@
     "ID": "51671"
   },
   {
-    "Title": "Unforgiven",
-    "Year": "1992",
-    "ID": "2685"
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "ID": "51444"
   },
   {
     "Title": "Secrets & Lies",
@@ -110,39 +105,29 @@
     "ID": "51383"
   },
   {
-    "Title": "Leaving Las Vegas",
-    "Year": "1995",
-    "ID": "51650"
-  },
-  {
     "Title": "Saving Private Ryan",
     "Year": "1998",
     "ID": "51295"
   },
   {
-    "Title": "Pulp Fiction",
-    "Year": "1994",
-    "ID": "51444"
+    "Title": "Do the Right Thing",
+    "Year": "1989",
+    "ID": "51228"
   },
   {
-    "Title": "L.A. Confidential",
-    "Year": "1997",
-    "ID": "50509"
+    "Title": "Unforgiven",
+    "Year": "1992",
+    "ID": "2685"
   },
   {
-    "Title": "The Insider",
-    "Year": "1999",
-    "ID": "47434"
+    "Title": "Leaving Las Vegas",
+    "Year": "1995",
+    "ID": "51650"
   },
   {
-    "Title": "Crouching Tiger, Hidden Dragon",
-    "Year": "2000",
-    "ID": "51905"
-  },
-  {
-    "Title": "Brokeback Mountain",
-    "Year": "2005",
-    "ID": "51909"
+    "Title": "About Schmidt",
+    "Year": "2002",
+    "ID": "50114"
   },
   {
     "Title": "In the Bedroom",
@@ -150,9 +135,19 @@
     "ID": "50613"
   },
   {
-    "Title": "About Schmidt",
-    "Year": "2002",
-    "ID": "50114"
+    "Title": "Brokeback Mountain",
+    "Year": "2005",
+    "ID": "51909"
+  },
+  {
+    "Title": "Letters from Iwo Jima",
+    "Year": "2006",
+    "ID": "51129"
+  },
+  {
+    "Title": "L.A. Confidential",
+    "Year": "1997",
+    "ID": "50509"
   },
   {
     "Title": "Sideways",
@@ -165,9 +160,14 @@
     "ID": "48044"
   },
   {
-    "Title": "The Social Network",
-    "Year": "2010",
-    "ID": "26711"
+    "Title": "WALL·E",
+    "Year": "2008",
+    "ID": "45994"
+  },
+  {
+    "Title": "The Insider",
+    "Year": "1999",
+    "ID": "47434"
   },
   {
     "Title": "The Hurt Locker",
@@ -175,34 +175,14 @@
     "ID": "44741"
   },
   {
-    "Title": "Letters from Iwo Jima",
-    "Year": "2006",
-    "ID": "51129"
-  },
-  {
     "Title": "Amour",
     "Year": "2012",
     "ID": "73359"
   },
   {
-    "Title": "WALL·E",
-    "Year": "2008",
-    "ID": "45994"
-  },
-  {
-    "Title": "The Descendants",
-    "Year": "2011",
-    "ID": "1768"
-  },
-  {
-    "Title": "Gravity",
-    "Year": "2013",
-    "ID": "16529"
-  },
-  {
-    "Title": "Boyhood",
-    "Year": "2014",
-    "ID": "71927"
+    "Title": "The Social Network",
+    "Year": "2010",
+    "ID": "26711"
   },
   {
     "Title": "Her",
@@ -210,14 +190,24 @@
     "ID": "114564"
   },
   {
+    "Title": "Gravity",
+    "Year": "2013",
+    "ID": "16529"
+  },
+  {
+    "Title": "Crouching Tiger, Hidden Dragon",
+    "Year": "2000",
+    "ID": "51905"
+  },
+  {
+    "Title": "Spotlight",
+    "Year": "2015",
+    "ID": "241430"
+  },
+  {
     "Title": "Moonlight",
     "Year": "2016",
     "ID": "312205"
-  },
-  {
-    "Title": "Parasite",
-    "Year": "2019",
-    "ID": "426406"
   },
   {
     "Title": "Roma",
@@ -225,14 +215,24 @@
     "ID": "359859"
   },
   {
+    "Title": "Boyhood",
+    "Year": "2014",
+    "ID": "71927"
+  },
+  {
     "Title": "Small Axe",
     "Year": "2020",
     "ID": "665519"
   },
   {
-    "Title": "Spotlight",
-    "Year": "2015",
-    "ID": "241430"
+    "Title": "Parasite",
+    "Year": "2019",
+    "ID": "426406"
+  },
+  {
+    "Title": "The Descendants",
+    "Year": "2011",
+    "ID": "1768"
   },
   {
     "Title": "Everything, Everywhere",
@@ -258,5 +258,10 @@
     "Title": "The Zone of Interest",
     "Year": "2023",
     "ID": "398800"
+  },
+  {
+    "Title": "Anora",
+    "Year": "2024",
+    "ID": "959540"
   }
 ]
