@@ -1,0 +1,602 @@
+[
+  {
+    "ListNumber": 1,
+    "Title": "Dersu Uzala",
+    "Year": "1975",
+    "ID": "46846"
+  },
+  {
+    "ListNumber": 2,
+    "Title": "The Lion King",
+    "Year": "1994",
+    "ID": "47677"
+  },
+  {
+    "ListNumber": 3,
+    "Title": "Ratatouille",
+    "Year": "2007",
+    "ID": "50558"
+  },
+  {
+    "ListNumber": 4,
+    "Title": "WALL·E",
+    "Year": "2008",
+    "ID": "45994"
+  },
+  {
+    "ListNumber": 5,
+    "Title": "My Neighbor Totoro",
+    "Year": "1988",
+    "ID": "47756"
+  },
+  {
+    "ListNumber": 6,
+    "Title": "Whisper of the Heart",
+    "Year": "1995",
+    "ID": "26713"
+  },
+  {
+    "ListNumber": 7,
+    "Title": "Like Father, Like Son",
+    "Year": "2013",
+    "ID": "129868"
+  },
+  {
+    "ListNumber": 8,
+    "Title": "The Straight Story",
+    "Year": "1999",
+    "ID": "51686"
+  },
+  {
+    "ListNumber": 9,
+    "Title": "Kiki's Delivery Service",
+    "Year": "1989",
+    "ID": "41360"
+  },
+  {
+    "ListNumber": 10,
+    "Title": "Toy Story",
+    "Year": "1995",
+    "ID": "51290"
+  },
+  {
+    "ListNumber": 11,
+    "Title": "Mulan",
+    "Year": "1998",
+    "ID": "46001"
+  },
+  {
+    "ListNumber": 12,
+    "Title": "What's Up, Doc?",
+    "Year": "1972",
+    "ID": "48165"
+  },
+  {
+    "ListNumber": 13,
+    "Title": "Monsters, Inc.",
+    "Year": "2001",
+    "ID": "51535"
+  },
+  {
+    "ListNumber": 14,
+    "Title": "Ponyo",
+    "Year": "2008",
+    "ID": "44594"
+  },
+  {
+    "ListNumber": 15,
+    "Title": "Fiddler on the Roof",
+    "Year": "1971",
+    "ID": "42800"
+  },
+  {
+    "ListNumber": 16,
+    "Title": "Finding Nemo",
+    "Year": "2003",
+    "ID": "2705"
+  },
+  {
+    "ListNumber": 17,
+    "Title": "Babette's Feast",
+    "Year": "1987",
+    "ID": "44968"
+  },
+  {
+    "ListNumber": 18,
+    "Title": "The Muppet Movie",
+    "Year": "1979",
+    "ID": "45532"
+  },
+  {
+    "ListNumber": 19,
+    "Title": "Toy Story 3",
+    "Year": "2010",
+    "ID": "46458"
+  },
+  {
+    "ListNumber": 20,
+    "Title": "The Muppet Christmas Carol",
+    "Year": "1992",
+    "ID": "46231"
+  },
+  {
+    "ListNumber": 21,
+    "Title": "Barbie in the 12 Dancing Princesses",
+    "Year": "2006",
+    "ID": "44225"
+  },
+  {
+    "ListNumber": 22,
+    "Title": "Dilwale Dulhania Le Jayenge",
+    "Year": "1995",
+    "ID": "39651"
+  },
+  {
+    "ListNumber": 23,
+    "Title": "Barbie as The Princess & the Pauper",
+    "Year": "2004",
+    "ID": "42550"
+  },
+  {
+    "ListNumber": 24,
+    "Title": "Toy Story 2",
+    "Year": "1999",
+    "ID": "51289"
+  },
+  {
+    "ListNumber": 25,
+    "Title": "A New Leaf",
+    "Year": "1971",
+    "ID": "27552"
+  },
+  {
+    "ListNumber": 26,
+    "Title": "A Muppet Family Christmas",
+    "Year": "1987",
+    "ID": "44033"
+  },
+  {
+    "ListNumber": 27,
+    "Title": "Barbie: Princess Charm School",
+    "Year": "2011",
+    "ID": "59878"
+  },
+  {
+    "ListNumber": 28,
+    "Title": "The Emperor's New Groove",
+    "Year": "2000",
+    "ID": "45065"
+  },
+  {
+    "ListNumber": 29,
+    "Title": "Aladdin",
+    "Year": "1992",
+    "ID": "51340"
+  },
+  {
+    "ListNumber": 30,
+    "Title": "Beauty and the Beast",
+    "Year": "1991",
+    "ID": "46622"
+  },
+  {
+    "ListNumber": 31,
+    "Title": "The Princess and the Frog",
+    "Year": "2009",
+    "ID": "46453"
+  },
+  {
+    "ListNumber": 32,
+    "Title": "Hotarubi no Mori e",
+    "Year": "2011",
+    "ID": "77071"
+  },
+  {
+    "ListNumber": 33,
+    "Title": "Not One Less",
+    "Year": "1999",
+    "ID": "28093"
+  },
+  {
+    "ListNumber": 34,
+    "Title": "Digimon Adventure: Last Evolution Kizuna",
+    "Year": "2020",
+    "ID": "499713"
+  },
+  {
+    "ListNumber": 35,
+    "Title": "Barbie and the Diamond Castle",
+    "Year": "2008",
+    "ID": "44223"
+  },
+  {
+    "ListNumber": 36,
+    "Title": "The Secret of NIMH",
+    "Year": "1982",
+    "ID": "45050"
+  },
+  {
+    "ListNumber": 37,
+    "Title": "My Father's Glory",
+    "Year": "1990",
+    "ID": "44340"
+  },
+  {
+    "ListNumber": 38,
+    "Title": "A Boy Named Charlie Brown",
+    "Year": "1969",
+    "ID": "42424"
+  },
+  {
+    "ListNumber": 39,
+    "Title": "Anastasia",
+    "Year": "1997",
+    "ID": "47153"
+  },
+  {
+    "ListNumber": 40,
+    "Title": "Monster High: 13 Wishes",
+    "Year": "2013",
+    "ID": "151051"
+  },
+  {
+    "ListNumber": 41,
+    "Title": "The Thief and the Cobbler",
+    "Year": "1993",
+    "ID": "35138"
+  },
+  {
+    "ListNumber": 42,
+    "Title": "The Big Bad Fox and Other Tales",
+    "Year": "2017",
+    "ID": "385343"
+  },
+  {
+    "ListNumber": 43,
+    "Title": "My Little Pony: Equestria Girls - Rainbow Rocks",
+    "Year": "2014",
+    "ID": "218654"
+  },
+  {
+    "ListNumber": 44,
+    "Title": "Willy Wonka & the Chocolate Factory",
+    "Year": "1971",
+    "ID": "51804"
+  },
+  {
+    "ListNumber": 45,
+    "Title": "The Secret World of Arrietty",
+    "Year": "2010",
+    "ID": "14093"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "Year": "2005",
+    "ID": "51584"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "Spirit: Stallion of the Cimarron",
+    "Year": "2002",
+    "ID": "47420"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "Hercules",
+    "Year": "1997",
+    "ID": "44838"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "Hachi: A Dog's Tale",
+    "Year": "2009",
+    "ID": "33853"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "Eloise at Christmastime",
+    "Year": "2003",
+    "ID": "7165"
+  },
+  {
+    "ListNumber": 51,
+    "Title": "Heart and Yummie",
+    "Year": "2010",
+    "ID": "75540"
+  },
+  {
+    "ListNumber": 52,
+    "Title": "A Little Princess",
+    "Year": "1995",
+    "ID": "39862"
+  },
+  {
+    "ListNumber": 53,
+    "Title": "The Mad Adventures of Rabbi Jacob",
+    "Year": "1973",
+    "ID": "51392"
+  },
+  {
+    "ListNumber": 54,
+    "Title": "Melody",
+    "Year": "1971",
+    "ID": "17311"
+  },
+  {
+    "ListNumber": 55,
+    "Title": "Cars",
+    "Year": "2006",
+    "ID": "51233"
+  },
+  {
+    "ListNumber": 56,
+    "Title": "Barbie: A Fashion Fairytale",
+    "Year": "2010",
+    "ID": "20327"
+  },
+  {
+    "ListNumber": 57,
+    "Title": "The Many Adventures of Winnie the Pooh",
+    "Year": "1977",
+    "ID": "174908"
+  },
+  {
+    "ListNumber": 58,
+    "Title": "The Bugs Bunny/Road Runner Movie",
+    "Year": "1979",
+    "ID": "39294"
+  },
+  {
+    "ListNumber": 59,
+    "Title": "The Last Unicorn",
+    "Year": "1982",
+    "ID": "46499"
+  },
+  {
+    "ListNumber": 60,
+    "Title": "Jesus Christ Superstar",
+    "Year": "1973",
+    "ID": "44492"
+  },
+  {
+    "ListNumber": 61,
+    "Title": "Hello, Dolly!",
+    "Year": "1969",
+    "ID": "43398"
+  },
+  {
+    "ListNumber": 62,
+    "Title": "Trafic",
+    "Year": "1971",
+    "ID": "45356"
+  },
+  {
+    "ListNumber": 63,
+    "Title": "Sunflower",
+    "Year": "1970",
+    "ID": "50737"
+  },
+  {
+    "ListNumber": 64,
+    "Title": "Snoopy, Come Home",
+    "Year": "1972",
+    "ID": "42508"
+  },
+  {
+    "ListNumber": 65,
+    "Title": "Sounder",
+    "Year": "1972",
+    "ID": "22594"
+  },
+  {
+    "ListNumber": 66,
+    "Title": "My Brilliant Career",
+    "Year": "1979",
+    "ID": "41451"
+  },
+  {
+    "ListNumber": 67,
+    "Title": "The Land Before Time",
+    "Year": "1988",
+    "ID": "44758"
+  },
+  {
+    "ListNumber": 68,
+    "Title": "Invader Zim: Enter the Florpus",
+    "Year": "2019",
+    "ID": "404251"
+  },
+  {
+    "ListNumber": 69,
+    "Title": "Robin Hood",
+    "Year": "1973",
+    "ID": "44920"
+  },
+  {
+    "ListNumber": 70,
+    "Title": "Summer Days with Coo",
+    "Year": "2007",
+    "ID": "41115"
+  },
+  {
+    "ListNumber": 71,
+    "Title": "Sweet Charity",
+    "Year": "1969",
+    "ID": "22468"
+  },
+  {
+    "ListNumber": 72,
+    "Title": "Raggedy Ann & Andy: A Musical Adventure",
+    "Year": "1976",
+    "ID": "27643"
+  },
+  {
+    "ListNumber": 73,
+    "Title": "Tarzan",
+    "Year": "1999",
+    "ID": "27285"
+  },
+  {
+    "ListNumber": 74,
+    "Title": "Brother Bear",
+    "Year": "2003",
+    "ID": "46633"
+  },
+  {
+    "ListNumber": 75,
+    "Title": "The Hunchback of Notre Dame",
+    "Year": "1996",
+    "ID": "46127"
+  },
+  {
+    "ListNumber": 76,
+    "Title": "Pom Poko",
+    "Year": "1994",
+    "ID": "42478"
+  },
+  {
+    "ListNumber": 77,
+    "Title": "The Little Mermaid",
+    "Year": "1989",
+    "ID": "46505"
+  },
+  {
+    "ListNumber": 78,
+    "Title": "The Great Muppet Caper",
+    "Year": "1981",
+    "ID": "42726"
+  },
+  {
+    "ListNumber": 79,
+    "Title": "The Fox and the Hound",
+    "Year": "1981",
+    "ID": "45746"
+  },
+  {
+    "ListNumber": 80,
+    "Title": "The Princess Diaries",
+    "Year": "2001",
+    "ID": "46753"
+  },
+  {
+    "ListNumber": 81,
+    "Title": "Black Box",
+    "Year": "2021",
+    "ID": "588269"
+  },
+  {
+    "ListNumber": 82,
+    "Title": "Barbie in A Mermaid Tale",
+    "Year": "2010",
+    "ID": "29321"
+  },
+  {
+    "ListNumber": 83,
+    "Title": "The Black Stallion",
+    "Year": "1979",
+    "ID": "41097"
+  },
+  {
+    "ListNumber": 84,
+    "Title": "The Aristocats",
+    "Year": "1970",
+    "ID": "46537"
+  },
+  {
+    "ListNumber": 85,
+    "Title": "Barbie and the Three Musketeers",
+    "Year": "2009",
+    "ID": "37315"
+  },
+  {
+    "ListNumber": 86,
+    "Title": "The Magic Flute",
+    "Year": "1975",
+    "ID": "20337"
+  },
+  {
+    "ListNumber": 87,
+    "Title": "A Goofy Movie",
+    "Year": "1995",
+    "ID": "42101"
+  },
+  {
+    "ListNumber": 88,
+    "Title": "Monster High: Frights, Camera, Action!",
+    "Year": "2014",
+    "ID": "183776"
+  },
+  {
+    "ListNumber": 89,
+    "Title": "True Grit",
+    "Year": "1969",
+    "ID": "40951"
+  },
+  {
+    "ListNumber": 90,
+    "Title": "The Secret Garden",
+    "Year": "1993",
+    "ID": "45473"
+  },
+  {
+    "ListNumber": 91,
+    "Title": "The Wild Child",
+    "Year": "1970",
+    "ID": "50914"
+  },
+  {
+    "ListNumber": 92,
+    "Title": "Tora! Tora! Tora!",
+    "Year": "1970",
+    "ID": "45543"
+  },
+  {
+    "ListNumber": 93,
+    "Title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+    "Year": "2011",
+    "ID": "57791"
+  },
+  {
+    "ListNumber": 94,
+    "Title": "Cinderella",
+    "Year": "1997",
+    "ID": "22216"
+  },
+  {
+    "ListNumber": 95,
+    "Title": "The Concert",
+    "Year": "2009",
+    "ID": "55905"
+  },
+  {
+    "ListNumber": 96,
+    "Title": "Scrooge",
+    "Year": "1970",
+    "ID": "43616"
+  },
+  {
+    "ListNumber": 97,
+    "Title": "Winnie the Pooh",
+    "Year": "2011",
+    "ID": "14611"
+  },
+  {
+    "ListNumber": 98,
+    "Title": "The Andromeda Strain",
+    "Year": "1971",
+    "ID": "46158"
+  },
+  {
+    "ListNumber": 99,
+    "Title": "Sound! Euphonium the Movie – Our Promise: A Brand New Day",
+    "Year": "2019",
+    "ID": "457482"
+  },
+  {
+    "ListNumber": 100,
+    "Title": "Monster High: Scaris City of Frights",
+    "Year": "2013",
+    "ID": "138721"
+  }
+]
