@@ -1,0 +1,602 @@
+[
+  {
+    "ListNumber": 1,
+    "Title": "The Battle of Algiers",
+    "Year": "1966",
+    "ID": "41081"
+  },
+  {
+    "ListNumber": 2,
+    "Title": "Z",
+    "Year": "1969",
+    "ID": "50133"
+  },
+  {
+    "ListNumber": 3,
+    "Title": "The Man Who Sleeps",
+    "Year": "1974",
+    "ID": "84386"
+  },
+  {
+    "ListNumber": 4,
+    "Title": "The Message",
+    "Year": "1976",
+    "ID": "792674"
+  },
+  {
+    "ListNumber": 5,
+    "Title": "Who Killed Captain Alex?",
+    "Year": "2010",
+    "ID": "243605"
+  },
+  {
+    "ListNumber": 6,
+    "Title": "Kit Kat",
+    "Year": "1991",
+    "ID": "52497"
+  },
+  {
+    "ListNumber": 7,
+    "Title": "The Nightingale's Prayer",
+    "Year": "1959",
+    "ID": "139021"
+  },
+  {
+    "ListNumber": 8,
+    "Title": "Camp de Thiaroye",
+    "Year": "1988",
+    "ID": "83776"
+  },
+  {
+    "ListNumber": 9,
+    "Title": "Date Wine",
+    "Year": "1998",
+    "ID": "215041"
+  },
+  {
+    "ListNumber": 10,
+    "Title": "No Longer Kids",
+    "Year": "1979",
+    "ID": "9748"
+  },
+  {
+    "ListNumber": 11,
+    "Title": "The Land",
+    "Year": "1970",
+    "ID": "97128"
+  },
+  {
+    "ListNumber": 12,
+    "Title": "The Street Player",
+    "Year": "1983",
+    "ID": "182403"
+  },
+  {
+    "ListNumber": 13,
+    "Title": "Black Girl",
+    "Year": "1966",
+    "ID": "79080"
+  },
+  {
+    "ListNumber": 14,
+    "Title": "Land of Fear",
+    "Year": "2000",
+    "ID": "83962"
+  },
+  {
+    "ListNumber": 15,
+    "Title": "West Indies",
+    "Year": "1979",
+    "ID": "195159"
+  },
+  {
+    "ListNumber": 16,
+    "Title": "This Is Not a Burial, It’s a Resurrection",
+    "Year": "2019",
+    "ID": "544810"
+  },
+  {
+    "ListNumber": 17,
+    "Title": "The Night of Counting the Years",
+    "Year": "1969",
+    "ID": "18658"
+  },
+  {
+    "ListNumber": 18,
+    "Title": "Oh, Sun",
+    "Year": "1970",
+    "ID": "140635"
+  },
+  {
+    "ListNumber": 19,
+    "Title": "Hyenas",
+    "Year": "1992",
+    "ID": "97354"
+  },
+  {
+    "ListNumber": 20,
+    "Title": "El Keif",
+    "Year": "1985",
+    "ID": "143217"
+  },
+  {
+    "ListNumber": 21,
+    "Title": "Ibrahim El-Abyad",
+    "Year": "2009",
+    "ID": "83911"
+  },
+  {
+    "ListNumber": 22,
+    "Title": "La Promesse",
+    "Year": "1996",
+    "ID": "36956"
+  },
+  {
+    "ListNumber": 23,
+    "Title": "The Wife of an Important Man",
+    "Year": "1987",
+    "ID": "139013"
+  },
+  {
+    "ListNumber": 24,
+    "Title": "Moolaadé",
+    "Year": "2004",
+    "ID": "25185"
+  },
+  {
+    "ListNumber": 25,
+    "Title": "The Little Girl Who Sold the Sun",
+    "Year": "1999",
+    "ID": "87497"
+  },
+  {
+    "ListNumber": 26,
+    "Title": "The Innocent",
+    "Year": "1986",
+    "ID": "256615"
+  },
+  {
+    "ListNumber": 27,
+    "Title": "The Silences of the Palace",
+    "Year": "1994",
+    "ID": "20891"
+  },
+  {
+    "ListNumber": 28,
+    "Title": "Goodbye Julia",
+    "Year": "2023",
+    "ID": "1002478"
+  },
+  {
+    "ListNumber": 29,
+    "Title": "The Bus Driver",
+    "Year": "1982",
+    "ID": "139005"
+  },
+  {
+    "ListNumber": 30,
+    "Title": "Bad Black",
+    "Year": "2016",
+    "ID": "313003"
+  },
+  {
+    "ListNumber": 31,
+    "Title": "The Headmaster",
+    "Year": "2000",
+    "ID": "349345"
+  },
+  {
+    "ListNumber": 32,
+    "Title": "Papicha",
+    "Year": "2019",
+    "ID": "520319"
+  },
+  {
+    "ListNumber": 33,
+    "Title": "Lion of the Desert",
+    "Year": "1980",
+    "ID": "35002"
+  },
+  {
+    "ListNumber": 34,
+    "Title": "We Are the Bus People",
+    "Year": "1979",
+    "ID": "73559"
+  },
+  {
+    "ListNumber": 35,
+    "Title": "Crazy World",
+    "Year": "2014",
+    "ID": "548353"
+  },
+  {
+    "ListNumber": 36,
+    "Title": "Gone with No Return",
+    "Year": "1984",
+    "ID": "259661"
+  },
+  {
+    "ListNumber": 37,
+    "Title": "Emitaï",
+    "Year": "1971",
+    "ID": "100120"
+  },
+  {
+    "ListNumber": 38,
+    "Title": "A Cultural Film",
+    "Year": "2000",
+    "ID": "139061"
+  },
+  {
+    "ListNumber": 39,
+    "Title": "Terrorism and Kebab",
+    "Year": "1992",
+    "ID": "2389"
+  },
+  {
+    "ListNumber": 40,
+    "Title": "Chocolat",
+    "Year": "1988",
+    "ID": "23109"
+  },
+  {
+    "ListNumber": 41,
+    "Title": "Adrift on the Nile",
+    "Year": "1971",
+    "ID": "177301"
+  },
+  {
+    "ListNumber": 42,
+    "Title": "Sorry For Disturbance",
+    "Year": "2008",
+    "ID": "5920"
+  },
+  {
+    "ListNumber": 43,
+    "Title": "Where Do We Go Now?",
+    "Year": "2011",
+    "ID": "63915"
+  },
+  {
+    "ListNumber": 44,
+    "Title": "The Blue Caftan",
+    "Year": "2022",
+    "ID": "861954"
+  },
+  {
+    "ListNumber": 45,
+    "Title": "Alexandria… Why?",
+    "Year": "1979",
+    "ID": "24053"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "The Shame",
+    "Year": "1982",
+    "ID": "2045"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "Hotel Rwanda",
+    "Year": "2004",
+    "ID": "51848"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "An Egyptian Story",
+    "Year": "1982",
+    "ID": "97126"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "Sambizanga",
+    "Year": "1972",
+    "ID": "73717"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "Othello",
+    "Year": "1951",
+    "ID": "17717"
+  },
+  {
+    "ListNumber": 51,
+    "Title": "Touki Bouki",
+    "Year": "1973",
+    "ID": "64220"
+  },
+  {
+    "ListNumber": 52,
+    "Title": "Return Of The Prodigal Son",
+    "Year": "1976",
+    "ID": "91555"
+  },
+  {
+    "ListNumber": 53,
+    "Title": "Sometimes in April",
+    "Year": "2005",
+    "ID": "41606"
+  },
+  {
+    "ListNumber": 54,
+    "Title": "Cairo Station",
+    "Year": "1958",
+    "ID": "18067"
+  },
+  {
+    "ListNumber": 55,
+    "Title": "I Am Not a Witch",
+    "Year": "2017",
+    "ID": "381926"
+  },
+  {
+    "ListNumber": 56,
+    "Title": "District 9",
+    "Year": "2009",
+    "ID": "40860"
+  },
+  {
+    "ListNumber": 57,
+    "Title": "Clash",
+    "Year": "2016",
+    "ID": "327660"
+  },
+  {
+    "ListNumber": 58,
+    "Title": "In the Last Days of the City",
+    "Year": "2016",
+    "ID": "316729"
+  },
+  {
+    "ListNumber": 59,
+    "Title": "Mandabi",
+    "Year": "1968",
+    "ID": "81220"
+  },
+  {
+    "ListNumber": 60,
+    "Title": "Asmaa",
+    "Year": "2011",
+    "ID": "83876"
+  },
+  {
+    "ListNumber": 61,
+    "Title": "Supa Modo",
+    "Year": "2018",
+    "ID": "424451"
+  },
+  {
+    "ListNumber": 62,
+    "Title": "A Dinner Date",
+    "Year": "1981",
+    "ID": "182404"
+  },
+  {
+    "ListNumber": 63,
+    "Title": "Ali Zaoua: Prince of the Streets",
+    "Year": "2000",
+    "ID": "16416"
+  },
+  {
+    "ListNumber": 64,
+    "Title": "The Egg and the Stone",
+    "Year": "1990",
+    "ID": "248078"
+  },
+  {
+    "ListNumber": 65,
+    "Title": "Against the Government",
+    "Year": "1992",
+    "ID": "257051"
+  },
+  {
+    "ListNumber": 66,
+    "Title": "The Child of Another",
+    "Year": "1975",
+    "ID": "181529"
+  },
+  {
+    "ListNumber": 67,
+    "Title": "I Still Hide to Smoke",
+    "Year": "2016",
+    "ID": "356173"
+  },
+  {
+    "ListNumber": 68,
+    "Title": "Beauty and the Dogs",
+    "Year": "2017",
+    "ID": "384097"
+  },
+  {
+    "ListNumber": 69,
+    "Title": "Eshaet Hob",
+    "Year": "1960",
+    "ID": "257890"
+  },
+  {
+    "ListNumber": 70,
+    "Title": "Voy! Voy! Voy!",
+    "Year": "2023",
+    "ID": "1014459"
+  },
+  {
+    "ListNumber": 71,
+    "Title": "Bittersweet",
+    "Year": "2010",
+    "ID": "70714"
+  },
+  {
+    "ListNumber": 72,
+    "Title": "Messages from the Sea",
+    "Year": "2010",
+    "ID": "83878"
+  },
+  {
+    "ListNumber": 73,
+    "Title": "Horses of God",
+    "Year": "2011",
+    "ID": "103899"
+  },
+  {
+    "ListNumber": 74,
+    "Title": "The Yacoubian Building",
+    "Year": "2006",
+    "ID": "21080"
+  },
+  {
+    "ListNumber": 75,
+    "Title": "Microphone",
+    "Year": "2010",
+    "ID": "67886"
+  },
+  {
+    "ListNumber": 76,
+    "Title": "Bab'Aziz",
+    "Year": "2005",
+    "ID": "19408"
+  },
+  {
+    "ListNumber": 77,
+    "Title": "The Escape",
+    "Year": "1991",
+    "ID": "331068"
+  },
+  {
+    "ListNumber": 78,
+    "Title": "Casanegra",
+    "Year": "2008",
+    "ID": "18066"
+  },
+  {
+    "ListNumber": 79,
+    "Title": "In the Heliopolis Flat",
+    "Year": "2007",
+    "ID": "182401"
+  },
+  {
+    "ListNumber": 80,
+    "Title": "Eyimofe (This Is My Desire)",
+    "Year": "2020",
+    "ID": "590279"
+  },
+  {
+    "ListNumber": 81,
+    "Title": "Bamako",
+    "Year": "2006",
+    "ID": "4153"
+  },
+  {
+    "ListNumber": 82,
+    "Title": "The Blazing Sun",
+    "Year": "1954",
+    "ID": "143072"
+  },
+  {
+    "ListNumber": 83,
+    "Title": "Best Times",
+    "Year": "2004",
+    "ID": "105020"
+  },
+  {
+    "ListNumber": 84,
+    "Title": "Photocopy",
+    "Year": "2017",
+    "ID": "414196"
+  },
+  {
+    "ListNumber": 85,
+    "Title": "The Seventh Sense",
+    "Year": "2005",
+    "ID": "362887"
+  },
+  {
+    "ListNumber": 86,
+    "Title": "Adam",
+    "Year": "2019",
+    "ID": "523372"
+  },
+  {
+    "ListNumber": 87,
+    "Title": "Divine Intervention",
+    "Year": "2002",
+    "ID": "34238"
+  },
+  {
+    "ListNumber": 88,
+    "Title": "Cairo 6,7,8",
+    "Year": "2010",
+    "ID": "72101"
+  },
+  {
+    "ListNumber": 89,
+    "Title": "Sankofa",
+    "Year": "1993",
+    "ID": "52862"
+  },
+  {
+    "ListNumber": 90,
+    "Title": "Birds of Darkness",
+    "Year": "1995",
+    "ID": "307680"
+  },
+  {
+    "ListNumber": 91,
+    "Title": "Inshallah a Boy",
+    "Year": "2023",
+    "ID": "964029"
+  },
+  {
+    "ListNumber": 92,
+    "Title": "Museo",
+    "Year": "2018",
+    "ID": "408860"
+  },
+  {
+    "ListNumber": 93,
+    "Title": "Atlantics",
+    "Year": "2019",
+    "ID": "427321"
+  },
+  {
+    "ListNumber": 94,
+    "Title": "Al Avokato",
+    "Year": "1983",
+    "ID": "139123"
+  },
+  {
+    "ListNumber": 95,
+    "Title": "The Boy Who Harnessed the Wind",
+    "Year": "2019",
+    "ID": "422174"
+  },
+  {
+    "ListNumber": 96,
+    "Title": "Yeelen",
+    "Year": "1987",
+    "ID": "58144"
+  },
+  {
+    "ListNumber": 97,
+    "Title": "I Love Cinema",
+    "Year": "2004",
+    "ID": "139008"
+  },
+  {
+    "ListNumber": 98,
+    "Title": "The Suspect",
+    "Year": "1981",
+    "ID": "355024"
+  },
+  {
+    "ListNumber": 99,
+    "Title": "Chaos, This Is?",
+    "Year": "2007",
+    "ID": "121396"
+  },
+  {
+    "ListNumber": 100,
+    "Title": "Tito",
+    "Year": "2004",
+    "ID": "107484"
+  }
+]
